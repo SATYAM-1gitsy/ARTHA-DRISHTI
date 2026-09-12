@@ -1,0 +1,54 @@
+{
+  "work_id": 7,
+  "overall_risk": 0.7467,
+  "confidence": 0.7125,
+  "severity": "high",
+  "data_quality": 0.9,
+  "band": "high",
+  "corroborating_families": [
+    "financial",
+    "network"
+  ],
+  "layer_scores": {
+    "rules": 0.8,
+    "unsupervised": 0.71,
+    "graph": 0.66
+  },
+  "reasons": [
+    {
+      "code": "unit_cost_above_peers",
+      "text": "Unit cost is 2.9x the median of 340 comparable works in this sector and state (99.5th percentile).",
+      "family": "financial",
+      "severity": "high",
+      "provenance": "peer_derived",
+      "factors": {
+        "unit_cost_peer_percentile": 0.995,
+        "peer_group_size": 340
+      }
+    },
+    {
+      "code": "peer_group_outlier",
+      "text": "Cost and payment pattern sit in the top 1% of this peer group on three features.",
+      "family": "financial",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "ecod_score": 0.71
+      }
+    },
+    {
+      "code": "agency_concentration",
+      "text": "This agency holds 78% of the district's works this year (HHI 0.64).",
+      "family": "network",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "agency_district_share": 0.78,
+        "agency_hhi": 0.64
+      }
+    }
+  ],
+  "narrative": "Unit cost is 2.9x the median of 340 comparable works in this sector and state (99.5th percentile).; Cost and payment pattern sit in the top 1% of this peer group on three features.; This agency holds 78% of the district's works this year (HHI 0.64).. Corroborated across 2 independent evidence types (confidence 71%). Flagged for review, not a finding of wrongdoing.",
+  "escalated_by_rule": null,
+  "factors": {}
+}

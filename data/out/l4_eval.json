@@ -1,0 +1,18 @@
+{
+  "encode": "36 texts -> 384d in 4.04s (9/s) on cuda @ batch 4096 fp16 | peak 268 MB",
+  "dim": 384,
+  "lexical": "lexical (token_set_ratio): separation +0.020 (pos 0.187 / neg 0.167) | F1 0.242 @ t=0.45 | ROC-AUC 0.486 | cross-language recall 0.118 | hard negatives flagged 0.500",
+  "semantic": "semantic (multilingual MiniLM, GPU): separation +0.390 (pos 0.722 / neg 0.332) | F1 0.632 @ t=0.74 | ROC-AUC 0.939 | cross-language recall 0.588 | hard negatives flagged 0.389",
+  "lex": {
+    "f1": 0.24242424242424243,
+    "auc": 0.48604530967352916,
+    "xling": 0.11764705882352941,
+    "hard": 0.5
+  },
+  "sem": {
+    "f1": 0.631578947368421,
+    "auc": 0.9385821345507795,
+    "xling": 0.5882352941176471,
+    "hard": 0.3888888888888889
+  }
+}

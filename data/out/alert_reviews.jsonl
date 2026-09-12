@@ -1,0 +1,4 @@
+{"alert_id":3467,"reviewed_at":"2026-09-01T21:19:21+00:00","reviewer":"dc.office","from_status":"open","to_status":"under_review","outcome":"requires_field_inspection","note":"Sanction order and voucher requested from the DC office."}
+{"alert_id":4647,"reviewed_at":"2026-09-04T18:33:08+00:00","reviewer":"nodal.mh","from_status":"open","to_status":"under_review","outcome":"confirmed_issue","note":""}
+{"alert_id":3467,"reviewed_at":"2026-09-09T03:19:02+00:00","reviewer":"dc.office","from_status":"under_review","to_status":"resolved","outcome":"false_positive","note":""}
+{"alert_id":3467,"reviewed_at":"2026-09-09T03:19:15+00:00","reviewer":"dc.office","from_status":"resolved","to_status":"resolved","outcome":"duplicate_alert","note":""}

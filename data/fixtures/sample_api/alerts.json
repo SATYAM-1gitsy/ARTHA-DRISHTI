@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "alert_id": 1,
+      "work_id": 7,
+      "category": "cost_anomaly",
+      "severity": "high",
+      "band": "high",
+      "overall_risk": 0.7467,
+      "confidence": 0.7125,
+      "status": "open",
+      "created_at": "2026-04-01T09:15:00",
+      "assigned_to": null,
+      "summary": "Unit cost is 2.9x the median of 340 comparable works in this sector and state (99.5th percentile).; Cost and payment pattern sit in the top 1% of this peer group on three features.; This agency holds 78% of the district's works this year (HHI 0.64).. Corroborated across 2 independent evidence types (confidence 71%). Flagged for review, not a finding of wrongdoing."
+    }
+  ],
+  "total": 1,
+  "limit": 50,
+  "offset": 0
+}

@@ -1,0 +1,25 @@
+{
+  "total": 1139,
+  "by_band": {
+    "low": 14490,
+    "medium": 4246,
+    "high": 914,
+    "critical": 225
+  },
+  "by_status": {
+    "open": 1139,
+    "under_review": 0,
+    "resolved": 0,
+    "dismissed": 0
+  },
+  "by_family": {
+    "compliance": 847,
+    "financial": 531,
+    "temporal": 226,
+    "asset": 414,
+    "network": 223,
+    "textual": 126
+  },
+  "median_confidence": 0.7165,
+  "low_confidence_share": 0.1159
+}

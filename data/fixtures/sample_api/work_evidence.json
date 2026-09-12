@@ -1,0 +1,119 @@
+{
+  "work": {
+    "work_id": 7,
+    "description": "Construction of footpath at Ward 7",
+    "sector": "roads_bridges",
+    "work_type": "footpath",
+    "state": "Bihar",
+    "district_id": 6,
+    "status": "completed",
+    "sanctioned_cost": 693718.61,
+    "progress_pct": 28.0,
+    "sanction_date": "2025-04-20",
+    "band": "critical",
+    "overall_risk": 0.86,
+    "confidence": 0.88,
+    "data_quality": 0.983
+  },
+  "risk": {
+    "work_id": 7,
+    "overall_risk": 0.7467,
+    "confidence": 0.7125,
+    "severity": "high",
+    "data_quality": 0.9,
+    "band": "high",
+    "corroborating_families": [
+      "financial",
+      "network"
+    ],
+    "layer_scores": {
+      "rules": 0.8,
+      "unsupervised": 0.71,
+      "graph": 0.66
+    },
+    "reasons": [
+      {
+        "code": "unit_cost_above_peers",
+        "text": "Unit cost is 2.9x the median of 340 comparable works in this sector and state (99.5th percentile).",
+        "family": "financial",
+        "severity": "high",
+        "provenance": "peer_derived",
+        "factors": {
+          "unit_cost_peer_percentile": 0.995,
+          "peer_group_size": 340
+        }
+      },
+      {
+        "code": "peer_group_outlier",
+        "text": "Cost and payment pattern sit in the top 1% of this peer group on three features.",
+        "family": "financial",
+        "severity": "medium",
+        "provenance": "peer_derived",
+        "factors": {
+          "ecod_score": 0.71
+        }
+      },
+      {
+        "code": "agency_concentration",
+        "text": "This agency holds 78% of the district's works this year (HHI 0.64).",
+        "family": "network",
+        "severity": "medium",
+        "provenance": "peer_derived",
+        "factors": {
+          "agency_district_share": 0.78,
+          "agency_hhi": 0.64
+        }
+      }
+    ],
+    "narrative": "Unit cost is 2.9x the median of 340 comparable works in this sector and state (99.5th percentile).; Cost and payment pattern sit in the top 1% of this peer group on three features.; This agency holds 78% of the district's works this year (HHI 0.64).. Corroborated across 2 independent evidence types (confidence 71%). Flagged for review, not a finding of wrongdoing.",
+    "escalated_by_rule": null,
+    "factors": {}
+  },
+  "data_quality": {
+    "score": 0.983,
+    "missing_fields": [],
+    "geo_method": "bbox"
+  },
+  "peer_comparison": {
+    "peer_group": "sector x work_type x state",
+    "peer_group_size": 340,
+    "unit_cost_percentile": 0.995,
+    "median_peer_unit_cost": 1430.0
+  },
+  "duplicate_candidates": [],
+  "graph_evidence": {
+    "agency_district_share": 0.78,
+    "agency_hhi": 0.64
+  },
+  "timeline": [
+    {
+      "at": "2025-06-12",
+      "kind": "recommendation",
+      "label": "Recommended by MP"
+    },
+    {
+      "at": "2025-08-02",
+      "kind": "sanction",
+      "label": "Sanctioned",
+      "amount": 2410000.0
+    },
+    {
+      "at": "2025-09-18",
+      "kind": "payment",
+      "label": "Advance paid",
+      "amount": 1800000.0
+    },
+    {
+      "at": "2026-01-20",
+      "kind": "progress",
+      "label": "Progress update",
+      "progress_pct": 35.0
+    }
+  ],
+  "recommended_checks": [
+    "Request the measurement book and compare quantities against the sanctioned estimate.",
+    "Obtain the utilisation certificate and reconcile it against recorded payments.",
+    "Confirm the asset location on site against the recorded coordinates."
+  ],
+  "disclaimer": "Flagged for review based on statistical and rule-based signals. This is not a finding of wrongdoing."
+}

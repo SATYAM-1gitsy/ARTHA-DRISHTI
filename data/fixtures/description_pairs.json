@@ -1,0 +1,57 @@
+{
+  "_about": "Validation corpus for L4 semantic duplicate detection. Hand-written, not generated, so it is independent of the synthetic generator and can be used to check the encoder before the generator exists. `group` identifies the underlying physical work: two records sharing a group describe the same work and should embed close together; different groups should not. Hard negatives are deliberately lexically similar but describe different works, which is where a naive similarity threshold fails.",
+  "_labels": {
+    "group": "same value = same physical work (a true duplicate pair)",
+    "lang": "en | hi | mixed",
+    "kind": "primary | translation | paraphrase | translit | hard_negative"
+  },
+  "items": [
+    { "id": 1,  "group": "road_a",    "lang": "en",    "kind": "primary",      "text": "Construction of village road from Panchayat Bhavan to primary school, Ward 4" },
+    { "id": 2,  "group": "road_a",    "lang": "hi",    "kind": "translation",  "text": "पंचायत भवन से प्राथमिक विद्यालय तक ग्रामीण सड़क का निर्माण, वार्ड 4" },
+    { "id": 3,  "group": "road_a",    "lang": "en",    "kind": "paraphrase",   "text": "Building a rural road connecting the panchayat office to the primary school in ward no. 4" },
+    { "id": 4,  "group": "road_a",    "lang": "mixed", "kind": "translit",     "text": "Nirman of gramin sadak from Panchayat Bhawan to Prathmik Vidyalaya, Ward-4" },
+
+    { "id": 5,  "group": "pump_a",    "lang": "en",    "kind": "primary",      "text": "Installation of India Mark-II handpump at Harijan Basti, Ward 7" },
+    { "id": 6,  "group": "pump_a",    "lang": "hi",    "kind": "translation",  "text": "हरिजन बस्ती, वार्ड 7 में इंडिया मार्क-2 हैंडपंप की स्थापना" },
+    { "id": 7,  "group": "pump_a",    "lang": "mixed", "kind": "translit",     "text": "Handpump sthapna at Harijan Basti Ward 7 (India Mark 2)" },
+
+    { "id": 8,  "group": "wall_a",    "lang": "en",    "kind": "primary",      "text": "Construction of boundary wall for Government Primary School, Rampur" },
+    { "id": 9,  "group": "wall_a",    "lang": "hi",    "kind": "translation",  "text": "राजकीय प्राथमिक विद्यालय, रामपुर की चारदीवारी का निर्माण" },
+    { "id": 10, "group": "wall_a",    "lang": "en",    "kind": "paraphrase",   "text": "Erecting a compound wall around the govt. primary school at Rampur village" },
+
+    { "id": 11, "group": "light_a",   "lang": "en",    "kind": "primary",      "text": "Installation of 20 solar street lights along the main market road" },
+    { "id": 12, "group": "light_a",   "lang": "hi",    "kind": "translation",  "text": "मुख्य बाजार मार्ग पर 20 सोलर स्ट्रीट लाइट लगाने का कार्य" },
+
+    { "id": 13, "group": "hall_a",    "lang": "en",    "kind": "primary",      "text": "Construction of community hall in Gram Panchayat Sultanpur" },
+    { "id": 14, "group": "hall_a",    "lang": "hi",    "kind": "translation",  "text": "ग्राम पंचायत सुल्तानपुर में सामुदायिक भवन का निर्माण" },
+
+    { "id": 15, "group": "drain_a",   "lang": "en",    "kind": "primary",      "text": "Construction of pucca drainage from bus stand to canal, Ward 2" },
+    { "id": 16, "group": "drain_a",   "lang": "hi",    "kind": "translation",  "text": "बस स्टैंड से नहर तक पक्की नाली निर्माण कार्य, वार्ड 2" },
+
+    { "id": 17, "group": "tank_a",    "lang": "en",    "kind": "primary",      "text": "Construction of overhead drinking water tank of 5000 litre capacity" },
+    { "id": 18, "group": "tank_a",    "lang": "hi",    "kind": "translation",  "text": "5000 लीटर क्षमता की पेयजल टंकी का निर्माण" },
+
+    { "id": 19, "group": "shelter_a", "lang": "en",    "kind": "primary",      "text": "Construction of bus shelter near Block Development Office" },
+    { "id": 20, "group": "shelter_a", "lang": "hi",    "kind": "translation",  "text": "खंड विकास कार्यालय के पास बस स्टॉप शेड का निर्माण" },
+
+    { "id": 21, "group": "phc_a",     "lang": "en",    "kind": "primary",      "text": "Construction of waiting hall at Primary Health Centre, Nandgaon" },
+    { "id": 22, "group": "phc_a",     "lang": "hi",    "kind": "translation",  "text": "प्राथमिक स्वास्थ्य केंद्र, नंदगांव में प्रतीक्षालय का निर्माण" },
+
+    { "id": 23, "group": "play_a",    "lang": "en",    "kind": "primary",      "text": "Development of playground with open gym equipment at Zilla Parishad school" },
+    { "id": 24, "group": "play_a",    "lang": "hi",    "kind": "translation",  "text": "जिला परिषद विद्यालय में खुले जिम उपकरण के साथ खेल मैदान का विकास" },
+
+    { "id": 25, "group": "wall_b",    "lang": "en",    "kind": "hard_negative", "text": "Construction of boundary wall for the village crematorium, Rampur" },
+    { "id": 26, "group": "wall_c",    "lang": "en",    "kind": "hard_negative", "text": "Construction of boundary wall for Government Primary School, Rajpur" },
+    { "id": 27, "group": "pump_b",    "lang": "en",    "kind": "hard_negative", "text": "Repair and rebore of existing handpump at Harijan Basti, Ward 7" },
+    { "id": 28, "group": "road_b",    "lang": "en",    "kind": "hard_negative", "text": "Construction of village road from Panchayat Bhavan to primary school, Ward 9" },
+    { "id": 29, "group": "light_b",   "lang": "en",    "kind": "hard_negative", "text": "Installation of 20 high mast lights along the main market road" },
+    { "id": 30, "group": "drain_b",   "lang": "hi",    "kind": "hard_negative", "text": "बस स्टैंड से नहर तक कच्ची नाली की सफाई कार्य, वार्ड 2" },
+
+    { "id": 31, "group": "misc_a",    "lang": "en",    "kind": "primary",      "text": "Supply and installation of RO water purifier unit at Anganwadi centre" },
+    { "id": 32, "group": "misc_b",    "lang": "en",    "kind": "primary",      "text": "Construction of cattle shed and fodder store for dairy cooperative" },
+    { "id": 33, "group": "misc_c",    "lang": "hi",    "kind": "primary",      "text": "श्मशान घाट पर टीन शेड एवं बैठने की व्यवस्था का निर्माण" },
+    { "id": 34, "group": "misc_d",    "lang": "en",    "kind": "primary",      "text": "Purchase of computers and printers for the district library" },
+    { "id": 35, "group": "misc_e",    "lang": "hi",    "kind": "primary",      "text": "आंगनवाड़ी केंद्र भवन की मरम्मत एवं रंगाई पुताई" },
+    { "id": 36, "group": "misc_f",    "lang": "en",    "kind": "primary",      "text": "Laying of CC pavement in the weekly vegetable market area" }
+  ]
+}

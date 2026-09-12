@@ -1,0 +1,123 @@
+[
+  {
+    "work_id": 7,
+    "pattern": "cost_inflation",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "high",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 23,
+    "pattern": "pre_sanction_payment",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "critical",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 41,
+    "pattern": "ghost_work",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "critical",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 58,
+    "pattern": "duplicate_work",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "high",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 77,
+    "pattern": "advance_without_progress",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "medium",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 96,
+    "pattern": "agency_concentration",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "medium",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 112,
+    "pattern": "ineligible_work",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "high",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 134,
+    "pattern": "split_payment",
+    "injected": true,
+    "visibility": "rule_visible",
+    "severity": "medium",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 150,
+    "pattern": "geographic_displacement",
+    "injected": true,
+    "visibility": "held_out",
+    "severity": "high",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 171,
+    "pattern": "year_end_bunching",
+    "injected": true,
+    "visibility": "held_out",
+    "severity": "medium",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  },
+  {
+    "work_id": 188,
+    "pattern": "photo_reuse",
+    "injected": true,
+    "visibility": "held_out",
+    "severity": "critical",
+    "source": "synthetic_injection",
+    "parameters": {
+      "fixture": true
+    }
+  }
+]

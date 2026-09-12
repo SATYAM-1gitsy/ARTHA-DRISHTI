@@ -1,0 +1,3684 @@
+
+
+===PAGE===
+
+Guidelines on
+ 
+Members of Parliament
+ 
+Local Area Development Scheme
+ 
+(MPLADS)
+ 
+Government of India 
+Ministry of Statistics and Programme Implementation
+ 
+Sardar Patel Bhavan, Parliament Street, New Delhi- 110001 
+Website : www.mplads.nic.in
+ 
+June 2016
+ 
+
+===PAGE===
+
+CONTENTS 
+S. No. Subject Page No. 
+1. Message from Hon’ble Minister .................................................................
+ ii 
+2. Preface by Secretary MOSPI ......................................................................
+ iii 
+3. Important Telephone Nos ............................................................................
+ iv 
+4. Background .................................................................................................
+ 1 
+5. Features ....................................................................................................... 2
+ 
+6. Implementation ............................................................................................ 6
+ 
+7. Fund Release & Management ...................................................................... 18
+ 
+8. Accounting Procedure .................................................................................. 24
+ 
+9. Monitoring ................................................................................................... 26
+ 
+10. Application of the Guidelines ...................................................................... 30
+ 
+11. Annexure-I .................................................................................................. 31
+ 
+12. Annexure-II .................................................................................................. 32
+ 
+13. Annexure-IIA ............................................................................................... 34
+ 
+14. Annexure-III ................................................................................................. 44
+ 
+15. Annexure-IV A............................................................................................. 45
+ 
+16. Annexure-IVB ............................................................................................. 47
+ 
+17. Annexure-IVC .............................................................................................. 49
+ 
+18. Annexure-IVD .............................................................................................. 51
+ 
+19. Annexure-IVE .............................................................................................. 53
+ 
+20. Annexure-V ................................................................................................... 59
+ 
+21. Annexure-VI .................................................................................................. 61
+ 
+22. Annexure-VII ................................................................................................. 64
+ 
+23. Annexure-VIII ............................................................................................... 65
+ 
+24. Annexure-IX .................................................................................................. 66
+ 
+25. Annexure-X ...................................................................................................
+ 68 
+26. Annexure-XA ...............................................................................................
+ 71 
+27. Annexure-XB ...............................................................................................
+ 72 
+28. Annexure-XI .................................................................................................
+ 73 
+29. Annexure-XII ................................................................................................
+ 74 
+i 
+
+===PAGE===
+
+iiiii
+ 
+
+===PAGE===
+
+PREFACE 
+Members of Parliament Local Area Development Scheme is for Development works and 
+creation of durable community assets. Individual benefits and movable & non-durable assets 
+(certain exemptions excepted) are generally not allowed under the scheme.  The emphasis is on 
+creation of durable community assets based on locally felt needs in the arenas of roads, electricity, 
+drinking water, health and education etc. 
+The recommendations of the works are made by the Members of Parliament for the betterment 
+of the community. These works are executed by District Authorities in accordance with the 
+respective State Government’s financial, technical and administrative rules. 
+Implementation of the scheme is governed by the Guidelines on MPLADS which were first 
+issued in February 1994 and have been updated from time to time. Last updation was in May 2014. 
+The current issue is based on the circulars issued thereafter, keeping in view the recommendation 
+of the   Parliamentary committees on MPLADS, observations made by comptroller and Auditor 
+General of India, suggestions received from Members of Parliament & other stakeholders and 
+feedback received from the State Governments during Review Meetings 
+The Guidelines on MPLADS June 2016 include instructions for implementation of the 
+schemes announced by the Hon’ble Prime Minister such as Swachh Bharat Abhiyan, Accessible 
+India Campaign (Sugamya Bharat Abhiyan), conservation of water through rain water harvesting 
+and Sansad Aadarsh Gram Yojana etc. 
+I wish to convey my sincere thanks to the staff and Officers of the Ministry and hope that 
+compilation will prove to be useful to the Hon’ble Members of Parliament, District Authorities 
+and States/UT Governments. 
+(T.C.A. ANANT)
+ 
+viii 
+
+===PAGE===
+
+     
+      
+        
+       
+        
+      
+    
+       
+    
+     
+      
+    
+ 
+  
+       
+      
+       
+      
+  
+       
+     
+       
+      
+IMPORTANT TELEPHONE NUMBERS
+ 
+Ministry of Statistics & Programme Implementation
+ 
+Name/Designation Telephone (O) 
+MOS (S & PI) 23340884, 23340739 
+23367245, 23747135 (Fax) 
+PS to MOS 23340884, 23340739 
+23367245, 23747135 (Fax) 
+Secretary, MOSPI 23742150, 23344689, 23742067 (Fax) 
+Additional Secretary, MOSPI 23344551, 23362878 (Fax) 
+AS & FA 23384360, 23389388, 23381363 (Fax) 
+Deputy Director General (PI) 23746725, 23746725 (Fax) 
+Director (MPLADS) 23344933, 23364197 (Fax) 
+Director (IFD) 23364196 
+Joint Director (MPLADS) 23364193 
+Lok Sabha Committee on MPLADS 
+Chairman 23034115, 23017576 (Fax) 
+Joint Secretary 23035571, 23035569 
+Director 23035383, 23034866 
+Deputy Secretary 23034013 
+Rajya Sabha Committee on MPLADS 
+Chairman 23017371, 23034689, 23012559 (Fax) 
+Additional Secretary 23034206 
+Director 23034201 
+Joint Director 23035425 
+viiiv 
+
+===PAGE===
+
+1 
+GUIDELINES OF MPLADS
+       
+ 
+ 
+ 
+  
+  
+ 
+ 
+   
+GUIDELINES ON 
+MEMBERS OF PARLIAMENT LOCAL AREA
+ 
+DEVELOPMENT SCHEME
+ 
+1. BACKGROUND
+ 
+1.1 	 The general public approach Members of Parliament (MPs) for provision of certain basic 
+facilities to meet the felt needs of the people. 
+1.2	 On 23rd December 1993 Prime Minister had announced the Members of Parliament Local 
+Area Development Scheme (MPLADS) in the Parliament.  Initially the MPLADS was under 
+the control of the Ministry of Rural Development. The 1st Guidelines were issued in February 
+1994, covering the concept, implementation and monitoring of the Scheme. The MPLAD 
+Scheme was transferred to the Ministry of Statistics and Programme Implementation in 
+October 1994. The Guidelines were subsequently revised in December 1994, February 
+1997, September 1999, April 2002, November 2005, August 2012 and lastly in May 2014. 
+The present comprehensive revision of guidelines is based on the experience gained over 
+22 years and having considered the suggestions made by the various stakeholders including 
+Members of Parliament, both the Committees of the Lok Sabha/Rajya Sabha, NABARD 
+consultancy services (NABCONS) and Comptroller and Auditor General of India in its 
+Reports. 
+1.3	 The objective of the scheme is to enable MPs to recommend works of developmental 
+nature with emphasis on the creation of durable community assets based on the locally felt 
+needs to be taken up in their Constituencies. Right from inception of the Scheme, durable 
+assets of national priorities viz. drinking water, primary education, public health, sanitation 
+and roads, etc. are being created. 
+1.4	 In 1993-94, when the Scheme was launched, an amount of Rs. 5 lakh per Member of 
+Parliament was allotted which became Rupees one crore per annum per MP constituency 
+from 1994-95. This was stepped up to Rs. 2 crore from 1998-99 and now it is Rs.5 crore 
+from the financial year 2011-12. 
+1.5	 The Ministry of Statistics and Programme Implementation has been responsible for the policy 
+formulation, release of funds and prescribing monitoring mechanism for implementation 
+of the Scheme. A Department in each State/UT is designated as the Nodal Department with 
+the overall responsibility of supervision, monitoring and coordination of the MPLADS 
+implementation with the districts and other Line Departments. The Government of India 
+informs the State Nodal Department about the MPLADS funds released to the District 
+Authorities. The District Authorities report the status of MPLADS implementation to the 
+Government of India and State Nodal Department. 
+
+===PAGE===
+
+2 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+2. Features
+ 
+2.1	 The MPLADS is a Plan Scheme fully funded by Government of India. The annual MPLADS 
+fund entitlement per MP constituency is Rs. 5 crore. 
+2.2	 Lok Sabha Members can recommend works within their Constituencies and Elected 
+Members of Rajya Sabha can recommend works within the State of Election except as 
+provided in paras 2.8 and 2.9. Nominated Members of both the Rajya Sabha and Lok Sabha 
+can recommend works anywhere in the country. 
+2.3	 A Member of Parliament shall give his choice of Nodal District in Annexure I of the 
+guidelines to the Ministry of Statistics and Programme Implementation with copy to the 
+State Government and to the District Magistrate of the chosen District. If a Lok Sabha 
+Constituency is spread over more than one District, the Member of Parliament can choose 
+any one of the Districts as Nodal District in his/her constituency. The Rajya Sabha MP can 
+choose any District in his/her State of Election as Nodal District. Nominated Members of 
+both Rajya Sabha and Lok Sabha can choose any District in the country as Nodal District. 
+2.4	 All works to meet locally felt infrastructure and development needs, with an emphasis on 
+creation of durable assets in the constituency are permissible under MPLADS except those 
+prohibited in Annexure-II. Expenditure on specified items of non durable nature are also 
+permitted as per list in the Annexure-IIA. 
+2.5	 Development of Areas inhabited by Scheduled Caste and Scheduled Tribe: There is 
+a greater need to develop areas inhabited by Scheduled Castes and Scheduled Tribes in 
+order to give special attention for the infrastructure development of such areas. M.Ps are 
+to recommend every year, works costing at least 15 per cent of the MPLADS entitlement 
+for the year for areas inhabited by Scheduled Caste population and 7.5 per cent for areas 
+inhabited by S.T. population.  In other words, out of an amount of Rs.5 crores, a M.P. shall 
+recommend for areas inhabited by S.C. population, Rs.75 lacs and Rs.37.5 lacs for areas 
+inhabited by S.T. population. In case there is insufficient tribal population in the area of 
+Lok Sabha Member, they may recommend this amount for the creation of community 
+assets in tribal areas outside of their constituency but within their State of election. In case 
+a State  does not have S.T. inhabited areas, this amount may be utilized in S.C. inhabited 
+areas and vice-versa. It shall be the responsibility of the district authority to enforce the 
+provision of the guideline. In order to facilitate implementation of this guideline, it will 
+be responsibility of the district authority keeping in view the extant provisions of State 
+and Central Government’s to declare areas eligible for utilization for funds meant for the 
+benefit of SC & ST population. 
+
+===PAGE===
+
+3 
+GUIDELINES OF MPLADS
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+2.5.1	 The additional amount of Rs.25 lakh to be spent in the tribal areas only: In order to 
+encourage trusts and societies for the betterment of tribal people, the ceiling of Rs. 50 lakh 
+stipulated for building assets by trusts and societies in Para 3.21.2 of the Guidelines, will 
+be enhanced by 50% to Rs. 75 lakh subject to conditions (a) The community building work 
+are primarily for the benefit of tribal people in tribal areas. (b) The works undertaken and 
+the beneficiary Trust/Society should satisfy all other conditions of Guidelines of MPLADS. 
+In the Tribal areas and notified Scheduled areas where transferring land title is not 
+possible, the MPLADS works for the creation of  community assets may be guided by the 
+same practice through  which the State Government undertake the creation of all other 
+public works like schools, hospitals, roads, etc. under other Central/State Government 
+developmental scheme. This will, however, be subject to the conditions that an undertaking 
+will be given by the land owner that he will not claim any right on such land or the assets 
+created thereon once the land is given to the Government for public use and that there will 
+be free access for use of the asset by all members of community besides fulfillment of all 
+other conditions of the MPLADS Guidelines. 
+2.5.2	 In case any constituency faces difficulty in implementing the provisions relating to SC/ST 
+as stipulated in the Guidelines of MPLADS, owing to inadequate SC/ST population, the 
+exemption from the stipulated provision for utilization of MPLADS funds can be made by 
+the concerned Nodal District Authority with the prior approval of the Ministry of Statistics 
+and Programme Implementation. The concerned Nodal District Authority, in consultation 
+with the MP concerned, should send a justified and logical proposal, through the State 
+Government, seeking utilization of the stipulated amount for the welfare of the other 
+economically deprived sections of population in the constituency. 
+2.5.3	 The District Authorities should maintain information and data on implementation of the 
+provision for SC/ST areas including inter changeability of funds and also furnish the same 
+on quarterly basis to the nodal department of the State Government. 
+2.6 	 Recommendation/Sanction of the works: Each MP will recommend works up to the 
+annual entitlement during the financial year in the format at Annexure-III to the concerned 
+District Authority. The District Authority will get the eligible sanctioned works executed as 
+per the established procedure of the State Government. (in the matter of technical sanction, 
+tender/non-tender, schedule of rates, etc. However, powers to grant administrative sanction/ 
+approval will continue to remain with District Authority). 
+2.7	 Natural & Man-made Calamities: MPLADS works can also be implemented in the areas 
+prone to or affected by the calamities like floods, cyclone, Tsunami, earthquake, hailstorm, 
+avalanche, cloud burst, pest attack, landslides, tornado, drought, fire, chemical, biological 
+and radiological hazards. Lok  Sabha MPs from the non-affected areas of the State can also 
+
+===PAGE===
+
+4 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+ 
+  
+ 
+recommend permissible works up to a maximum of Rs.25 lakh per annum in the affected 
+area(s) in that State. The funds would be released by the Nodal district of the MP concerned 
+to the District Authority of the affected district. MPLADS funds may be pooled by the 
+District Authority of the affected district for works permissible in the Guidelines. The 
+amount so transferred from the nodal district to the natural calamity affected district may be 
+shown in the UCs as well as MPRs as amount transferred to natural calamity affected district 
+for rehabilitation work. The Works Completion Report, Audit Certificate and Utilization 
+Certificate for such works and funds will be provided by the District Authority of the 
+affected districts directly to the Ministry of Statistics and Programme Implementation for 
+overall reconciliation. No separate UC/AC/Completion Report in respect of the transferred 
+amount would be required from the Nodal District authority in this regard while processing 
+release of subsequent installment of MPLADS funds. 
+2.7.1	 The Nodal Department shall identify the rehabilitation works within a period of one month 
+of commitment of MPLADS funds and the rehabilitation works should be completed by 
+the concerned District Authority within 8 months of the approval of the works. In case 
+more time is required to complete the works, the Nodal Department, in consultation with 
+MOSPI, may allow such additional time as may be reasonable for completion of the works. 
+2.8	 In the event of “Calamity of severe nature” in any part of the country, an MP can recommend 
+works up to a maximum of Rs.1 crore for the affected district. Whether a calamity is of 
+severe nature or not, will be decided by the Government of India. The funds in this regard 
+will be released by the District Authority of Nodal district of the MP concerned to the 
+District Authority of the affected district to get permissible works done. The amount so 
+transferred from the nodal district to the natural calamity affected district may be shown 
+in the UCs as well as MPRs as amount transferred to natural calamity affected district 
+for rehabilitation work. The Works Completion Report, Audit Certificate and Utilization 
+Certificate for such works and funds will be provided by the District Authority of the 
+affected districts directly to the Ministry of Statistics and Programme Implementation for 
+overall reconciliation. No separate UC/AC/Completion Report in respect of the transferred 
+amount would be required from the Nodal District authority in this regard while processing 
+release of subsequent installment of MPLADS funds. 
+2.8.1 	 The Nodal Department shall identify the rehabilitation works within a period of one month 
+of commitment of MPLADS funds and the rehabilitation works should be completed by 
+the concerned District Authority within 8 months of the approval of the works. In case 
+more time is required to complete the work, the Nodal Department, in consultation with 
+MOSPI, may allow more time for completion of works. 
+2.9	 Contribution of MPLADS funds to a place outside MPs constituency or outside his 
+State/UT: If an elected Member of Parliament finds the need to contribute MPLADS funds 
+
+===PAGE===
+
+5 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+  
+  
+  
+ 
+to a place outside that State/UT, or outside the constituency within the State, or both, the MP 
+can recommend eligible works under these Guidelines up to a maximum of Rs. 25 lakh in 
+a financial year. Such a gesture on the part of an MP will promote national unity, harmony, 
+and fraternity among the people at the grassroots level. In such cases the Nodal District 
+Authority will be fully responsible for coordination and other functions bestowed on him 
+in the Guidelines. The Completion Report, Utilization Certificate and Audit Certificate 
+for such works will be provided by the Implementing District Authority to the respective 
+Nodal District Authority from whom the funds were received. 
+2.9.1	 Provided that the contribution outside the constituency/State will not be allowed for Trusts/ 
+Societies and Cooperative Societies. 
+2.10	 District Authority: District Collector/District Magistrate/Deputy Commissioner will 
+generally be the District Authority to implement MPLADS in the district. If the District 
+Planning Committee is empowered by the State Government, the Chief Executive Officer of 
+the District Planning Committee can function as the District Authority. In case of Municipal 
+Corporations, the Commissioner/Chief Executive Officer may function as the District 
+Authority. In this regard, if there is any doubt, Government of India in consultation with 
+the State/UT Government, will decide the District Authority for the purpose of MPLADS 
+implementation. 
+2.11	 Implementing Agency: 
+(a)	 The District Authority shall make the selection of an appropriate Implementing 
+Agency through which a particular work recommended by an MP would be executed; 
+(b)	 The selection of the Implementing Agency shall be undertaken in accordance with 
+the State Government rules/guidelines applicable for the purpose. Provided that 
+for certain works in certain Central Government Ministries/Organizations (like 
+Railways) where the Implementing Agency has necessarily to be the concerned 
+Central Government Ministry/Organization, the same shall be selected as the 
+Implementing Agency. 
+
+===PAGE===
+
+6 
+GUIDELINES OF MPLADS
+ 
+       
+  
+ 
+  
+  
+   
+  
+ 
+3. 	 IMPLEMENTATION 
+3.1	 Each MP shall recommend eligible work on the MP’s letter head duly signed by the MP 
+A letter format from the MP to the district authority is at Annexure-III.  Recommendations 
+by third parties and representatives of MP’s are not admissible and cannot be acted upon. 
+3.2	 In case a constituency comprises of more than one district and the MP wishes to recommend 
+works in the district other than the Nodal District, in such cases the works list in the 
+prescribed format shall be given to the District Authority of the Nodal District with copy 
+to the District Authority in whose jurisdiction the proposed works are to be executed. 
+The District Authority in whose jurisdiction, the proposed works are to be executed, will 
+maintain proper accounts, follow proper procedure for sanction and implementation for 
+timely completion of works. The District Authority will furnish monthly progress reports, 
+work completion reports, and audit certificates for such works to the Nodal District 
+Authority. 
+3.3	 The District Authority shall identify the Implementing Agency capable of executing the 
+eligible work qualitatively, timely and satisfactorily. The District Authority shall follow 
+the established work scrutiny; technical, work estimation, tendering and administrative 
+procedure of the State/UT Government concerned in the matter of work execution and 
+shall be responsible for timely and effective implementation of such works. 
+3.3.1 	 Completion of abandoned/suspended works: In case, there is still any abandoned/ 
+suspended MPLAD work under the Scheme, it shall be completed by the State Government 
+from their own funds. The State Government will also fix responsibility and take necessary 
+disciplinary action against the erring officials. The District Authority may ensure that the 
+funds must have been utilized as sanctioned earlier so that duplication of allocation of 
+funds does not take place. 
+3.4	 The work and the site selected for the work execution by the MP shall not be changed, 
+except with the concurrence of the MP concerned, but change will not be allowed once the 
+work has commenced and expenditure liability incurred. 
+3.5	 Where the District Authority considers that a recommended work cannot be executed due 
+to some reason, the District Authority shall inform the reasons to the MP concerned, under 
+intimation to the Government of India and the State/UT Government as early as possible 
+but not later than 45 days from the date of receipt of the proposal. 
+3.6	 The District Authority should get in advance a firm commitment about the operation, 
+upkeep and maintenance of the proposed asset from the User Agency concerned before the 
+execution of the work is sanctioned. 
+
+===PAGE===
+
+7 
+GUIDELINES OF MPLADS
+  
+ 
+  
+  
+   
+  
+ 
+  
+ 
+ 
+3.7	 The District Authority may sanction works as per the recommendation of the MP up to 
+the full entitlement. However, the release of funds will be regulated as specified in these 
+Guidelines. 
+3.8	 If the estimated amount for a work is more than the amount indicated by the MP for the 
+same, MP’s further consent is necessary before the sanction is accorded. 
+3.9	 The work should be sanctioned and executed only if the MP concerned has allocated the 
+full estimated cost of the work in the year. If the commitment for the full estimated amount 
+is not forthcoming and the amount recommended by the MP is less than the estimates 
+for the work and there are no other sources from which the deficit can be made good, 
+then the work should not be sanctioned, as in such an eventuality, the project will remain 
+incomplete for want of sufficient funds. The shortfall in the estimated cost vis-à-vis the one 
+recommended by the MP should be intimated to the MP as early possible but not later than 
+75 days of the receipt of the proposal. 
+3.10	 In case, recommendations received by the District Authority exceeds the entitlement of the 
+MP, priority will be as per the principle of first received to be first considered. 
+3.11	 All works for which recommendations are received in the office of the District Authority 
+till the last date of the term of the MP are to be executed, provided these are as per norms 
+and within the entitlement of MPLADS funds of the MP. 
+3.12	 All recommended eligible works should be sanctioned within 75 days from the date of 
+receipt of the recommendation, after completing all formalities. The District Authority 
+shall, however, inform MPs regarding rejection, if any, within 45 days from the date of 
+receipt of recommendations, with reasons thereof. 
+In case of the time limits mentioned in the section falling within the period of operation of 
+model code of conduct notified by the Election Commission, then such period as notified 
+by model code of conduct will not be included in the reckoning of time limits. 
+3.13	 The sanction letter/order shall stipulate a time limit for completion of the work to the 
+Implementation Agency. The time limit for completion of the works should generally not 
+exceed one year. In exceptional cases, where the implementation time exceeds one year, 
+specific reasons for the same shall be incorporated in the sanction letter/order. The sanction 
+letter/order shall also include a clause for suitable action against the Implementation 
+Agency in the event of their failure to complete the work within the stipulated time as per 
+the State Government Procedure. A copy of the sanction letter/order shall be sent to the MP 
+concerned. 
+3.14	 Decision making powers in regard to technical, financial and administrative sanctions to 
+be accorded under the Scheme, vest in the district level functionaries. To facilitate quick 
+
+===PAGE===
+
+8 
+GUIDELINES OF MPLADS
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+implementation of projects under this Scheme, full powers should be delegated by the State/ 
+UT Governments to the district functionaries. The District Authorities will have full powers 
+to get the works technically approved and financial estimates prepared by the competent 
+district functionaries before according the final administrative sanction and approval. 
+The District Authority should, before sanctioning the work, ensure that all clearances for 
+such works have been taken from the competent authorities and the work conforms to the 
+Guidelines. 
+3.15	 The work, once recommended by the MP and sanctioned by the District Authority may be 
+cancelled if so desired by the MP, only if the execution of the work has not commenced and 
+the cancellation does not lead to any contractual financial liability/cost on the Government. 
+If for some compelling reasons, stoppage/abandonment of a work in progress becomes 
+inevitable, the matter should be referred to the State Nodal Department with full justification 
+for a decision under intimation to the Government of India and to the MP concerned. 
+Such works cannot be changed by MP even if the MP is reelected. It shall be the responsibility 
+of the Nodal District Authority to scrutinize all such recommended works within 75 days 
+of the last date of the term of office of the MP to accord necessary sanction as per the 
+Guidelines and rejection, if any, to be intimated to the outgoing/former MP within 45 days 
+with reasons. 
+Nothing in this clause will allow any successor MP to cancel any otherwise eligible works 
+recommended by his predecessor. 
+3.16	 On receipt of  the recommendation of the works  from the MP,  and issue of the work 
+sanction order by the District Authority, the District Authority should ensure that details 
+of the work sanctioned are entered in the Input Format (Annexure-IV A, B, C, D and E) 
+and uploaded in the MPLADS website (www.mplads.nic.in). All works already executed 
+or under execution need to go through similar process and all entries would be made in 
+a time bound manner. The Software Manual for Monitoring of Works under MPLADS is 
+available on the website. 
+3.17	 MPLAD Scheme can be converged in individual/stand-alone projects of other Central and 
+State Government schemes provided such works of Central/State Governments Schemes 
+are eligible under MPLADS. Funds from local bodies can similarly also be pooled with 
+MPLADS works. Wherever such pooling is done, funds from other scheme sources should 
+be used first and the MPLADS funds should be released later, so that MPLADS fund 
+results in completion of the project. 
+3.17.1 Special provision for convergence of Members of Parliament Local Area Development 
+(MPLADS) with MGNREGA: Funds from Member of Parliament Local Area 
+Development Scheme (MPLADS) can be converged with MGNREGA with the objective 
+of creating more durable assets. 
+
+===PAGE===
+
+9 
+GUIDELINES OF MPLADS
+ 
+ 
+  
+ 
+ 
+ 
+ 
+(The detailed procedure may be seen at Annexure-IIA) 
+3.17.2 Special provision for convergence of Members of Parliament Local Area Development 
+(MPLADS) with Khelo India: National Programme for Development of Sports: 
+Funds from Member of Parliament Local Area Development Scheme (MPLADS) can be 
+converged with Khelo India: National Programme for Development of Sports with the 
+objective of creating more durable assets. 
+(The detailed procedure may be seen at Annexure-IIA)  
+3.18	 The MPs may recommend augmentation by certain amount out of his MPLADS funds in 
+a Centrally sponsored Scheme against central plus State share indicating the geographical 
+area where to be implemented and the amount recommended, but will not be permitted to 
+indicate the beneficiaries, who will continue to be as per any prior list/priority list already 
+drawn up by the District Authority, and the list would not require a change on the request 
+of the MP. 
+3.19	 Public and community contribution to the works recommended by MPs is permissible. In 
+such cases, MPLADS funds will be limited to the estimated amount minus the public and 
+community contribution. 
+3.20	 There are Central and State Government Schemes which provide for the public and 
+community contribution. MPLADS funds shall not be used to substitute the public and 
+community contribution in any Central/State Government Programme/Scheme, which 
+includes a component of such contribution. 
+3.21	 Community infrastructure and public utility building works are also permissible for 
+registered Societies/Trusts under the Scheme, provided that the Society/Trust is engaged in 
+the social service/welfare activity and has been in existence for the preceding three years. 
+The existence of the Society/Trust shall be reckoned from the date it started its activities in 
+the field, or the date of registration under the relevant Registration Act, whichever is later. 
+The beneficiary Society/Trust shall be a well established, public spirited, nonprofit making 
+entity, enjoying a good reputation in the area. Whether such a society/trust is well reputed or 
+not, should be decided by the District Authority concerned on the basis of relevant factors, 
+like performance in the field of social service, welfare activities, non-profit orientation of 
+its activities, transparency of its activities and sound financial position. 
+3.21.1 The ownership of the land may remain with the Society/Trust, but the structure constructed 
+with MPLADS funds shall be the property of State/UT Government. The Society/Trust 
+shall undertake to operate, maintain and up keep the asset created under MPLADS at its 
+cost. If at any time, it is found that the asset created with MPLADS funds is not being used 
+for the purpose for which the asset was funded, the State/UT Government may take over 
+
+===PAGE===
+
+10 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+the asset and proceed to recover from the Society/Trust, the cost incurred from MPLADS 
+for the creation of asset along with interest at the rate of 18% per annum calculated with 
+effect from the date of use of MPLADS fund for the works concurred. A formal agreement 
+(a model agreement form is at Annexure-V) will be executed by the Society/Trust with the 
+District Authority in favour of the Government in advance for the purpose. This agreement 
+will be registered under the relevant Registration Act on a non judicial stamp paper of 
+Rs.10 or more, as is applicable in the State/UT. No stamp duty would be required to be paid 
+for registration as there is no formal transfer of assets. 
+3.21.2 Not more than Rs.50 lakh, can be spent from MPLADS fund, for one or more works of 
+a particular Society/Trust in the lifetime of that Society/Trust. If a Society has already 
+availed of MPLADS funds upto Rs. 50 lakh, no more funds can be recommended for that 
+Society/Trust under the Scheme. From the financial year 2012-13, an MP can recommend 
+funds, only upto Rs. one crore in all, in a financial year from MPLADS funds for works 
+to Societies/Trusts. The recommendation made by Hon’ble MPs for the period prior to the 
+financial year 2012-13 is to be regulated as per the guidelines existing during that period. 
+3.21.3 The MPLADS funding is not permissible to a Society/Trust, if the recommending MP or 
+any of his/her family members is the President/Chairman or Member of the Managing 
+Committee or Trustee of the registered Society/Trust in question. Family members would 
+include MP and MPs spouse which would comprise their parents, brothers and sisters, 
+children, grandchildren and their spouses and their in-laws. MPs may ensure the spirit of 
+the guidelines is maintained by avoiding circular or mutual funding of Trusts/Societies. 
+3.21.4 Further, when funds are recommended towards a Society/Trust by a Member of Parliament 
+and clarifications/documents as required under the Guidelines for scrutiny before 
+sanctioning are requested by the District Authorities, the said Society/Trust should provide 
+the requisite documents within a maximum period of three months from the date of receipt 
+of the letter from the district administration. In case the documents are not received even 
+after a period of three months, the district administration can send two reminders within 
+a month. If the required information is still not received, the recommendation by the MP 
+towards the Society/Trust may be treated as cancelled by the district administration and 
+intimation of the same may be given to the recommending MP. 
+3.21.5 Relaxed provision for most deprived segments: For trusts/societies that run charitable 
+residential homes for orphans (anathalaya/yateemkhana), charitable residential homes for 
+old/aged persons, charitable residential homes for widows, charitable residential homes/ 
+colonies for lepers, charitable residential homes for blind persons, charitable residential 
+homes for spastic/mentally retarded children or charitable residential homes for deaf and 
+dumb children, the restriction of getting MPLADS funds upto Rs.50 lakh in their life­
+time will stand relaxed to Rs.1 crore. The total funds received from MPLADS under this 
+
+===PAGE===
+
+11 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+   
+ 
+  
+  
+    
+  
+ 
+ 
+relaxed dispensation will be used only in and for the charitable and residential home/colony 
+mentioned afore (and not for any other purpose of the trust/society concerned). And the 
+funds will be utilised only for the purposes provided for in para 3.21 of the Guidelines. 
+3.21.6 Compulsory cent percent audit of all the works executed under the MPLADS of all the 
+Trusts/Societies receiving MPLADS funds during the year will be undertaken by the 
+auditors who audit the MPLADS funds annually in the districts and a certificate to that 
+effect will also be included in the ‘Audit Certificate’ provided for under Annexure-IX of 
+the Guidelines on MPLADS. 
+3.22	 As soon as a work under the Scheme is completed, it should be put to public use. For 
+greater public awareness, for all works executed under MPLADS a plaque (stone/metal) 
+carrying the inscription ‘Member of Parliament Local Area Development Scheme Work’ 
+indicating the cost involved, the commencement, completion and inauguration date and the 
+name of the MP sponsoring the project should be permanently erected. A sample of plaque 
+is at Annexure-XI. 
+3.23	 List of all completed and ongoing works with MPLADS funds should also be displayed 
+at the District Authority Office and posted in the website for information of the general 
+public. For public awareness, details of completed works may be displayed in prominent 
+places like Tehsil/Niabat/Sub-Tehsil/Block/Gram Panchayat offices also. 
+3.24	 As per the provisions of the Right to Information Act, 2005 and the Rules framed there 
+under, all citizens have the right to information on any aspect of the MPLAD Scheme and 
+the works recommended/sanctioned/executed under it. This may include any information 
+on works recommended by the MPs, works sanctioned/not sanctioned, cost of works 
+sanctioned, Implementing Agencies, quality of work completed, User’s Agency etc. The 
+District Authorities are responsible to provide such information to the public in the manner 
+as required under the Right to Information Act 2005. 
+3.25	 Ambulances/Hearse Vans are allowed to be purchased by the District Authority/District 
+Chief Medical Officer on the recommendation of a Member of Parliament. 
+(The detailed procedure may be seen in Annexure-IIA) 
+3.25.1 Vehicles to Transport Animals: Purchase of Ambulances for sick/injured animals in 
+Wildlife Sanctuaries and National Parks. 
+3.25.2 Ambulances for sick/injured animals are also allowed to be purchased by the District 
+Authority in Wildlife Sanctuaries and National Parks on the recommendation of a Member 
+of Parliament (para 3.25.1). The scope is now widened to allow purchase of ambulances 
+for transporting sick/injured animals in the District. 
+
+===PAGE===
+
+12 
+GUIDELINES OF MPLADS
+   
+  
+ 
+ 
+            
+  
+ 
+ 
+          
+ 
+ 
+(Detailed procedure may be seen in Annexure-IIA) 
+3.26	 Minimum amount for a project: The minimum amount sanctioned under the MPLAD 
+Scheme for any project or work should normally not be less than Rs. 1 lakh. If, however, the 
+District Authority is of the considered view that the work of less amount will be beneficial 
+to the public at large, he/she may sanction the same, even if the cost of the work is less than 
+Rs. 1 lakh. 
+3.27	 Shelf of Projects: The District Authority shall maintain and make available a “Shelf of 
+Projects” including projects for SC/ST inhabited areas to MPs. The Shelf of Projects should 
+be suggestive only, so that it provides, flexibility to the MP, to go beyond the list in order 
+to meet the felt needs of the people. The district authority may receive suggestions from 
+Panchayati Raj Institutions and local bodies. 
+3.28	 Utilisation of MPLADS Fund for welfare of the differently abled persons: MPs may 
+recommend upto a maximum of Rs.10 lakhs per year OR the consolidated entitled amount 
+of their balance tenure, effective from the financial year 2011-12, at any time from their 
+MPLADS fund for giving assistance to the physically challenged. Such assistance will be 
+given only for the purchase of tricycles (manual/battery operated/motorized), motorized/ 
+battery operated wheelchair and artificial limbs for differently abled deserving persons.  
+Grant of artificial limb, etc can be given only by one Hon’ble MP to one person and that 
+other Hon’ble MPs cannot then add further grants to the same person. Clubbing of grants 
+by Hon’ble MPs to one person is not permissible under the MPLADS. 
+(Detailed procedure may be seen in Annexure-IIA) 
+3.29	 Purchase of books for schools, colleges and public library: Books to the extent of             
+Rs. 22 lakh can be purchased for schools, colleges and public libraries belonging to Central, 
+States, UTs and Local Self-Government from MPLADS Fund. 
+(The details of ceiling for such purchase may be seen in Annexure-IIA) 
+3.30	 Purchase of computers: Purchase of computers is permissible for Government and 
+Government aided educational institutions. 
+(Detailed provision may be seen in Annexure-IIA) 
+3.30.1 	Purchase of Visual Display Units:  Procurement / installation of Visual Display Units is 
+permissible for Government and Government aided educational institutions. 
+3.31	 Purchase of mobile library from MPLADS funds:  Purchase of mobile library for 
+educational institutes belonging to Central, State, UT and Local Self Government are 
+permissible for Government and Government aided educational institutions. 
+
+===PAGE===
+
+13 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+  
+     
+ 
+ 
+ 
+ 
+ 
+3.32	 New borings in place of hand pumps installed under MPLAD Scheme:  New borings 
+in lieu of the existing non-functional hand-pumps using the re-usable components of the 
+parts of the non-functional hand pumps are permissible. 
+(The conditions on which new borings are permissible may be seen in Annexure-IIA) 
+3.33	 Special provisions: For works in border areas, coastal and other environmentally sensitive 
+areas (like forests, wild life, CRZ, eco-fragile areas, etc.) appropriate permission from the 
+concerned Ministries and agencies will be needed. 
+3.33.1 Specific clearance from Ministry of Water Resources would invariably be required before 
+sanctioning any work for irrigation, flood control etc. under the MPLAD Scheme on any 
+river within 8 kilometers of international border. 
+3.34	 Creation of a Facilitation Centre at each District: An MP would be entitled for setting 
+up of MPLADS Facilitation Centre in the Nodal District for which space/room would 
+be provided by the DC/DM in the premises of either the DRDA or the CDO Office/ 
+CEO, District Panchayat Office. The capital cost of setting up of such facilities including 
+equipments, furniture, etc. shall not exceed Rs. 5 lakh and will be met from MPLADS 
+funds. 
+(Detailed functions and other instructions may be seen at Annexure-IIA) 
+3.34.1 The main function of the facilitation centre would be to provide to the Hon’ble MPs all 
+the information at one place relevant for the effective implementation of the scheme. If a 
+District has been opted by more than one MP, the facilitation centre will provide service to 
+all these MPs. The facilitation centre should work under the direct control of the District 
+Authority. The supervision is envisaged from the existing officers in the DRDA or the CDO 
+office/CEO District Panchayat Office (wherever space is provided). A lone Data Entry 
+Operator, if necessary, may be engaged, through outsourcing/contract from within the 
+2% administrative charges. If a Data Entry Operator is engaged, the engagement shall be 
+strictly casual (outsourced/contractual), it shall not be against any post and shall not, in any 
+form, be construed as government employment. That no liability, administrative or legal or 
+financial, accrues on the Government (State or Central) in future, shall be the responsibility 
+of the District Authority that makes the engagement.          
+3.35 	 Construction of Railway Halt Station: Funds from MPLAD Scheme if so nominated by 
+MP can be used for construction of Railway Halt Station to facilitate the local community 
+for boarding/de-boarding from the train. 
+(Detailed instructions may be seen at Annexure-IIA) 
+
+===PAGE===
+
+14 
+GUIDELINES OF MPLADS
+ 
+  
+                    
+ 
+ 
+3.36	 One MP - One Idea: In order to foster a grass-root bottoms-up approach to innovation 
+and development and to arrive at solutions for local problems, which are sustainable and 
+scalable, there is a need for seeking out and campaigning for ideas that have the potential 
+to solve challenges. Accordingly, based on the innovative ideas received from the local 
+people regarding developmental projects, a ‘One MP – One Idea’ Competition may be 
+held in each Lok Sabha constituency annually to select the three best innovations for cash 
+awards and certificate of appreciation for next five best innovations. 
+These awards will be given on the specific request of Hon’ble MPs to promote such a 
+scheme in their constituency. The announcement calling for applications in prescribed 
+format would be made by the Nodal District Authority through various media viz. print, 
+radio, television etc. It must be ensured that the announcement details are put up on the 
+relevant website(s) as well. The Competition will invite innovative solutions in the areas 
+of education of skills, health, water and sanitation, housing and infrastructure, agriculture, 
+energy, environment, community and social service, etc. The innovative solutions can be 
+submitted by any individual or by a group of individuals, industry, industry consortia, 
+academia, NOG or other institution from the constituency. The format for submission of 
+application is given at Annexure-X. All entries will follow the same screening process. 
+3.36.1 A Selection Committee may be set up with the mandate to screen all applications. The 
+Selection Committee shall be headed by the DC/DM of the Nodal District and shall 
+consist of eight members from (i) Engineering, (ii) Finance, (iii) Health and Sanitation, 
+(iv) Academia,  (v) Industry (vi) Banking and Financial Institutions and (vii) two members 
+from Social sector/NGOs to be nominated by Hon’ble MP. The members from Engineering, 
+Finance, Health and Sanitation sectors will be nominated by DC/DM and should be from 
+the Central/State/UT Government. The members from Academia, Industry and Banking 
+& Financial Institutions shall be of repute & distinction in their own field and shall be 
+nominated by DC/DM. The Selection Committee will select the three best innovations for 
+cash awards and next five best innovations for certificate of appreciation. In the event a 
+large number of applications are received, DC/DM, in consultation with Hon’ble MP, may 
+constitute a Screening Committee for initial screening of the potential applications for 
+further evaluation by the Selection Committee. 
+3.36.2 Cash awards of Rs. 2.5 lakhs, Rs. 1.5 lakhs and Rs. 1 lakh will be awarded to the first, second 
+and third prize winner respectively. In addition to the award money, other administrative 
+expenditure involved in arranging such events including issuing advertisements, holding 
+meetings, etc., subject to a maximum of 10% of the total awards’ amount of Rs. 5 lakhs, 
+Rs. 50,000/- will also be permissible under the MPLADS Guidelines. The total amount 
+of awards of Rs. 5 lakhs and administrative expenditure of Rs 50,000/- will be debited to 
+the MPLADS funds of the Hon’ble MP promoting the Scheme. In order to ensure that the 
+scheme would be able to foster a spirit of innovation and grass-root level competitiveness 
+
+===PAGE===
+
+15 
+GUIDELINES OF MPLADS
+  
+ 
+  
+    
+ 
+   
+        
+  
+  
+    
+ 
+  
+   
+   
+   
+and spur the innovation movement in the country by involving a large cross section of 
+people, the award function should be given a wide publicity. The awards shall be given 
+away by the Hon’ble MP in a public function with adequate media coverage. A Certificate 
+of honour as per Annexure-XA will be given to the awardees. The Certificate of appreciation 
+as per Annexure-XB will also be given to the next 5 best innovations. 
+3.37	 Providing assistance to aided educational institutions: MPs may recommend their 
+MPLADS funds to aided educational Institutions which are receiving financial assistance 
+from state government and are recognized by a State/UT/Central Board of Secondary 
+Education in the case of schools and by State/Central University in case of colleges and 
+are not charging commercial fee from students. Such aided educational institutions are 
+eligible for receiving MPLADS funds for all permissible items under the Guidelines with 
+no ceiling. 
+3.37.1 Both aided and un-aided educational institutions which are recognized by a Board of 
+Secondary Education/University and are run by trusts/societies are eligible for receiving 
+MPLADS funds for all permissible items under the Guidelines; the particular trust/society 
+which runs the concerned educational institution will be governed by the maximum ceiling 
+imposed on trusts/societies under the Guidelines (para 3.21) [that is, Rs. 50 lakh to one 
+particular trust/society in its life-time (as also that one honourable MP can recommend 
+only upto Rs. 1 crore in one financial year to all trusts/societies taken together)] 
+3.38 	 Assistance to Bar Associations: MPs may recommend their MPLADS funds to the 
+Bar Association at the Tehsil/Sub-Division/District level for construction of Building of 
+the Bar Association provided land for it belongs to the Central, State/UT or Local Self 
+Government or belongs to the Bar Association within the concerned court premises and 
+subject to the provisions of Para 3.21 of the Guidelines on MPLADS.  No MPLADS funds 
+will be permissible for the recurring expenditure of the Bar Association. 
+3.38.1 Assistance to Bar Association Library for purchase of books: Subject to provisions of 
+para 3.38 above and para 3.21 of the MPLADS Guidelines, MPs may recommend MPLADS 
+funds to Bar Association Library for purchase of books upto Rs. 50,000/-(Rs. fifty thousand 
+only) per annum for Lower and District Courts (courts at Tehsil/Sub-division/District level. 
+(Detailed procedure and instructions may be seen at Annexure-IIA) 
+3.39	 Bio-digesters developed by the DRDO: Bio-digesters developed by the DRDO are 
+permissible to be installed at railway stations, railway coaches, anganwadi centres, schools, 
+health centres, hospitals, bus stands, and other community facilities belonging to Central, 
+State/UT and Local Self Government. 
+
+===PAGE===
+
+16 
+GUIDELINES OF MPLADS
+      
+ 
+ 
+ 
+ 
+ 
+  
+ 
+     
+ 
+  
+ 
+ 
+    
+ 
+ 
+3.40	 Providing Fixed Weighing scale Machine under the MPLAD Scheme: Members of 
+Parliament may recommend installation of fixed Weighing scale Machines for agricultural 
+and horticulture produce at village level, subject to the following conditions:­
+i)	 The Weighing Machine shall be installed on land belonging to Central, State/UT or 
+Local Self Government; 
+ii) It should be owned, operated and maintained by the Gram Panchayats; 
+iii) The access to Weighing Machine would be for all villagers of the Panchyat. All 
+Commercial organizations, such as factories, firms, shops and other commercial 
+establishments etc. would not have access to the Weighing Machine; 
+iv)	 The Weighing Machine should be used either free of charge or on no profit/no loss 
+basis. If required, only nominal charges can be charged, which would be used for the 
+upkeep of the machine. No commercial transaction/operation should be carried out 
+through the asset; 
+v)	 No recurring expenses would be permissible. 
+3.41 	 Providing CCTV Camera System for security surveillance at  Strategic locations 
+in the country: Members of Parliament may recommend MPLADS funds for installing 
+CCTV Camera System for security surveillance at Strategic locations in the country, on 
+the request of district police/district administration/Government security agencies. Subject 
+to the following conditions:­
+a)	 the Surveillance/CCTV Camera System may be installed in fixed manner at places 
+belonging to Central State/UT or Local Self Government; 
+b)	 A Committee under DC/DM with representative of District Police/District 
+Administration/Government security agency may select the equipment which would 
+be procured as per the prescribed State procedure. 
+c)	 The equipments purchased from MPLADS funds will be maintained by the user agency 
+and no recurring expenses would be permissible. 
+3.42	 Cooperative Societies: 
+(i) Cooperative societies will be eligible for assistance under MPLADS at par with 
+registered trusts/societies. 
+(ii) The cooperative society should be in existence for the preceding 3 years and, in the 
+opinion of the district authority, based on an objective assessment of performance and 
+
+===PAGE===
+
+17 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+records, etc., should be well-reputed and dedicated to community/public good. 
+(iii) The assistance will only be for community infrastructure and public utility building 
+works (which are permissible for trusts/societies under Para 3.21). 
+(iv) The structure constructed with MPLADS funds will be the property of the State/UT 
+Government. (Para 3.21.1 of the Guidelines will be applicable mutatis mutandis) 
+(v)	 The upper ceilings for assistance to trusts/societies (Rs.50 lakh to one particular trust/ 
+society in its lifetime and Rs.1 crore to all trusts/societies by one MP in one year) will 
+be applicable. (Para 3.21.2 of the Guidelines will be applicable mutatis mutandis) 
+(vi) The recommending MP or any of his/her family members should not be an office-bearer 
+or member or having patronage of the cooperative society.  Mutual funding by MPs 
+will not be allowed. (Para 3.21.3 of the Guidelines will be applicable mutatis mutandis) 
+(vii) The works (of infrastructure and public utility buildings) should be strictly non­
+commercial in nature. 
+(viii) The works should be for the community or public at large. Individual or family benefits 
+will not be allowed (Item 11 of Annexure-II will be applicable). 
+(ix) 	 Substitution of MPLADS funds for public and community contribution will not be 
+allowed (Para 3.20 of the Guidelines will be applicable) 
+(x)	 The works will be put to productive use. Their maintenance and operating costs will be 
+the responsibility of the recipient cooperative society. 
+(xi) Office and residential buildings of cooperative societies will not be allowed (that is 
+residual Item 2 of Annexure-II will be applicable). 
+3.43	 Installation of rainwater harvesting systems: Installation of rainwater harvesting systems 
+(both for water storage and ground water recharging) in Government buildings and public 
+places like schools, colleges, hospitals, community halls, water- bodies, etc. belonging to 
+Central, State and Local Self Government will be permissible under the MPLADS. 
+
+===PAGE===
+
+18 
+GUIDELINES OF MPLADS
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+4.	 FUND RELEASE AND MANAGEMENT 
+4.1	 The annual entitlement of Rs 5 crore shall be released, in two equal instalments of Rs 2.5 
+crore each, by Government of India directly to the District Authority of the Nodal District 
+of the Member of Parliament concerned. 
+4.2	 At the time of the constitution of Lok Sabha, and election of a Rajya Sabha Member, 
+the first instalment of Rs. 2.5 crore shall be released to the District Authority without the 
+documents stipulated  under para 4.3 below. The subsequent instalments of the continuing 
+Members of Rajya Sabha and Lok Sabha will be released as per eligibility criteria indicated 
+in Paragraph 4.3. 
+4.3	 The first installment of Rs. 2.5 crore at the time of constitution of Lok Sabha or election of 
+Rajya Sabha Member will be released in the beginning of the financial year. 
+In the remaining years, the first installment will be released in the beginning of the financial 
+year subject to the condition that the second installment of the previous year was released 
+for the MP concerned and also subject to furnishing of the provisional Utilization Certificate 
+of previous year covering at least 80% of the expenditure of the first installment of the 
+previous year. 
+The second installment of the MPLADS funds will be released subject to the fulfillment of 
+the following eligibility criteria:­
+(i) 	 the unsanctioned balance amount available in the account of the District Authority 
+after taking into account the cost of all the work sanctioned is less than Rs.1 crore; 
+(ii) the unspent balance of fund of the MP Concerned is less than Rs. 2.5 crore; and 
+(iii) Utilization Certificate and Audit Certificate of the immediately concluded financial year 
+ending 31st March have been furnished by District Authority (in format at Annexure- 
+VIII & IX of the guidelines respectively. 
+The above stipulations will be calculated from the Monthly Progress Report for each 
+sitting and former MP term-wise separately. The Monthly Progress Report is to be sent 
+by the District Authorities in the format at Annexure-VI. 
+4.4 	 Funds Non-lapsable: Funds released to the District Authority by the Government of 
+India are non-lapsable. Funds left in the district can be carried forward for utilization 
+in the subsequent years. Further, the funds not released by the Government of India in 
+a year will be carried forward for making releases in the subsequent years subject to the 
+fulfillment of criteria stipulated in Paragraph 4.3. 
+
+===PAGE===
+
+19 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+  
+  
+  
+ 
+4.5 The entitlement of funds of a Member of Parliament for a particular year is determined as 
+under : 
+Period in the financial year as MP Entitlement 
+Less than 3 months Nil 
+Up to 9 months 50% of the annual allocation 
+More than 9 months 100% of the annual allocation 
+Funds will be released to Rajya Sabha/Lok Sabha MPs as per the eligibility criteria 
+mentioned in para 4.3 above. However, in case of sudden death or resignation of an MP, 
+the works which may have been duly recommended and duly sanctioned as per original 
+eligibility, not anticipating the above contingency, would have to be completed (to avoid 
+wastage of Government funds) irrespective of any reduced entitlement noted above due 
+to death/resignation and the new incoming MP’s full entitlement would start afresh in 
+accordance with the above formula. 
+4.6	 If a Lok Sabha constituency is spread over more than one district, funds for the constituency 
+shall be released to the opted Nodal District Authority, who will be responsible for transfer 
+of funds to the other districts within the constituency as per the requirement of funds in 
+those districts. 
+4.7	 In respect of elected Members of Lok Sabha, the balances of MPLADS funds left by the 
+predecessor MP in a Lok Sabha constituency (funds not committed works of the predecessor 
+MP) would be passed on to the successor MP from that constituency. (In case of fresh 
+delimitation, separate orders will be issued). 
+4.8	 In respect of elected Members of Rajya Sabha, the balance of funds (funds not committed 
+for the recommended works) left in the Nodal District by the predecessor Member in a 
+particular State on his demitting office will be equally distributed by the State Government 
+among the successor elected Rajya Sabha Members in that State. The unspent balance of 
+even earlier elected Rajya Sabha MPs if not already distributed, will be equally distributed 
+among the sitting Rajya Sabha Members of the States concerned by the State Government. 
+4.9	 The balance of funds (funds not committed for the recommended and sanctioned works) left 
+by the nominated Members of Rajya Sabha in the Nodal District will be equally distributed 
+amongst the successor nominated Members of Rajya Sabha by the State Government with 
+the approval of Government of India. 
+4.10	 The balance of funds (funds not committed for the recommended and sanctioned works) 
+left by Anglo-Indian nominated Lok Sabha MPs will be equally distributed among the 
+successor Anglo-Indian nominated Lok Sabha MPs by the State Government with the 
+approval of Government of India. 
+
+===PAGE===
+
+20 
+GUIDELINES OF MPLADS
+   
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+4.10.1 Completion of works/settling of accounts: The work of MPLADS shall be completed 
+within 18 months from the date of demitting office in case of Rajya Sabha MPs or dissolution 
+of the Lok Sabha. District Authorities shall settle and close the account of the concerned 
+MP after completing all other formalities in another 3 months time, under intimation to the 
+Govt. of India and with detailed information in the Monthly Progress Report (MPR). If the 
+District Authority does not finish the projects within 18 months of demitting of an MP 
+or dissolution of Lok Sabha, the District Authority will be required to complete the 
+balance work out of State/District funds. In no case, any extension will be given and 
+District Authority shall be held responsible in case of any lapse in this regard. 
+4.11	 The unreleased fund by the Government of India will follow the pattern stipulated in 
+clauses 4.7 to 4.10 as the case may be and the fund release will be done by the Government 
+of India. 
+4.12	 Generally a vacancy caused prematurely due to resignation, death, etc. of an elected/ 
+nominated MP is filled up by election/nomination for the remaining term of the MP vacating 
+the seat. The total term of both the MPs in such cases remains for the period of Lok Sabha 
+and Rajya Sabha respectively. Therefore, the new MP will be treated as a successor of the 
+MP vacating the seat prematurely and balance funds will not be distributed among other 
+MPs but transferred to MPLADS Account of the successor MP. 
+4.13	 The District Authority can sanction works up to the entitlement of the MP for that year 
+without even physical availability of funds. Funds will be released by the Government as 
+per the eligibility criteria stipulated in paragraphs 4.2, 4.3 and 4.5 above. 
+4.14	 The District Authority shall maintain a separate bank account in nationalized bank for each 
+MP for the purpose of MPLAD Scheme. The Bank account will not be changed without 
+the approval of MoSPI. The details of the bank account shall be intimated to MoSPI for 
+release of funds as per format at Annexure XII.  Physical and Financial Progress for each 
+MP (sitting and former) will be sent by the District Authorities, separately as per Annexure 
+VI every month (called MPR) which will also show the balance funds available with the 
+Nodal Authority in the bank account. 
+4.14.1 The Implementing Agencies shall also deposit the funds only in a nationalized bank. 
+Separate account will be opened for each MP for the purpose. 
+4.15	 Release of Funds to Implementing Agency: The District Authority shall release funds to the 
+Implementing Agency in accordance with the State Government rules/guidelines applicable 
+for the purpose. 
+4.16	 The interest accrued on the funds released under the Scheme to the District Authority is to 
+be used for permissible works recommended by the MP concerned. The interest accrued 
+
+===PAGE===
+
+21 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+on the funds released under the Scheme to the Implementing agencies shall be calculated 
+while arriving at the savings for each work. The savings for each work shall be refunded 
+to the District Authority within 30 days of the completion of the work. 
+4.17	 Administrative Expenses: The existing contingency funds of 0.5% have been increased 
+to 2% as Administrative Expenses, of the annual entitlement of MPLAD funds. The 2% of 
+Administrative fund shall be part of annual entitlement of Rs. 5 crore of an MP and will 
+be distributed among the Nodal District, Implementing District(s) and the State Nodal 
+Department and is applicable from the financial year 2011-12. 
+(I) 	 Administrative expenses constituting 2 per cent of the MPLADS fund shall be distributed 
+in the following manner.  
+On receipt of each installment of MPLADS funds, the nodal district authority shall 
+immediately allocate and send to the State/UT Nodal Department 0.2 per cent of the 
+amount for use by the State/UT nodal department. The balance amount will be retained by 
+the nodal district for utilization as specified below.  
+The nodal district will, on communicating any recommendation to an implementing district, 
+transmit one per cent of the recommended amount towards administrative expenses to the 
+relevant implementing administrative expenses as described in sub-section (II). 
+(II) 	 The administrative expenses will be utilized by the nodal departments, nodal districts and 
+implementing districts in the following way: 
+(a) The nodal department can use the amount for their administrative expenses and for the 
+following activities: 
+1. Third party inspection-physical audit and quality check; 
+2. Monitoring of works at State level; 
+3. Translating and printing the MPLADS Guidelines in their respective regional 
+language,  except in Hindi (Hindi version will be supplied by Government of India); 
+4. Hiring of services/consultants for handling Data Entry, uploading of data on website, 
+etc.; 
+5. Creating awareness among public about the Scheme and dissemination of information 
+of ongoing and completed works; 
+6. Purchase of stationery; 
+
+===PAGE===
+
+22 
+GUIDELINES OF MPLADS
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Office equipment including computer hardware/software for MPLADS planning/ 
+monitoring (excluding laptop); 
+8. Telephone/fax/postal charges; and 
+9. Expenses incurred to make MPLADS Works Monitoring Software and other 
+MPLADS portal(s) operational. 
+The State/UT nodal department will carry out third party inspection- physical audit and 
+quality check of MPLAD works in their States in the following manner. 
+In each district, a selection of MPLAD works will be taken up for inspection and physical 
+audit as per the following criteria: 
+(i) All works costing 25 lakh and more will be compulsorily covered; 
+(ii) 50 per cent of all works costing 15 to 25 lakh must be covered. 	 For the remaining 
+works, a sample of at least 50 works shall be drawn up involving the judicious balance 
+of various parameters like cost, works in the area of SC/ST, M.P. wise work and works 
+of societies and trust.  The nodal department will also monitor compliance of the district 
+authorities in terms of the guidelines for the scheme; 
+(iii) Petrol, Oil and Lubricant (POL) upto and not exceeding Rs. 50,000/- (Rs. fifty thousand 
+only out of the Administrative expenses per year both to the nodal Districts and to the 
+State/UT Nodal Departments) will be allowed to carry out inspections effectively. A 
+separate bank account and office cash book for such expenditure incurred during a year 
+under MPLAD Scheme, shall be maintained by the Nodal Department at State level, as 
+also by the Nodal District and by the implementing district; 
+All complaints received from MPs in the Ministry should also be required to be examined 
+and report sent to MOSPI. 
+(b) By the Nodal District, for executing the following activities: 
+i)	 Hiring of services/consultants for handling Accounts, Data Entry, uploading of data 
+on website, etc; 
+ii) Creating 	awareness among public about the Scheme and  dissemination of 
+information of ongoing and completed works; 
+iii) 	Purchase of stationery; 
+iv) 	Office equipment including computer hardware/software for MPLADS planning/ 
+monitoring (excluding laptop); 
+
+===PAGE===
+
+23 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+    
+ 
+ 
+ 
+v) Telephone/fax/postal charges; 
+vi) Expenses incurred (a) to make MPLADS Works Monitoring 	  Software and other 
+MPLADS portal(s) operational, (b) to get  the audit of the accounts done and obtain 
+audit certificate, and 
+vii) Outsourcing of technical estimates (if found necessary) in specialized cases. 
+(c) By the Implementing Districts for executing the following activities: 
+i)	 Creating awareness among public about the Scheme and dissemination of information 
+of ongoing and completed works; 
+ii) Purchase of stationery; 
+iii) Office equipment including computer hardware/software for MPLADS planning/ 
+monitoring (excluding laptop); 
+iv) Telephone/fax/postal charges; 
+v) 	 Hiring of services/consultants, for maintenance of accounts and monitoring of 
+works; and 
+vi) Outsourcing of technical estimates (if found necessary) in specialized cases.  
+(III)	 A separate bank account for administrative funds will be opened in a Nationalized Bank as 
+well as a separate cash book will be maintained for administrative expenditures incurred 
+during the year by the Nodal Department at State level, as also by Nodal District and by the 
+implementing district. 
+For purpose of Utilization Certificate, the administrative expenses once distributed by 
+Nodal District would be considered as spent and separate Utilization Certificate will not be 
+necessary for these expenses. 
+4.17.1 Centage Charges, etc: Excluding Administrative Expenses as provided for in para 4.17,        
+the Nodal Department, District Authority or Implementing Agency shall not levy any 
+expenses like supervision charges, centage charges, salary of personnel, travelling 
+expenses, etc. in the implementation and supervision of works including preparatory works 
+under the MPLADS. 
+
+===PAGE===
+
+24 
+GUIDELINES OF MPLADS
+ 
+   
+ 
+    
+   
+ 
+5. ACCOUNTING PROCEDURE
+ 
+5.1	 The District Authority and Implementing Agencies shall maintain accounts of MPLADS 
+funds, MP-wise. Cash Book and other Books of Accounts shall be maintained as per the 
+State/UT Government procedure. MPLADS funds received by the District Authority from 
+the Government of India and the Implementing Agencies receiving the funds from the 
+District Authority shall be kept only in Savings Bank Account of a nationalized Bank. IDBI 
+may be treated at par with nationalized Banks. The selection of the Bank –Branch will be 
+done by the District Authority, in accordance with the State/UT Government guidelines in 
+this regards, if any, or (if State/UT Government guidelines are not available) in accordance 
+with administrative requirement/ feasibility. Only one Account shall be maintained per MP. 
+Deposit of MPLADS funds by the District Authority and Implementing Agencies in the 
+State/UT Government Treasury accounts is prohibited. 
+5.2 	 The District Authority shall also maintain different head wise list of works executed 
+(Head and Code of Works may be seen in Annexure-IVE) in an Asset Register for all the 
+MPLADS works created in the district and the Constituency for which the MPLADS funds 
+were received. 
+5.3	 On completion of a work, the Implementing Agency shall quickly finalize the accounts 
+for that work and shall furnish a work completion report and utilization certificate and 
+return the un-utilized balance (savings) and interest amount within 30 days to the District 
+Authority concerned. The model work completion report is at Annexure-VII. The District 
+Authority and the Implementing Agency would arrange to transfer the asset to the User 
+Agency without any delay. The User Agency should take it on its books for normal operation 
+and maintenance. 
+Utilization and Audit Certificates 
+5.4	 The District Authority and Implementing Agencies will properly maintain MPLADS 
+accounts. District Authority will furnish Utilization Certificate every year in the form 
+prescribed in the Guidelines (Annexure-VIII) to the State Government and the Ministry 
+of Statistics and Programme Implementation. These accounts and Utilization Certificates 
+will be audited by the Chartered Accountants or the Local Fund Auditors or any Statutory 
+Auditors as per the State/UT Government procedure. The Auditors should be engaged by 
+State/UT Government for each District Authority on the basis of the recommendation of 
+the Accountant General of the State/UT concerned. The District Authority will submit 
+for every year the audited accounts, reports and certificates to the State Government and 
+the Ministry of Statistics and Programme Implementation. The normal audit procedures 
+would apply under the Scheme for auditing the accounts of the District Authority and 
+Implementing Agencies. In addition, the Comptroller and Auditor General of India will 
+
+===PAGE===
+
+25 
+GUIDELINES OF MPLADS
+  
+ 
+    
+     
+  
+    
+undertake test audit and send reports to the District Authorities, the State Government and 
+the Ministry of Statistics and Programme Implementation. 
+5.5	 The Audit Report should be prepared MP wise and should inter alia cover the following 
+aspects: (i) number of Savings/other Bank Accounts being maintained by the District 
+Administration and the Implementing Agencies; (ii) if any fund held in fixed deposits 
+(Fixed deposits are not permissible); (iii) whether interest accrued in Savings Account has 
+been taken as receipt and utilized for the Project; (iv) delay, if any, in crediting the Accounts 
+of the District Authority and the Implementing Agencies by the receiving Bank - if so, the 
+period of delay; (v) Whether Bank reconciliation in respect of Cash Book balance and Pass 
+Book balance is being done every month; (vi) The Bank reconciliation should also cover 
+interest accruals. The Bank reconciliation statement as on 31st March should be attached 
+to the Audit Report; (vii) Proper maintenance of Cash Book by the District Authority and 
+Implementing Agencies; (viii) Cheques issued but not encashed as on 31 st March as per 
+Bank reconciliation; (ix) Actual expenditure incurred out of advances to the Implementing 
+Agencies; and closing balances with them; (x) Diversion of funds, works prohibited and 
+inadmissible items of expenditure (The details along with the views of District Authority 
+in each case shall form part of the audit report for the District Authority to get such audit 
+objection settled and follow up audit in succeeding year); and (xi) Utilization of earmarked 
+fund for SC and ST areas. 
+5.6	 The Audit Certificate furnished by the Chartered Accountants shall be submitted for every 
+year by the District Authority along with replies to each of the audit objections on or 
+before 30th September of the same calendar year. It will be the responsibility of the District 
+Authority to ensure that all audit objections are settled forth with. The Implementing 
+Agencies are to submit works completion report and associated fund utilization report to 
+the District Authority. The Chartered Accountants will audit all such reports and records 
+and furnish their certificate in a model Audit Certificate prescribed in these Guidelines 
+(Annexure-IX). The audit fee may be paid under administrative expenses as per item II-b 
+(vi) of paragraph 4.17. 
+5.7	 There are former elected and nominated Members of Rajya Sabha and nominated Members 
+of Lok Sabha who recommended works under MPLADS. Those are yet to be completed, 
+for which works Completion Report, Utilization and Audit Certificate are to be furnished 
+by the District Authorities along with Monthly Progress Report (Annexure-VI). 
+5.8	 The District Authorities have been implementing MPLADS since 1993-94. They are 
+to submit periodically works Completion Report, Utilization Certificate, and Audit 
+Certificates. These Certificates are to be furnished to the Ministry of Statistics and 
+Programme Implementation right from inception. 
+
+===PAGE===
+
+26 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 MONITORING 
+6.1	 Deleted 
+6.2 	 Role of the Central Government 
+(i) 	 The Ministry of Statistics and Programme Implementation shall monitor the overall 
+position of funds released, cost of works sanctioned, funds spent etc. 
+(ii) 	 The Ministry will monitor the receipt of Completion Reports, Utilization Certificates 
+and Audit Certificate from the District Authorities. 
+(iii) 	 The Ministry will bring out Annual Report on the implementation of MPLADS 
+including the facts relating to physical and financial progress. 
+(iv) 	 The Ministry will hold meetings in the States and also at the Centre at least once in a 
+year to review the implementation of the MPLAD Scheme. 
+(v) 	 The Ministry shall provide training materials for conducting training of district officers 
+on MPLADS as and when these are organized by the State Governments. 
+(vi)	 The Ministry will review the utilization of funds by the District Authorities in SC and 
+ST areas. 
+(vii) 	 The Ministry will review the audit objections and issues arising out of the Audit and 
+Utilization Certificates. 
+(viii) The Ministry will periodically review the physical and financial progress of MPLADS 
+funds provided for rehabilitation of areas affected by natural calamities and take up 
+the matter with the State Governments concerned for timely execution of MPLADS 
+works. 
+(ix) 	 The Ministry may undertake third party monitoring of the physical and financial 
+progress of the rehabilitation works in the areas affected by natural calamities. 
+6.3 	 Role of the State/UT Government 
+(i)	 The Nodal Department will be responsible for coordination with the Ministry and 
+proper and effective supervision of the MPLADS implementation in the State. The 
+State Government will assign coordination and monitoring of MPLADS work to a 
+department/dedicated cell under a senior officer who is hierarchically senior in rank to 
+the district authorities described earlier in the guidelines. To this effect a committee 
+under the Chairmanship of the Chief Secretary/Development Commissioner/Additional 
+Chief Secretary should review MPLADS implementation progress with the District 
+
+===PAGE===
+
+27 
+GUIDELINES OF MPLADS
+ 
+   
+      
+  
+     
+   
+ 
+ 
+Authorities and MPs at least once in a year. The Nodal Department Secretary and other 
+Administrative Department Secretaries should also participate in such meetings. State/ 
+UT Government should furnish the minutes of the State/District Monitoring Committee 
+meetings to the Ministry of Statistics and Programme Implementation. 
+(ii) 	 The States/UTs in which Divisional Commissioner arrangements exist, the Divisional 
+Commissioners should be empowered to review the MPLADS implementation progress 
+and guide the District Authorities. 
+(iii) The State/UT Government will review (a) the utilization of funds by the District 
+Authority in SC and ST areas; and (b) the audit objections and issues arising out of the 
+audit and utilization certificates. 
+(iv) The State/UT Government, by specific order, shall empower the District Authorities and 
+other District functionaries technical and administrative powers for implementation of 
+MPLADS. 
+(v) 	 The State/UT Government may make arrangements for training of district officers 
+concerned with the implementation of the MPLAD Scheme. 
+(vi) 	 The State/UT Government may authorize its officers not below the rank of Deputy 
+Secretary/Executive Engineer to inspect MPLADS works as and when they make 
+official field visits. It may also check and review the number of MPLADS works 
+inspected by the District Authorities. The District Authority shall mandatorily 
+maintain inspection registers–one for details of inspections of works carried out by 
+trusts/societies  under para 3.21 and the second for showing details of works given to 
+other implementing agencies, including NGOs as implementing agencies State Nodal 
+Officials should inspect a minimum of 1% of the MPLADS works in District every 
+year and an inspection register should be maintained at the State Level and follow up 
+action should also be taken on the findings during those inspection. 
+(vii) 	 The State/UT Government shall, out of the panel of auditors approved with Accountant 
+General of the State/UT, engage an Auditor for auditing of  MPLADS accounts of each 
+District Authority. For purpose of continuity, the same auditor may (if the State desires) 
+continue for three years and any fresh appointments should be made by January of a 
+calendar year for the succeeding three financial years. 
+(viii) 	 The State/UT Government shall hoist data on MPLADS implementation in the state on 
+their web sites. 
+(ix) 	 The State/UT Government shall distribute the unspent balance of  Rajya Sabha MPs as 
+stipulated in paragraph 4.8. 
+
+===PAGE===
+
+28 
+GUIDELINES OF MPLADS
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+(x)	 The Nodal Department in the States should coordinate with the District Authorities for 
+timely submission of Utilization Certificates and Audit Certificates. Wherever, there is 
+a delay in submission of these documents, the Nodal Department should take up the 
+matter with the District Authorities and ensure timely submission of these documents 
+to the Ministry of Statistics and Programme Implementation. 
+(xi)	 The State-level monitoring Committee shall specifically review the physical and 
+financial progress of MPLADS funds provided for execution of rehabilitation works in 
+the areas affected by natural calamities. 
+6.4 	 Role of the District Authority: The District Authority’s role has been outlined in different 
+paragraphs of the Guidelines. Here the District Authority’s role on coordination and 
+supervision is being indicated. 
+(i) 	 The District Authority would be responsible for overall coordination and supervision 
+of the works under the scheme at the district level and inspect at least 10% of the works 
+under implementation every year. The District Authority should involve the MPs in 
+the inspections of projects to the extent feasible. 
+(ii) 	 The District Authority shall enforce the provisions made in the Paragraph 2.5 on the 
+earmarked 15% and 7.5 % of funding for MPLADS works in the SC and ST areas 
+respectively. 
+(iii) The District Authority shall maintain the work-registers indicating the position of each 
+work recommended by the MPs and shall furnish work details along with a photograph 
+of each work costing Rs.5 lakh or more, to the Ministry in the prescribed format and 
+hoist the same on MPLAD Website. 
+(iv)	 The District Authority shall also maintain a register of all the assets created with the 
+Scheme funds and subsequently transferred to the User Agencies. 
+(v) 	 The District Authority will inspect all works executed by/for societies and trusts under 
+MPLADS and ensure that the conditions as per the agreement are being complied 
+with. In case of violation of any of the provisions of the agreement, action as per the 
+agreement shall be taken by the District Authority. 
+(vi) 	 The District Authority shall review, every month and in any case at least once in 
+every quarter, MPLADS works implementation with the Implementing Agencies. 
+The District Authority shall invite the MPs concerned to such review meetings and 
+send a report of such a review meetings to Ministry of Statistics and Programme 
+Implementation. 
+(vii) The District Authority shall be responsible to settle audit objections raised in the Audits 
+Reports. 
+
+===PAGE===
+
+29 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+(viii) The Nodal District Authority shall submit Monthly Progress Report to the Government 
+of India, State/UT Government and the MP concerned for each MP separately in the 
+format available at Annexure-VI on or before 10th of the succeeding month. With regard 
+to the execution of works in the SC and ST areas, physical and financial details shall be 
+furnished in part IV and V of format available at Annexure-VI. 
+(ix) 	 As per paragraph 4.8, the Nodal District Authority shall report to the State/UT 
+Government about the unspent balance of the elected Rajya Sabha MP concerned. He 
+shall also report to the Government of India the details as per paragraphs 4.9 and 4.10. 
+(x) 	 The Nodal Department in the State shall monitor the MPLADS funds contributed 
+by MPs to ensure that the funds are utilized in time by the district authorities for 
+execution of rehabilitation works. The Nodal Department shall also ensure submission 
+of Monthly Progress Reports specifically on utilization of MPLADS funds for carrying 
+out rehabilitation works in the natural calamity affected districts. 
+6.5 Role of the Implementing Agencies 
+(i) 	 It will be the responsibility of the officers of the Implementing Agencies to regularly 
+visit the works spots to ensure that the works are progressing satisfactorily as per the 
+prescribed procedure and specifications and the time schedule. 
+(ii) 	 The Implementing Agencies shall furnish physical and financial progress of each work 
+to the District Authority every month with a copy to the concerned State Department. 
+The Implementing Agencies should provide the report also in the soft format. A work 
+register should also be maintained by the implementing agencies showing details of the 
+physical and financial progress of projects being undertaken by them. This register 
+should also contain the details of spot visit made by the implementing agencies. 
+Implementing Agency must inspect 100% of the works. 
+(iii) 	 The Implementing Agencies shall furnish completion report/certificates and utilization 
+certificates to the District Authority within one month of completion of the works. 
+(iv) The Implementing Agencies shall also refund to the District Authority the savings 
+(balance amounts) including interest if any, at their disposal within one month. 
+
+===PAGE===
+
+30 
+GUIDELINES OF MPLADS
+  
+  
+  
+7.	 APPLICATION OF THE GUIDELINES 
+7.1	 The Guidelines will come into force with immediate effect. These Guidelines on MPLADS 
+super cede the extant Guidelines and instructions issued there under. 
+7.2	 Clarification, if any, on the Guidelines on the MPLADS or interpretation of any provision 
+of these Guidelines shall be referred to the Ministry of Statistics and Programme 
+Implementation and its decision shall be the final. 
+
+===PAGE===
+
+31 
+GUIDELINES OF MPLADS
+  
+  
+    
+                        
+    
+             
+  
+ 
+ 
+          
+      
+      
+ 
+--------------------              ---------------------
+--------------------------------------------     -------------------------------------------
+--------------------------------------------     -------------------------------------------
+Annexure-I 
+FORM FOR CHOICE OF NODAL DISTRICT 
+(For all Members of Parliament) 
+I am elected/nominated Member of Rajya Sabha/Lok Sabha with effect from ……………… 
+(date, month, year). My Choice of the Nodal District for implementation and release of 
+MPLADS funds is: 
+District Opted : _________________________________ 
+District Address : _________________________________
+ _________________________________
+ _________________________________ 
+PIN: 
+State/UT in which the district falls :________________________ 
+(SIGNATURE)
+Full Name:
+ 
+(In capital Letters)
+Date:
+ 
+Permanent Address Delhi Address 
+PIN: PIN: 
+Telephone with STD……………. Telephone………………………….. 
+Fax……………………………….. E mail………………………………. 
+(Any change in the addresses in future may also be intimated immediately) 
+To,
+ 
+Director (MPLADS),
+Ministry of Statistics and Programme Implementation,
+Government of India,
+ 
+Sardar Patel Bhawan, Parliament Street,
+ 
+New Delhi 110001.
+ 
+Copy to Shri/Smt………………………… Secretary, ………………….Nodal Department, 
+State Government..…...........................
+ 
+Copy to Shri/Smt……………………District Authority (District Collector).…................…… 
+District, At…………………. P.O ………………………………. PIN…………………………
+ 
+
+===PAGE===
+
+32 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Annexure-II 
+LIST OF WORKS PROHIBITED UNDER MPLADS 
+1. 	 Office and residential buildings belonging to Central and State Governments, their 
+Departments, Government Agencies/Organizations and Public Sector Undertakings. 
+However, construction of Railway Halt Station, subject to provision of para 3.35 will be 
+permissible. 
+2. 	 Office and residential buildings and other works belonging to private and commercial 
+organizations. 
+3. 	 All works involving commercial establishments/units. 
+4. 	 All maintenance works of any type. However, re-boring of hand pumps, subject to provision 
+of para 3.32 will be permissible. 
+5. 	 All renovation and repair works. (However, works of retrofitting of essential lifeline 
+buildings, viz Govt. hospitals, Govt. Schools and public buildings to be used as shelters 
+in an emergency and heritage and archaeological monuments and buildings with specific 
+permission available from the Archaeological Survey of India will be permitted under 
+MPLADS). 
+6. 	 Grants and loans, contribution to any Central and State/UT Relief Funds. 
+7. 	 Naming of assets after any person. 
+8. 	 Project of movable items except as those provided in Annexure-IIA. 
+9. 	 Acquisition of land or any compensation for land acquired. 
+10. 	 Reimbursement of any type of completed or partly completed works or items. 
+11. 	 Assets for individual/family benefits. (However, as per para 3.28 of the guidelines, tri-
+cycle (including motorized), artificial limbs and battery operated motorized wheelchair to 
+differently abled deserving persons are permitted). MPs may also provide MPLADS funds 
+to Centrally Sponsored Schemes providing assets for individual/family use, with the proviso 
+that the M.P. will not add or change the priority list or any of the criteria for selection 
+declared in the centrally sponsored scheme. He may not nominate specific individuals as 
+beneficiaries, but can nominate the geographical area where these MPLADS funds would be 
+spent. 
+12. 	 All revenue and recurring expenditure. 
+
+===PAGE===
+
+33 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+13. 	 Works within the places of religious worship and on land belonging to or owned by religious 
+faith/group. (However, construction of crematoriums and structures on burial/cremation 
+grounds irrespective of religious faith can be taken up under the MPLADS regardless of the 
+location being adjacent to or falling within the area under the places of religious worship). 
+14.	 Deleted. 
+15.	 Construction of Swagat Dwars. 
+16.	 Execution of works in unauthorized colonies. 
+
+===PAGE===
+
+34 
+GUIDELINES OF MPLADS
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-IIA 
+List of (i) special items of works and (ii) works of non durable nature 
+permissible under the MPLADS Guidelines 
+1.	 Convergence of Member of Parliament Local Area Development (MPLADS) with 
+MGNREGA (Para 3.17.1): Funds from Member of Parliament Local Area Development 
+Scheme (MPLADS) can be converged with MGNREGA with the objective of creating 
+more durable assets. MPs may recommend under MPLADS works from out of the shelf of 
+MGNREGA projects approved by the Zilla Panchayat for the year when recommendation 
+is being made and should have been sanctioned by the District Programme Coordinator 
+which constitutes the approved Annual Work Plan under MGNREGA of the district. As 
+far as possible, the MPLADS Funds shall be used in respect of material component only. 
+1.1.	 Once a work is recommended for MGNREGA, MPs will not be authorized to withdraw 
+the same. In case of request of withdrawal of MPLADS Funds, NOC from MGNREGA 
+would be required. The guidelines of MGNREGA including all non-negotiables, such 
+as, no contractors, no use of machinery, social audit, etc. shall be strictly followed. The 
+Gram Panchayat shall be nominated as the Implementing Agency by the District Planning 
+Committee (DPC) for the convergence works under MPLADS. The DPC shall provide 
+adequate technical support to the Gram Panchayat to implement the works.  Since the 
+material and labour components are expected to flow simultaneously, it will not be necessary 
+in these convergence cases for MPLADS Funds to be used only at the end. 
+1.2.	 The accounts of Expenditure will be strictly maintained separately for both MPLADS and 
+MGNREGA. A joint plaque (stone/metal) indicating the cost involved, contribution from 
+MPLADS/ MGNREGA, commencement, completion and inauguration and the name of 
+the MP sponsoring the work under MPLAD Scheme/MGNREGA should be permanently 
+erected. 
+2.	 Convergence of Member of Parliament Local Area Development (MPLADS) with 
+Khelo India: National Programme for Development of Sports of the Ministry of 
+Youth Affairs and Sports. (para 3.17.2): Funds from Member of Parliament Local Area 
+Development Scheme (MPLADS) can be converged with Khelo India: National Programme 
+for Development of Sports with the objective of creating more durable assets. MPs may 
+recommend under MPLADS, works such as Development of playfields under Khelo India: 
+National Programme for Development of Sports including leveling of playgrounds in hilly 
+areas, construction of boundary wall, etc. in villages and blocks from out of the shelf of 
+Khelo India: National Programme for Development of Sports projects if otherwise eligible 
+under MPLAD Scheme. Similarly, in the urban areas, convergence will also be permissible 
+for creation of durable sports assets such as multi-purpose sports halls, athletic tracks, 
+football, hockey turf, etc. as per the provisions of guidelines on MPLADS. This will be 
+subject to the provision of the Khelo India: National Programme for Development of Sports 
+for creation of urban sports infrastructure. 
+
+===PAGE===
+
+35 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.	 The accounts of Expenditure will be strictly maintained separately for both MPLADS 
+and Khelo India: National Programme for Development of Sports. A joint plaque (stone/ 
+metal) indicating the cost involved, contribution from MPLADS/Khelo India: National 
+Programme for Development of Sports commencement, completion and inauguration and 
+the name of the MP sponsoring the work under MPLAD Scheme/Khelo India: National 
+Programme for Development of Sports should be permanently erected. 
+3.	 Utilisation of MPLADS Fund for welfare of the differently abled persons (para 3.28 ): MPs may 
+recommend upto a maximum of Rs.10 lakhs per year OR the consolidated entitled amount 
+of their balance tenure, effective from the financial year 2011-12, at any time from their 
+MPLADS fund for giving assistance to the physically challenged. Such assistance will be 
+given only for the purchase of tricycles (manual/battery operated/ motorized), motorized/ 
+battery operated wheelchair and artificial limbs for differently abled deserving persons. All 
+applications for such assistance shall be examined and approved by a Committee under the 
+Chief Medical Officer of the District to ensure proper eligibility. The District Authority will 
+be fully involved in the selection of such eligible persons. The Committee will also certify 
+the reasonability of the rate.  No recurring expenses will be admissible .No cash grant will 
+be permissible, but the item would be obtained and given to the deserving differently abled 
+person in a public function. 
+4.	 Purchase of computers (para 3.30): Purchase of computers is permissible for Government 
+and Government aided educational institutions. MS-office Software (Standard Edition with 
+Microsoft Licence Agreement) with media which comprises MS-Word, MS-Excel, MS-
+Power Point, MS-Access, MS-Outlook as per DGS&D rate contracts is also permissible. 
+Imparting of training on these software (Window Operating System and MS-Office) to two 
+teachers per school in also permissible. The training may comprise 24-48 working hours 
+of learning period which may be spilt over a period ranging from one week to 2 weeks to 
+provide flexibility in learning. The training shall be imparted by an authorized agency at 
+the district level with approved rates (approved and accepted by District Authority). 
+5.	 Purchase of Mobile Library for Educational Institute belonging to Central, State, UTs and 
+Local Self - Government subject to provision of para 3.31. 
+6.	 Purchase of vehicles, including school buses/vans, earth movers, and equipments meant for 
+hospitals, educational, sports, drinking water and sanitation purposes belonging to Central, 
+State, UT and Local Self Governments. 
+6.1.	 Whenever a Member of Parliament recommends a new proposal for capital works for 
+construction of Government Hospitals and Educational Institutions, he may recommend 
+purchase of movable items (like furniture, equipment and not consumables). The proposal 
+should essentially be for capital works and the allied expenditure on movable items 
+(furniture, equipment etc.) should not be more than 10% of the total cost. 
+
+===PAGE===
+
+36 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+Recommendations for purchase of movable items such as furniture, equipment, etc. cannot 
+be made for the existing Government Hospital and Educational Institutions except for 
+primary and secondary schools belonging to Central/State/UT Governments and Local 
+Bodies and to Government-aided schools. 
+Furniture up to Rs.50 lakh in a year can be recommended by an MP from MPLADS 
+funds for primary and secondary schools belonging to Central/State/UT Governments and 
+Local Bodies and to Government-aided schools.  One particular school will be eligible to 
+maximum Rs.10 lakh in its life time. 
+It will be mandatory to emboss the furniture provided under MPLADS with the name of 
+the school, the year of procurement and serial number.  The procurement shall be made 
+as per the applicable State Government rules and procedures. The concerned district-level 
+officer of the State Education Department shall check and certify the quantity, quality and 
+appropriateness of cost of the furniture and make available his certification to the District 
+Authority. 
+The furniture so procured shall be duly entered in the stock register of the school by the 
+Principal/Headmaster. The maintenance of the furniture shall be responsibility of the 
+concerned school. 
+7.	 Works of retrofitting of essential lifeline buildings, viz Govt. hospitals, Govt. Schools 
+and public buildings to be used as shelters in an emergency, heritage and archeological 
+monuments and buildings with specific permission available from the Archeological 
+Survey of India. 
+8.	 Utilization of MPLADS funds to Centrally Sponsored Scheme providing assets for 
+individual or family use with the proviso that the M.P. will not add or change any of the 
+criteria for selection declared in the centrally sponsored scheme. 
+9.	 Creation of a Facilitation Centre at each District (para 3.34): An MP would be entitled 
+for setting up of MPLADS Facilitation Centre in the Nodal District for which space/room 
+would be provided by the DC/DM in the premises of either the DRDA or the CDO Office/ 
+CEO, District Panchayat Office. 
+9.1	 The main function of this facilitation centre would be to provide to the Hon’ble M.Ps all 
+the information at one place relevant for the effective implementation of the scheme. If a 
+District has been opted by more than one MP, the Facilitation Centre will provide service 
+to all these Members of Parliament. This facilitation centre should work under the direct 
+control of the District Authority and should have persons on contract with adequate computer 
+operating knowledge to manage the Centre. A lone Data Entry Operator, if necessary, may 
+be engaged through outsourcing/contract from within the 2% Administrative charges. If 
+a Data Entry Operator is engaged, the engagement shall be strictly casual (outsourced/ 
+contractual), it shall not be against any post and shall not, in any form, be construed as 
+
+===PAGE===
+
+37 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+government employment. That no liability, administrative or legal or financial, accrues 
+on the Government (State or Central) in future shall be the responsibility of the District 
+Authority that makes the engagement. 
+9.2	 This facilitation centre should have computer with internet facility and other related facilities. 
+The persons managing the facilitation centre should ensure that all the information about 
+the on-going MPLADS works in the district, information on all the completed works, up to 
+date financial information and up to date MPLADS guidelines and circulars are available 
+in the facilitation centre. Apart from this, the facilitation centre should also display details 
+of on- going MPLADS works and should also maintain details of shelf of projects. 
+The information provided through the facilitation centres inter alia include the following: 
+(i) 	Details of works: 
+(a) recommended by the MP 
+(b) pending examination 
+(c) found ineligible and rejected 
+(d) sanctioned 
+(e) pending sanction, with reasons therefore. 
+(ii) Details of works under implementation, including their physical and financial progress. 
+(iii) Details of completed works, including total expenditure incurred thereon. 
+(iv) Latest Monthly Progress Report.
+ 
+In addition, the facilitation centres should also maintain the following:
+ 
+•		 Guidelines of MPLADS 
+•		 Circulars issued from time to time by Ministry of Statistics and Programme 
+Implementation. 
+•		 Indicative and illustrative Shelf of Projects. 
+9.3	 The facilitation centre should have theirown e-mail address. If required, the District Authority 
+should take the assistance of the District NIC cell in establishing such a facilitation centre. 
+Further District Authority should ensure that the persons engaged on contract for managing 
+the facilitation centre should be well behaved and courteous. 
+9.4	 The recurring running expenses will be booked under 2% administrative charges, of which 
+the Nodal Districts gets 0.8%. 
+10.	 Ambulances/Hearse Vans (Para 3.25): 
+a)	 Ambulances are already allowed to be purchased by the District Authorities/District 
+Chief Medical Officer of the District on the recommendation of a Member of 
+Parliament. 
+
+===PAGE===
+
+38 
+GUIDELINES OF MPLADS
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+b)	 The Ambulances/Hearse Vans will be purchased on the recommendation of the 
+Member of Parliament and after examination by a three-membered Committee 
+consisting of District Magistrate/District Collector as Chairman and District Chief 
+Medical Officer & one representative of District Magistrate/District Collector as 
+Members. 
+c)	 The ownership of the Ambulance/Hearse Vans purchased will rest with the District 
+Authority/District Chief Medical Officer and will be under the general supervision 
+of the District Chief Medical Officer. 
+d)	 User charges will be fixed by the District Authority (on the recommendation of 
+an appropriately formed Committee) who would be responsible to ensure that the 
+charges so fixed are reasonable and affordable for the common man. 
+e)	 The District Collector District Magistrate will monitor the services provided by 
+these Ambulances/Hearses vans, to ensure maximum benefit to the public. 
+f)	 Each Ambulance/Hearse Vans so purchased will have bold markings on both sides, 
+stating: “Ambulance/Hearse Vans purchased with Government of India, MPLADS 
+funds, contributed by …………….MP.” 
+g)	 The District Authority will put up public notices at prominent places in the 
+Government Hospitals, Municipal/Panchayat Offices, etc., together with the 
+contact numbers, about the provision of Ambulance/Hearse Vans by the Member of 
+Parliament from his/her MPLADS funds to enable the public to avail the services 
+of the Ambulance/Hearse Vans and to lodge complaints in the cases of misuse or 
+non-use so as to enable the District Authority to take necessary action after proper 
+enquiry into those complaints. 
+10.1	 Purchase of Ambulances for sick/injured animals in Wildlife Sanctuaries and National 
+Parks - Vehicles to Transport Animals (Para 3.25.1) 
+It is allowed to procure vehicles to transport animals (sick/injured or otherwise) in the 
+Wildlife Sanctuaries and National Parks with the following provisions: 
+a)	 The vehicles will be purchased on the recommendation of a three members committee 
+consisting of District Magistrate/District Collector as Chairman and concerned 
+District Forest Officer (DFO) and representative of Director/Head of the concerned 
+Wildlife Sanctuary/National Park as Members. 
+b) 	 The ownership of the vehicle so purchased will vest with the Wildlife Sanctuaries/ 
+National Park concerned and the vehicle will be under the general supervision of the 
+Director/Head of the Wildlife Sanctuary/National Park concerned. 
+c) 	 The vehicle so purchased will have bold markings on both sides, stating: ‘vehicle 
+for transporting animals’, purchased with Government of India, MPLADS Funds, 
+contributed by Shri ……………………….MP’. 
+
+===PAGE===
+
+39 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+10.2 Ambulances to transport animals (para 3.25.2): 
+(a) Ambulances are already allowed to be purchased by the District Authorities on the 
+recommendation of a Member of Parliament for sick/injured animals in Wildlife 
+Sanctuaries and National Parks.  It has been decided to also allow the purchase of 
+ambulances to transport sick/injured animals in the District. 
+The ambulances will be purchased on the recommendation of the Member of 
+Parliament and after examination by a three- member Committee consisting of 
+District Magistrate/District Collector as Chairman and District Chief Medical 
+Officer and concerned District Chief Veterinary Officer as Members. 
+(b) The ownership of the ambulance purchased will rest with the District Authority/ 
+District Chief Veterinary Officer. 
+(c) User charges will be fixed by the District Authority (on the recommendation of 
+an appropriately formed Committee) who would be responsible to ensure that the 
+charges so fixed are reasonable and affordable for the common man. 
+(d) The District Collector/Deputy Commissioner/District Magistrate will monitor the 
+services provided by these ambulances, to ensure maximum benefit to the public. 
+(e) The ambulance so purchased will have bold markings on both sides, stating: 
+“Ambulance for transporting animals, purchased with Government of India, 
+MPLADS funds, contributed by ........................MP”. 
+(f)	 The District Authority will put up public notices at prominent places in the 
+Government Veterinary Hospitals, Municipal/Panchayat Offices, etc., together with 
+contact numbers, about the provision of ambulance by the Member of Parliament 
+from his/her MPLAD Scheme funds to enable the public to avail the services of 
+the ambulance and to lodge complaints in the cases of misuse or non-use so as to 
+enable the District Authority to take necessary action after proper enquiry into those 
+complaints. 
+11.	 Purchase of books for schools, colleges and public library(Para 3.29): Books to the 
+extent of Rs. 22 lakh per annum can be purchased for schools, colleges and public libraries 
+belonging to Central, States, UTs and Local Self-Government from MPLADS Fund. The 
+ceiling of purchases is as follows: 
+i) Purchase of books for schools upto middle level  - Upto Rs.6 Lakh 
+ii) Purchase of books for schools upto high school/	  - Upto Rs.8 Lakh
+ 
+Higher secondary level
+ 
+iii) Purchase of books for colleges/other technical	  - Upto Rs.8 Lakh
+ 
+institutes/ITIs/Public Libraries
+ 
+
+===PAGE===
+
+40 
+GUIDELINES OF MPLADS
+    
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+While recommending purchase of books to schools, colleges and other technical institutes 
+etc., the following monetary ceiling shall be adhered to  for a particular school/college/ 
+other technical institutions/ITI’s/Libraries:- 
+i) Upto Middle School Level	 - Rs. 10,000/­
+ii) Upto High School/Higher Secondary Level - Rs. 25,000/­
+iii) For colleges/other technical institutes/ITIs	 - Rs. 50,000/­
+/Public Libraries
+ 
+These Schools/Colleges/Institutes will not be entitled for recommendation of books in the 
+subsequent year but will be entitled in the 3rd year again. 
+The recommendations made by the Hon’ble MPs shall be examined/ approved by a 
+Committee consisting of:­
+i)	 District Education Officer - Chairman 
+ii)	 A representative of District Magistrate/District Collector; 
+iii) Two Principals/Head Masters; and 
+iv) Co-opt Head Master/Principal of the School/college /institution to whom the books are 
+proposed to be supplied. 
+12.	 New borings in place of hand pumps installed under MPLAD Scheme (para 3.32): New 
+borings in lieu of the existing non-functional hand-pumps using the re-usable components 
+of the parts of the non-functional hand pumps are permissible subject to the following 
+conditions:­
+1. 	 New borings may be allowed subject to techno-economic feasibility and as per laid-
+down procedures of the State/UT concerned. 
+2. All usable components/parts of the defunct hand pumps must be used in the new borings. 
+3. New borings should be only for water required for drinking and household purposes and 
+in no circumstances should water be diverted for any other purpose such as agricultural, 
+industrial, commercial, horticultural etc. 
+4. New borings may be allowed only in need-based cases and not as a matter of routine 
+and it should in no case be detrimental to the water table. 
+5.	 The proposals for new borings should satisfy all other conditions stipulated in the 
+Guidelines on MPLADS 
+13.	 Construction of Railway Halt Station (Para 3.35): Funds from MPLAD Scheme if so 
+nominated by MP can be used for construction of Railway Halt Station to facilitate the local 
+community for boarding/deboarding from the train. The implementation will be carried out 
+as per the provisions of the Railways, subject to the provisions of the MPLADS Guidelines. 
+
+===PAGE===
+
+41 
+GUIDELINES OF MPLADS
+ 
+  
+ 
+  
+ 
+  
+   
+    
+   
+   
+        
+ 
+13.1	 If Railways are also contributing for such activities, the accounts of expenditure will 
+be strictly maintained separately for both MPLADS and Railways and a strict check be 
+maintained to avoid any duplication/duplicate accounting. A plaque (steel/metal) indicating 
+the cost involved, contribution made from MPLADS/Railways, if any, commencement, 
+completion and inauguration and the name of the MP sponsoring the work should be 
+permanently erected. 
+14.	 Assistance to Bar Associations (Para 3.38): MPs may recommend their MPLADS funds 
+to the Bar Associations at the Tehsil/Sub-division/District level for construction of Building 
+of the Bar Association provided the land for it belongs to the Central, State/UT or local 
+self-Government and subject to the provisions of para 3.21 of the MPLADS Guidelines. No 
+MPLADS Funds will be permissible for any recurring expenditure of the Bar Association. 
+14.1	 Assistance to Bar Association Library for purchase of books (Para 3.38.1): Subject 
+to provisions of para 3.38  above and para 3.21 of the MPLADS Guidelines, MPs may 
+recommend MPLADS funds to Bar Association Library for purchase of books upto Rs. 
+50,000/- (Rs. fifty thousand only) per annum for Lower and District Courts (courts at Tehsil/ 
+Sub-division/District level). 
+The recommendations of the MPs under paras 3.38 and 3.38.1 will be examined/approved 
+by a Committee consisting of : 
+-	 District Commissioner/District Magistrate 
+of the respective District Chairman 
+-	 Public prosecutor nominated by 
+District/Session Judge  Member
+ 
+-	 Registrar of the respective court  Member 
+-	 Two eminent Lawyers/Advocates Member
+ 
+nominated by the Bar Council
+ 
+Since, presently, under para 3.21 of the MPLADS Guidelines community infrastructure 
+and public utility building works are only permissible for registered societies/trusts and 
+books are not covered therein, para 3.38.1 is in modification of contents in para 3.21. 
+15.	 Provision of Solar Light: While beneficiary contribution for individual solar lights will 
+continue to be prohibited under MPLADS, the net cost after deduction of subsidy, which 
+a government or local body/agency has to bear for a solar light project, where the project 
+is in a public place, where the project is for the public/community at large, and where the 
+subsequent maintenance of the solar lights is duly provided for, will be permitted under 
+MPLADS. The same is for public good and in public interest and promotes solar energy 
+and the aspect of individual/family benefit does not arise in such cases. 
+It may be noted that the above does not imply any dilution in the provisions contained in 
+item 11 of Annexure-II and in para 3.20.  
+
+===PAGE===
+
+42 
+GUIDELINES OF MPLADS
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+16. Installation of firmly fixed waiting chairs/benches for passengers at railway stations: 
+Funds from MPLAD Scheme can be used for installation of firmly fixed waiting chairs/ 
+benches (including overhead sheds) for passengers at railway stations. These will be 
+the property of Ministry of Railways, duly taken on its inventory. The implementation 
+will be carried out as per the provison under Para 2.11(b) which states that for certain 
+works in certain Central Government Ministries/Organizations (like Railways) where the 
+Implementing Agency has necessarily to be concerned Central Government Ministry/ 
+Organization, the same shall be selected as the Implementing Agency. 
+17. Construction of toilets in schools: 
+The District Authorities have been requested as below: 
+i.	 that whenever any infrastructure for schools/educational institutions is recommended 
+under MPLADS, it should be ensured that the proposal invariably contains the requisite 
+number of toilets; 
+ii. in case of co-educational schools/educational institutions, there should be separate 
+toilets for girls; 
+iii. infrastructure for schools/educational institutions should be sanctioned under MPLADS 
+only and only after ensuring the availability of requisite  number of toilets in that school/ 
+educational institution. 
+iv. further, the use of bio-digester toilets should also be adopted, wherever feasible and 
+appropriate; 
+v.	 in addition, list of schools without toilets, as well as a list of co-educational schools 
+without separate toilets for girls, may be prepared and made available immediately to 
+the Hon’ble MPs for their reference and use. 
+18. Shelters for imparting training for skill development: 
+Shelters for imparting training for skill development will be permissible in line with the 
+basic scheme of the MPLADS, with the stipulations that: 
+(i) They will be admissible only for: 
+(a) government/government institutions (as per the general import of  MPLADS); and 
+(b) registered trusts/societies (as per para 3.21 of the Guidelines on MPLADS). 
+(ii) In both cases: 
+(a)	 commercial activity will be prohibited; 
+(b)	 only such shelters will be permitted as are suitably and specifically designed for the 
+purpose of imparting specialized skill training. 
+
+===PAGE===
+
+43 
+GUIDELINES OF MPLADS
+    
+  
+ 
+ 
+ 
+ 
+ 
+(c) the shelters may also be such as can be dismantled, transported and firmly re-erected 
+and re-used at another spot. 
+(d) the shelters created under the MPLADS will be duly entered in the 	  stock-register of 
+the recipient government institution or registered trust/society eligible under para 3.21 
+of the Guidelines of MPLADS. 
+(e) the implementation will be undertaken by the District Authority as per the State 
+Government rules, guidelines and procedures. 
+19.	 In future it will be mandatory that the durable assets created under the MPLADS are 
+friendly to persons with disabilities, wherever feasible. Retrofitting in existing durable 
+assets created under the MPLADS to make them friendly to persons with disabilities will 
+also be permissible. 
+It has also been decided that in future all movable assets specifically permissible under 
+the Guidelines on MPLADS such as school buses, ambulances, mobile dispensaries, etc. 
+procured with MPLADS funds are friendly to persons with disabilities, wherever feasible. 
+20.	 MPs may recommend funds for augmentation of funds for Schemes such as ‘Swachh 
+Bharat Abhiyan’ which provide for construction of individual toilets, subject to provisions 
+contained in para 3.17 and 3.18 of the Guidelines on MPLADS. 
+
+===PAGE===
+
+44 
+GUIDELINES OF MPLADS
+                                 
+          
+ 
+ 
+ 
+ 
+  
+Annexure-III 
+FORMAT FOR RECOMMENDING ELIGIBLE WORKS BY
+ 
+MEMBER OF PARLIAMENT
+ 
+(The recommendation may be given on the MP’s letter head) 
+Place: ____________________ 
+Date: ____________________ 
+From 
+Name 
+Member of Parliament (Lok Sabha/Rajya Sabha) 
+Address 
+To 
+The District Authority 
+(District Collector/Deputy Commissioner/District Magistrate/ 
+Commissioner of Municipal Corporation/CEO of District Planning Committee) 
+Subject: Recommendation of works under MPLAD Scheme 
+Sir, 
+I recommend that the following works may please be scrutinized and sanctioned, in 
+the order of priority indicated below, from the MPLADS fund. The works in the Priority 
+No…………………….…………..are meant for the development of areas inhabited by SCs /and 
+STs Population respectively. 
+Priority 
+No. 
+Nature of work 
+(Sector name & work code)* Location Approximate cost (Rs. 
+in lakh) 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+* Please refer to Annex – IVE of the Guideline
+ (The priority list can be increased if the MP recommends more works up to the entitlement). 
+2. The above works may please be got scrutinized and technical, financial and administrative 
+sanction issued within 75 days of receipt of this letter. The sanctioned works should be completed 
+quickly as per the provisions of the MPLADS Guidelines. I may please be kept informed of the 
+sanction and the progress of the works implementation. If any of the recommended work is found 
+ineligible/rejected, reasons for the same may be intimated to me within 45 days.  If the sanction is 
+delayed beyond 75 days, reasons for the same may also be intimated to me. 
+Yours faithfully, 
+(Signature of MP) 
+
+===PAGE===
+
+45 
+GUIDELINES OF MPLADS
+ 
+      
+    
+        
+              
+       
+     
+      
+ 
+ 
+ 
+    
+     
+       
+ 
+ 
+ 
+ 
+ 
+______________________________________________________________ 
+Annexure-IV A 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME 
+Input Format for the District Authority 
+State: Implementing District: 
+Whether LS/RS: Nodal District: 
+Constituency: if LS MP: Report for 
+(MM/YYYY) 
+Block/Urban: Ward/Gram Panchayat 
+1.	 Work Identity No. 
+2.	 Work with Location 
+3.	 Sector 
+4.	 Scheme 
+5.	 No. of SC and ST population covered (SC) (ST) (Total) 
+by this work 
+(dd) (mm) (yyyy) 
+6. (a) Date of Receipt of Proposal 
+(b) Priority No. of Proposal as 
+recommend by MP
+ 
+(c) Date of Sanction 
+(d) Date of Work Commencement 
+7.	 Work Cost Sanctioned (Rs). 
+8.	 Implementing Agency 
+
+===PAGE===
+
+46 
+GUIDELINES OF MPLADS
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+9.	 Date of Completion
+(a) Original (as indicated on sanction order) 
+(b) Anticipated (Actual if Completed) 
+10.	 Cumulative Expenditure(Rs.) 
+11.	 Present Status
+ (N-Not yet started, O-On going, C-Completed, 
+D- Discontinued) 
+12.	 Physical Progress (%) 
+13. 	 Cumulative Amount Released (Rs.)
+14. 	 Date of last Release of Payment 
+15.	  If Completed, Amount of Saving (Rs.)
+16. 	 Date of Refund of Saving 
+17.	 If Completed, Date of handing over to the 
+User Agency 
+18. 	 If Completed, Date of submission of Completion 
+Report by Implementing Agency 
+19.	 REMARKS IF ANY 
+This space may be used to mention reasons for 
+(dd) (mm) 
+(dd) (mm) 
+(dd) (mm) 
+(yyyy) 
+(yyyy) 
+(yyyy) 
+Discontinued Projects/Delay in execution/Non Completion, or any other remarks and steps 
+taken for revival/early commencement and completion of the work. 
+
+===PAGE===
+
+47 
+GUIDELINES OF MPLADS
+ 
+      
+    
+         
+   
+     
+ 
+ 
+ 
+ 
+ 
+      
+                             
+ 
+        
+  
+ 
+ 
+ 
+ 
+ 
+__________________________________________________________________________ 
+Annexure-IVB 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME 
+Input Format for Master Data Entry 
+State: Implementing District: 
+Whether LS/RS: Nodal District: 
+Constituency: if LS MP : Report for 
+(MM/YYYY) 
+Block/Urban: Ward/Gram Panchayat 
+1.	 Work Identity No. 
+2.	 Work with Location 
+3.	 Sector 
+4.	 Scheme 
+5.	 No. of SC and ST population covered 
+by this work (SC) (ST) (Total) 
+(dd) (mm) (yyyy) 
+6. (a) Date of Receipt of Proposal 
+(b) 	 Priority No. of Proposal as 
+recommend by MP 
+(c)	 Date of Sanction 
+(d)	 Date of Work Commencement 
+7. Work Cost (Rs.) 
+
+===PAGE===
+
+48 
+GUIDELINES OF MPLADS
+ 
+      
+   
+             
+                                                                                         
+8.	 Implementing Agency 
+9.	 Date of Completion (dd) (mm) (yyyy) 
+Original (as indicated on sanction order) 
+10. 	 Does the work benefit SC and ST population?                SC Yes/ No 
+(Indicate SC&ST population out of total population)     ST Yes/No 
+
+===PAGE===
+
+49 
+GUIDELINES OF MPLADS
+ 
+      
+     
+        
+               
+            
+                                   
+    
+      
+   
+                     
+  
+___________________________________________________________________________ 
+Annexure-IVC 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME 
+Input Format for Monthly Data Entry 
+State: Implementing District: 
+Whether Nodal District: 
+LS/RS: 
+1. Date of Completion Anticipated now 
+(Actual if Completed)  (dd) (mm) (yyyy) 
+Constituency: if LS Name Report for 
+of MP : the month
+ (mm/yyyy) 
+Block Name : Village Name : 
+2. Cumulative Expenditure (Rs.) 
+3. Present Status
+ (N – Not yet started, O – On going, C – Completed, 
+D – Discontinued)
+ 
+4. Physical Progress (%) 
+5. 	Cumulative Amount Released (Rs.) 
+(dd) (mm) (yyyy) 
+6.  Date of last Release of Payment 
+7.  If Completed, Amount of Saving (Rs.) 
+(dd) (mm) (yyyy) 
+8. Date of Refund of Saving to the District Authority 
+9. 	 If Completed, Date of handing over to the
+      User Agency 
+
+===PAGE===
+
+50
+GUIDELINES OF MPLADS
+ If Completed, Date of submission of Completion 
+Certificate by Implementing Agency 
+REMARKS IN ANY 
+This space may be used to mention reasons for 
+Discontinued Projects/Delay in execution/Non 
+Completion, or any other remarks and steps taken 
+for revival /early commencement and completion of 
+the work 
+
+===PAGE===
+
+51 
+GUIDELINES OF MPLADS
+ 
+      
+     
+                  
+            
+               
+          
+ 
+ 
+          
+ 
+       
+ 
+       
+ 
+___________________________________________________________________________ 
+Annexure-IVD 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME 
+Format for Entry of Data by Implementing Agency 
+State: District: 
+MP: 
+Whether LS/RS: Nodal District: 
+(mm) (yyyy) 
+Constituency: Report for the   
+if LS month 
+Implementing Agency 
+1.	 Work Identity No. 
+(Should be same as given by the District) 
+(dd) (mm) (yyyy) 
+2. 	 Date of Completion 
+(Actual, if completed) 
+3 	 Cumulative Expenditure (Rs.) 
+4. 	 Present Status
+ (N – Not yet started, O – On going, C – Completed, 
+D – Discontinued) 
+5 	 Physical Progress (%) 
+6.	 Cumulative Amount Received (Rs.)                                                                                                                          
+(dd) (mm) (yyyy) 
+7. Date of last release of payment 
+
+===PAGE===
+
+52 
+GUIDELINES OF MPLADS
+   
+   
+ 
+8. 
+9. 
+10. 
+If work completed, amount of savings refunded by the 
+         implementing agency to the District Authority
+Date of Refund of saving to the District Authority 
+If work completed, date of submission of completion 
+Report 
+(dd) 
+(dd) 
+(mm) 
+(mm) 
+(yyyy) 
+(yyyy) 
+11.  REMARKS IF ANY 
+This space may be used to mention reasons for 
+discontinued Projects/Delay in execution/Non 
+Completion, or any other remarks and steps taken 
+for Revival/early commencement and completion 
+of the work. 
+
+===PAGE===
+
+53 
+GUIDELINES OF MPLADS
+ 
+                    
+   
+             
+         
+                    
+                    
+                         
+    
+   
+                     
+       
+    
+                
+   
+    
+            
+ 
+               
+                 
+    
+Annexure-IVE 
+LIST OF SECTOR AND SCHEMES CODES
+ 
+(This is sector wise type of illustrative works under MPLADS and is subject to the provisions 
+in the Guidelines. This is not to be treated as an exhaustive list, nor a shelf of projects/master 
+list of eligible items under MPLADS. 
+I. DRINKING WATER FACILITY (01) 
+1. Tube wells 
+2. Water tanks 
+3. Hand pumps 
+4. Water tankers 
+5. Piped Drinking Water Supply 
+6. Other works for providing drinking water 
+II. EDUCATION (02) 
+1. Building for Government educational institutions 
+2. Buildings for Government aided/un-aided
+ educational institutions 
+3. Computers for Govt. and Govt. aided educational
+ institutions 
+4. Construction of Dining Halls and Kitchen with 
+Fixed Purifier and Solar Geyser for Mid-Day
+ Meal Scheme. 
+5. Other projects for educational institutions 
+III. ELECTRICITY FACILITY (03) 
+1. Projects for lighting of public streets and places 
+2. Projects of Govt. Agencies for improvement of
+ Electricity distribution infrastructure 
+3. Others 
+IV . HEALTH AND FAMILY WELFARE (04) 
+1. Buildings for hospitals, family welfare centers,
+    public health care centers, ANM centers 
+2. Procurement of hospital equipments for Govt.
+ hospitals and dispensaries. 
+3. Purchase of medical equipment costing not less 
+than Rs. 5 lakh shall be permissible for Government 
+Hospitals/Dispensaries. 
+SECTOR SCHEME 
+01 001 
+01 002 
+01 003 
+01 004 
+01 005 
+01 999 
+02 001 
+02 002 
+02 003 
+02 004
+02 999 
+03 001 
+03 002 
+03 999 
+04 001 
+04 002 
+04 003
+
+===PAGE===
+
+54 
+GUIDELINES OF MPLADS
+                  
+                    
+                  
+   
+      
+                
+                
+   
+                  
+                
+                  
+             
+                    
+          
+                 
+            
+                   
+   
+      
+     
+            
+                  
+4. Ambulances for Government 	 04 004 
+5. Mobile dispensaries 	 04 005 
+6. Crèches and Anganwadies 	 04 006 
+7. Construction of Blood bank building and associated 04 007 
+fixed and durable assets. 
+8. Ambulance/Hearse run through NGOs	 04 008 
+9. Other health and family welfare projects 	 04 999 
+V .  IRRIGATION FACILITIES (05) 
+1. Construction of public irrigation facilities 	 05 001 
+2. Construction of flood control embankments 	 05 002 
+3. Public Lift irrigation projects 	 05 003 
+4. Public ground water recharging facilities	 05 004 
+5. Other public irrigation projects 	 05 999 
+VI. NON-CONVENTIONAL ENERGY SOURCES (06) 
+1. Community Gobar-gas plant 	 06 001 
+2. Non-conventional energy system/devices for
+ Community use 06 002 
+3. Others	 06 999 
+SECTOR          SCHEME 
+VII. OTHER PUBLIC FACILITIES (07) 
+1. Construction of community centers* 	 07 001 
+2. Construction of common shelters for cyclones, 
+Floods and handicapped 07  002 
+3. Construction of public libraries & reading rooms 07 003 
+4. Crematoriums and structures on burial/cremation ground 
+     including energy efficient crematoria 07 004 
+5. Common work sheds for artisans 	 07 005 
+6. Construction of bus-sheds/stops for public 
+Transport passengers 07 006 
+7. Buildings for cultural activities 	 07  007 
+
+===PAGE===
+
+55 
+GUIDELINES OF MPLADS
+  
+   
+            
+              
+             
+    
+     
+             
+       
+       
+          
+          
+ 
+ 
+ 
+ 
+         
+       
+      
+    
+    
+    
+   
+8. Purchase of motor boats for flood and cyclone
+ prone areas (not for individuals) 07 008 
+9. Boundary walls for buildings permissible in the scheme 07 009 
+10. Public parks 07 010 
+11. Hearse  07   011 
+12. Battery operated buses for Govt. agencies 07 012 
+13. Fire tenders for Government organizations 07 013 
+14. Other public works not covered elsewhere 07 999 
+15. Retrofitting of essential lifeline buildings, 
+viz Govt. hospitals, Govt. Schools and public
+     buildings to be used as shelters in an emergency. 
+07  014
+16. Early Warning Systems for effective disaster 
+mitigation. 
+07  015
+17. Others 07  999 
+*(i) MPLADS funds can be used for construction of only one Community Hall in one village (the 
+‘village’ implies a ‘revenue village’). 
+(ii) in villages where one or more Community Hall already exist, whether constructed from 
+MPLADS funds or from funds of any other Central/State Government Scheme, no further 
+Community Hall can be constructed from MPLADS funds; and 
+(iii) the Community Hall constructed with MPLADS funds will be accessible without restriction 
+to all members of local community. 
+(iv) construction of additional floors on the existing community halls in cities where there is 
+shortage of land is permissible. 
+VIII. RAILWAYS, ROADS, PATHWAYS AND BRIDGES (08) 
+1. 	Construction of roads, approach roads, link roads,
+ Pathways. 08 001 
+2. 	Construction of foot paths. 08  002 
+3. 	Construction of culverts and bridges. 08 003 
+4. 	Level crossing at unmanned railway crossing. 08  004 
+5. Construction of Road Under Bridge in lieu of Level 08  005
+ Crossings (manned or unmanned). 
+6. Construction of Staircase in case of Road Over Bridge 08  006
+ (ROB) where it is not available. 
+7. Construction of Foot Over Bridge (FOB) for crossing 08  007
+ Railway tracks for pedestrians/road users. 
+
+===PAGE===
+
+56 
+GUIDELINES OF MPLADS
+    
+   
+   
+   
+   
+    
+   
+   
+       
+    
+      
+       
+              
+         
+          
+        
+        
+         
+            
+          
+             
+           
+             
+8. Construction of Diversion Roads in lieu of Level 	 08  008
+ Crossings. 
+9. Construction of Road Under Bridges, where unauthorized 	 08  009
+    crossing or cattle crossing of Railway Tracks is going on, 
+due to construction of roads on either side of the 
+    Railway Track. 
+10. Construction of Approach Road to Railway Station. 08  010 
+11. Construction of Circulating Area of Railway Station. 08     011 
+12. Construction of additional Toilets for passengers in 	 08  012
+      Circulation Area of Railway Station. 
+13. Construction of Platforms at Railway Station. 08  013 
+14. Construction of Foot Over Bridge at Railway Station. 08  014 
+15. Construction of Platform Shelter in Station premises. 08  015 
+16. Provision of Drinking Water in Station premises. 08  016 
+17. Provision of Escalator/ Travellator at Stations. 08  017 
+18. Provision of Solar Lighting at Station/ Level Crossing Gate.  08	  018 
+19. Amenities for physically challenged persons at Stations 
+(like ramps, separate toilets, etc.). 
+20. Others 
+IX. SANITATION AND PUBLIC HEALTH (09) 
+1. Drains and gutters for public drainage 
+2. Public toilets and bathrooms 
+3. Garbage collection and night soil disposal Systems, 
+earth movers including vehicles for local bodies 
+4. Other works for sanitation and public health 
+X. SPORTS (10) 
+1. Buildings for sports activities 
+2. Buildings for physical training institutions 
+3. Buildings for multi-gym 
+4. Fixed (immovable) sports equipment 
+5. Multi gym equipments 
+08  019
+08  999 
+09 001 
+09 002 
+09 003 
+09 999 
+10 001 
+10 002 
+10  003 
+10 004 
+10 005 
+
+===PAGE===
+
+57 
+GUIDELINES OF MPLADS
+          
+         
+         
+ 
+  
+        
+            
+    
+          
+              
+           
+        
+               
+            
+          
+            
+               
+               
+      
+              
+     
+                      
+6. Construction of Playfields/Sports facilities at 	 10  006
+ village-level/block-level. 
+7. Construction of Multi-Purpose Halls for Games 10  007 
+8. 	Laying of Synthetic Hockey and Football Turfs of 10  008
+ permanent nature as per the International Standards. 
+9. 	Construction of Vyamshalas (Gymnasium/Fitness Centres) 10 009 
+10. Construction of Open-Air Mini Stadium with Concrete 	 10  010
+      Sitting Area for spectators at District headquarters. 
+11. Fixed garden gym machines	 10    011 
+12. Other public works for sports activities 	 10 999 
+XI. Works relating to Animal Husbandry, Dairy and Fisheries (11) 
+1. Building for veterinary aid centers, artificial
+ insemination centers & breeding centers 	 11  001 
+2. Shelters for animals 	 11 002 
+3. Construction of Veterinary Hospitals and 	 11  003
+ Dispensaries. 
+4. Construction 	of Buildings and Fixed Assets for 
+Semen Banks. 11             004 
+5. Others	 11  999 
+XII.Works relating to Agriculture (12) 
+1.	 Construction of Farmers’ Training and Assistance 12  001
+ Centers 
+2.	 Construction of Soil Testing Laboratories  subject to 12  002
+ the condition that no consumables will be allowed. 
+XIII. Works relating to Cluster Development for Handloom Weavers (13) 
+1.	 Effluent Treatment Plants provided that such projects    13  001
+       are for the community at large and not for any individuals. 
+XIV . Works relating to urban development (14) 
+1.	 Construction of Footpaths/Pedestrian ways. 14  001 
+2.	 Construction of segregated Non-Motorized 14  002 
+Vehicle (NMV) lanes/Cycle tracks. 
+3. 	 Construction of Rainwater Harvesting Parks – 14  003 
+demo projects – subject to only one per municipality. 
+4. Community Toilets.	 14  004 
+
+===PAGE===
+
+58 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+Note: 
+(a) 	 The works will be for the general public/community at large and not for any individuals. 
+(b) The operational and maintenance costs will be borne by the user government/ministry/ 
+department/organization. (This element will be ensured by the district authority before 
+initiation of the work.) 
+(c) 	 The construction of a building (like multi-purpose hall for games, vyayamshala, open-air 
+mini stadium,  veterinary hospital and dispensary, semen bank, farmers’ training assistance 
+centre and soil testing laboratory, etc.) will be undertaken only and only if the particular 
+item is duly sanctioned and its operational and maintenance requirements and costs (like 
+manpower, furniture, fixtures, office equipment, consumables, security etc.) will be duly met 
+by the user government/ministry/department/organization. 
+(d) It will be ensured by the district authorities that the essential objective and regular productive 
+use of the assets created under the MPLADS will be duly met. 
+
+===PAGE===
+
+59 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure-V 
+Agreement Form
+ 
+This Agreement is made on __________________________________ between the Governor of 
+___________acting through ……………………………………………………………………… 
+…………………………………………………………… Designation and Address) the District 
+Authority hereinafter called the “First Party” of the First Part; 
+And 
+The Chief Executive of the (……………Name and address of Registered Society/Registered 
+Trust), hereinafter called the “Second Party” of the Second Part. 
+Whereas the First Party as the District Authority is the authority to get the development works 
+implemented in ………..District, on the locally felt needs on the recommendation of the Member 
+of Parliament, as per Guidelines on Member of Parliament Local Area Development Scheme 
+(MPLADS). 
+And 
+Whereas the Second Party is a Society registered under the Societies Registration Act, 
+1860 or a Trust, registered under the Indian Trust Act, 1882 or any Registration Act of any State 
+Government is engaged in social service and welfare activities since (Date, Month, Year) for more 
+than _________ years and is well established and reputed one in the field of social service and 
+welfare activities with non-profit operation and with sound financial position. 
+Now therefore it is hereby agreed between both the Parties to this Agreement and binds 
+themselves to the following terms and conditions:­
+1. The First Party shall undertake the construction of __________________ on the 
+recommendation of the Member of Parliament as per the Guidelines on Member of Parliament 
+Local Area Development Scheme, as amended from time to time (hereinafter referred to as 
+MPLADS) for implementation of the work under the aforesaid MPLADS. 
+2. The Second Party will be eligible to receive and manage the assets created out of the funds 
+by the First Party from the Member of Parliament Local Area Development Scheme as per the 
+Guidelines on the subject meant for the benefit and use by and/or for the public. 
+3. A work at (Name of the Place, District and Pin code) regarding the construction of 
+(Name of the work) costing the value mutually agreed upon by the parties and that has been 
+duly recommended by ____________________ (the name of concerned MP) under the MPLAD 
+Scheme, shall be undertaken by the First Party, to be handed over to the Second Party after 
+completion of the construction. 
+4. The First Party shall call for the necessary records from the Society/Trust such as the 
+Memorandum of Association of the Society with special reference to Section 13 of the Societies 
+Registration Act, 1860 and the trust deed of the trust with special reference to Section 77 and 
+Section 78 of the Trust Act and be satisfied with the existence and reputation of the organization, 
+and its functioning as non-profit operations, transparency of performance, its sound financial 
+position and its overall public reputation. 
+5. The Second Party shall give a declaration to the First Party, to the effect that the Society/ 
+Trust it represents is a live organization continuously functioning at least for the last three years 
+engaging itself in social service and/or welfare activities. 
+
+===PAGE===
+
+60 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+            
+     
+   
+ 
+       
+        
+  
+6. The Second Party shall also give a declaration to the First Party, that the land and immovable 
+property offered by the Second Party to the First Party for executing the developmental work is 
+free from any encumbrances, free from pending litigation and not affected by the Urban Land 
+(Ceiling and Regulation) Act, 1976. 
+7. The Second Party shall also give a declaration to the First Party, that the assets created out of 
+MPLADS funds for the society _____________________ or trust, is free from any encumbrances 
+except advance taken for the purpose of this work/project. 
+8. The Second Party shall ensure that durable assets, created out of MPLADS funds in the 
+properties offered by the Second Party, must always be available for the use of or by the general 
+public. In case it is found that the Second Party is not using the asset so created under MPLADS, 
+for the purpose that was meant and/ the public do not have access to the said infrastructure, the 
+First Party will issue necessary notice to the Second Party and after considering the views of the 
+Second Party, if the First Party consider necessary will take over such asset and may recover the 
+cost to the extent of investment made under MPLADS along with interest at the rate of 18%. 
+9. The Central/State Government shall always and at all time be the absolute owner of the 
+durable asset created out of the MPLADS funds. 
+10. The Second Party shall not sell/transfer/otherwise dispose of any interest in or of such 
+asset created out of MPLAD without the prior written approval of the State Government. After 
+the written approval of the Government, the sale proceeds of the assets shall always vest and 
+belong to the first party in all circumstances to the extent of investment made under MPLADS 
+including the interest at the rate of 18%. 
+11. The Second Party herein undertakes the full responsibility to ensure operation, maintenance
+and upkeep of the asset which will be subject to periodical audit and inspection by the First Party 
+or any of its representative/nominee duly authorized in this behalf. 
+12. The Second Party shall submit to the First Party, annual report and its audited accounts on 
+regular basis and within 90 days of the end of the Financial Year. 
+13.  Since this indenture creates a future interest in the immovable property of the value of 
+more than Rs.100/- this Agreement be registered under Registration Act in the respective district. 
+14. In this indenture, wherever such an interpretation would be required to give the fullest 
+possible scope and effect to the terms of the Agreement herein contained, the expressions District 
+Authority and the Society or Trust shall include their respective successors or permitted assignees 
+(Assignees). 
+IN WITNESS WHEREOF the parties here-to-have through their duly authorized representative 
+executed this Agreement on day and year here-in-above-written. 
+Executed for and on behalf of Executed for and on behalf of the 
+the Governor of Society/Trust/Second Party by 
+(State)__________________, 
+by the District Authority	 ________ having authority to sign and execute 
+this Agreement vide resolution dated ________ 
+of _____________ 
+By 
+In presence of following witness:	 In presence of following witnesses: 
+1. ________________________	 1. ________________________ 
+2. ________________________ 	 2. ________________________ 
+
+===PAGE===
+
+61 
+GUIDELINES OF MPLADS
+ 
+                 
+ 
+ 
+               
+                                                            
+       
+I 
+Annexure-VI 
+MONTHLY PROGRESS REPORT UNDER 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME 
+(MPLADS)
+ 
+(Separate form for each Sitting/former Rajya Sabha/Lok Sabha Member)
+ 
+STATEMENT OF INFORMATION UNDER MPLADS FOR THE MONTH OF
+ DD MM YYYY 
+PARTICULARS: 
+STATE: CONSTITUENCY/NODAL 
+DISTRICT: 
+Nodal District 
+Address  ……………………………...
+ ……………………………...
+ ……………………………... 
+Pin: 
+TELEPHONE NUMBERS: 
+STD CODE 
+OFFICE: 
+RESIDENCE: 
+FAX:                 
+MOBILE: 
+e-mail: 
+NAME OF MEMBER OF PARLIAMENT Shri / Smt. 
+MPs Tenure  From 
+DD MM YYYY
+Address  …………………………….
+ …………………………….
+ …………………………….
+ Pin: 
+………………………….. ………………….. 
+To
+ DD MM YYYY 
+
+===PAGE===
+
+62 
+GUIDELINES OF MPLADS
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II. PHYSICAL PERFORMANCE
+ 
+YEAR WORKS 
+RECOMMENDED 
+WORKS 
+SANCTIONED 
+WORKS 
+COMPLETED 
+WORKS NOT 
+COMPLETED 
+Number Estimated 
+cost 
+Number Estimated 
+cost 
+Number Actual 
+Cost 
+Number Expenditure 
+incurred 
+Expenditure 
+To be 
+incurred 
+TOTAL 
+III. FUNDS RECEIVED AND UTILISED  (Rs. In Lakh) 
+YEAR FUNDS 
+RECEIVED 
+FROM GOI 
+INTEREST 
+ACCRUED 
+INTEREST 
+RECEIVED 
+ON 
+DISTRIBUTION 
+TOTAL 
+FUNDS 
+FUNDS UTILISED BALANCE 
+FUNDS 
+SC 
+& 
+ST 
+area 
+Others Total 
+TOTAL 
+(a) Funds received from the Govt. of India 
+(b) Amount of interest accrued on the  funds 
+(c) Funds received on distribution 
+(d) TOTAL (a+b+c) 
+(e) Total cost of works sanctioned 
+(f) Total Unsanctioned Balance available with the Constituency 
+(d-e) 
+(g) Actual Expenditure incurred by the Implementing Agency 
+(h) Total funds available with the Constituency (d-h) 
+(i) Funds required to complete the sanctioned works 
+(j) Savings for Distribution to Successor MPs. 
+(k) Number of works inspected by District Authority 
+(a) During the month 
+(b) Cumulative 
+
+===PAGE===
+
+63 
+GUIDELINES OF MPLADS
+  
+  
+    
+ 
+              
+               
+ 
+ 
+ 
+____________________________ 
+IV . PHYSICAL AND FINANCIAL DETAILS OF WORKS IN SCHEDULED CASTE AREAS.
+ 
+Year 
+1 
+Physical (Number of Works) 
+2 
+Financial (Cost of Works) (Rs. In lakh) 
+3 
+Recommended 
+2(a) 
+Sanctioned 
+2(b) 
+Completed 
+2(c) 
+Recommended 
+3(a) 
+Sanctioned 
+3(b) 
+Completed 
+3(c) 
+V . PHYSICAL AND FINANCIAL DETAILS OF WORKS IN SCHEDULED TRIBE AREAS
+ 
+Year 
+1 
+Physical (Number of Works) 
+2 
+Financial (Cost of Works) (Rs. In lakh) 
+3 
+Recommended 
+2(a) 
+Sanctioned 
+2(b) 
+Completed 
+2(c) 
+Recommended 
+3(a) 
+Sanctioned 
+3(b) 
+Completed 
+3(c) 
+Bank and Branch Name and Address ____________________________ 
+Details: Saving Bank Account Number________________________________Branch Code 
+Place 
+Dated: Signature of District Authority 
+Name in Capital Letter 
+Seal and Designation 
+Copy to Shri/Smt……………………………. Member of Parliament 
+(Address) 
+Note : 
+(i) The District Authority of the Nodal District is required to furnish a consolidated report 
+including the information pertaining to other Districts falling in the constituency where funds 
+were transferred for MPLADS work execution on recommendation of the MP. 
+(ii) Sanctioned amount is the cost of such schemes only for which financial sanctions have 
+already been issued after finalizing plans and estimates. Cost of schemes which have got only 
+administrative approval, and not financial sanction, should not be reported. 
+
+===PAGE===
+
+64 
+GUIDELINES OF MPLADS
+ 
+Annexure-VII 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME
+ 
+(MPLADS) 
+WORK COMPLETION REPORT 
+(To be furnished by the Implementing Agency to the District Authorities) 
+It is certified that work No………….…, (description of work) sanctioned vide 
+order No……………….. dated…/……/……. to be executed under MPLADS at a cost of 
+Rs……….…….…(in figures and words) at ……………………………………(place) has 
+been completed at a cost of Rs…………………….. and has been handed over to the User 
+Agency……………………………………..……………….(Name and address) under intimation 
+to the District Authority for use on……….............(date). 
+The amount of savings i.e Rs………………..……………….(in figures and words) has 
+been remitted to the MPLADS Account of the District Authority vide Cheque No……………. 
+dated…...…….drawn on…………….…………….. (Bank with address). Details of the work are 
+in the enclosed format. 
+Signature of the Implementing Agency 
+Date: 
+Place: 
+District: 
+
+===PAGE===
+
+65 
+GUIDELINES OF MPLADS
+ 
+    
+ 
+ 
+  
+      
+         
+  
+Annexure-VIII 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME
+ 
+(MPLADS)
+ 
+Form of Utilization Certificate for funds received under MPLADS for the year …………….. 
+and for the …………………………….MP constituency for Shri ………………. 
+S.No. Letter No. 
+and date Amount For the 
+Year 
+Instalment 
+No. 
+Total	 
+Certified that out of Rs………….of Grants-
+in-aid sanctioned during the year………… 
+in favour of Shri………., MP of the 
+Constituency………………….. by the Ministry 
+of Statistics and Programme Implementation, 
+Government of India vide letters mentioned on 
+the margin and Rs…….on account of unspent 
+balance of the previous year, a sum of Rs…… 
+has been utilized for the purpose of execution of 
+works. recommended by MP concerned and as 
+permissible under the guidelines on MPALDS 
+for which it was sanctioned. The balance 
+amount of Rs…….remaining unutilized at the 
+end of the year will be carried forward to the 
+next year…………….. 
+2.	 Having been fully satisfied I certify that the conditions on which the grants-in-aid was 
+sanctioned have been duly fulfilled and that I have exercised the following checks to see that 
+the money was actually utilized for the purpose for which it was sanctioned. The following 
+kinds of checks were exercised by me while furnishing this Utilization Certificate:-
+1. 
+2. 
+3. 
+Place Seal	 Signature of District Authority 
+Date 	 Name (capital letters) 
+Designation 
+Telephone 
+
+===PAGE===
+
+66 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+    
+ 
+  
+Annexure-IX 
+MEMBERS OF PARLIAMENT LOCAL AREA DEVELOPMENT SCHEME
+ 
+(MPLADS)
+ 
+AUDIT CERTIFICATE
+ 
+It is certified that we have audited the annual Balance Sheet and accounts as on 31st March…………. 
+(year) and Receipt and Payment and Income and Expenditure Accounts for the year ending 
+on that date of Member of Parliament Local Area Development Scheme (MPLADS) for Shri 
+……………….. of the constituency …………………, from the books of accounts, records and 
+other documents produced to us by the District Authority and the executing agencies. 
+In our opinion and to the best of our knowledge and according to the explanations given to 
+us and subject to our observations as detailed below we report that:­
+(a) The Balance Sheet read together with notes thereon gives a  true and correct view of 
+the state and affairs of the MPLADS as on 31st March ………..(year). 
+(b) The Income and Expenditure Accounts gives a true and correct view of the surplus of 
+funds over expenditure of Rs……………for the year ending 31st March………… 
+(year) 
+(c) The Receipt and Payment Accounts give a true and correct view of the transaction 
+of the Scheme for the year ending 31st March………… (year). 
+(d) Not more than one Bank Account is operated for the Scheme. 
+(e) No funds are kept in the form of Fixed Deposits. 
+(f) Interest accrued in Saving Bank Account has been taken as receipt for use on the 
+MPLAD Scheme. 
+(g) Bank Reconciliation Statement has been prepared regularly for every month till this 
+month…... (year). 
+(h) Cash Book is being written on real accrued basis. 
+(i) Expenditure shown in the Income and Expenditure Account is properly reflected in 
+the Utilization Certificates. 
+(j) There is no case of diversion of funds. 
+(k) The following Reports certified by the Competent Authority of the District 
+Administration form part of the Audit Certificate:-
+
+===PAGE===
+
+67 
+GUIDELINES OF MPLADS
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) 	 Physical and Financial Progress Report for the year ending 31st March…….… 
+(Year). 
+(ii) 	 Cumulative Physical and Financial Progress Report up to 31st March…..….. (Year). 
+(In case of Lok Sabha, MPs right from the inception and for Rajya Sabha MP for the 
+period of individual MP’s tenure). 
+(iii)	 Physical and Financial Details of works in Scheduled Caste/Scheduled Tribe areas 
+upto 31st March……….(Year): 
+Physical and Financial 
+details of works in 
+SC/ST areas 
+(1) 
+Physical (Number of works) 
+(2) 
+Financial (Cost of works) 
+(Rs. in lakh) 
+(3) 
+Sanctioned 
+2(a) 
+Completed 2(b) Sanctioned 
+3(a) 
+Completed 
+3(b) 
+SC Area 
+ST Area 
+(iv)	 MPLADS funds Utilization Certificate. 
+(l) There is no audit objection in so far as the said accounts audited by us.  	(In case there is 
+any pending audit objection and objections raised during the present audit, please furnish 
+the details. (In case of the Audit objections indicated by the Chartered Accountant, the 
+same shall be attached to this Certificate with seal and signature). 
+(m) All works undertaken under the MPLADS by all Trusts/Societies receiving funds under 
+the MPLADS in the year ending 31st March------- (year) have been audited and found to 
+be in order. 
+(The certificate shall be on the auditing firm’s letter head clearly indicating Signature, Name, 
+Address, telephone, fax, and email of the auditor(s) with seal). 
+
+===PAGE===
+
+68 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Annexure-X 
+ONE MP – ONE IDEA 
+Format for submission of applications 
+APPLICANT DETAILS 
+1. Applicant Individual | Team | Organization 
+2. Applicant(s) Name(s) & 
+Occupation 
+a. 
+b. 
+c. 
+3. Contact Address of Applicant(s) 
+4. Telephone/Mobile/Email of 
+Applicant(s) 
+INNOV ATION DETAILS 
+5. Name/Title of Innovation 
+6. Place of use for the Innovation 
+7. Users of Innovation 
+8. Area of Innovation a) Education and 
+Skills 
+b) Health 
+c) Agriculture 
+d) Water and 
+Sanitation 
+e) Housing and 
+Infrastructure 
+f) Energy and 
+Environment 
+g) Community and 
+Social Service 
+h) Any other (please 
+specify) 
+9. Problem Statement 
+[The problem could preferably be a 
+major challenge faced in your area] 
+a) What is the problem? 
+b) Whom is it affecting-geographically and  
+demographically 
+10. Summary of Innovation a) Provide a detailed description of the proposed 
+solution [You can include tables, images and 
+figures here with proper captions, if need be]. 
+b) What makes this innovation different than the 
+other solutions currently in practice? If no other 
+solutions are currently available, discuss the 
+factors that make your innovation viable as a real 
+solution. 
+c) Details of Awards/Recognitions already received 
+
+===PAGE===
+
+69 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Putting the Innovation into Action a) Do you need any of the following, to make your 
+innovation scale up and reach its users: 
+i) Funding 
+ii) Support in Prototyping 
+iii) Research and Development Support 
+iv) Partnerships 
+v) Support in Marketing and Sale 
+b) What will be the potential impact of this solution, if 
+implemented. 
+12. Status a) Please describe the current status of the proposed 
+solution 
+i) Idea Stage 
+ii) Prototype 
+iii) Field Trials /Pilot [Please furnish details] 
+iv) Already in the market [Please furnish details] 
+13. Intellectual 
+Property Right 
+a) Please indicate whether innovation proposed has been 
+patented and/or is covered by Intellectual Property 
+Right either by you or by anyone else. An affidavit to 
+this effect be attached. (If answer is not known, this 
+be stated) 
+14. Business Model a) If you are looking at commercialization of your 
+innovation and need financial support, please furnish 
+the following details: 
+I. Brief Business Plan 
+II. Specific markets & geographical segments your 
+solution will be catering to 
+III. Details of any funding received till date (whether 
+government, venture capitalist, family, etc.) 
+IV . Funding (including loans) that you are now seeking 
+and how you plan to use the funds. Please give 
+forward projection of your funding requirements 
+for the next three years, including projected cash 
+flows. 
+V. If you are planning a new venture, please give 
+projected financials, investment sought, plan for 
+use of funds, revenue model as well as model for 
+growth/scaling up. 
+
+===PAGE===
+
+70 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+Notes: 
+a) Items 1-13 are mandatory, while Items 14 is optional. 
+b) Apart from the Award Money, the ‘One MP - One Idea’ contest will not  provide any 
+financial support for commercialization. 
+c) Please send any documentary proof about your innovation along with the application form. 
+It could be in the form of documents, photographs, video, newspaper clipping, etc. 
+d) Please attach resume of applicant(s). 
+e) By participating in this contest, the applicant agrees to abide by the guidelines laid by the 
+competition. 
+f) If there are no appropriate candidates, the award may not be given in a particular year 
+g)	 The decision of the Selection Committee will be final and binding on all matters related to 
+this Contest. 
+PLACE: 
+DATE:                                          
+SIGNATURE OF THE APPLICANT(s) 
+DECLARATION 
+[I/We declare that this innovation is our original contribution. I/We have read the competition 
+guidelines and agree to abide to them.] 
+SIGNATURE OF THE APPLICANT(s) 
+
+===PAGE===
+
+71 
+GUIDELINES OF MPLADS
+ 
+ 
+ 
+     
+Annexure-XA 
+Ministry of Statistics and Programme Implementation
+ 
+Members of Parliament Local Area Development Scheme
+ 
+Certificate of Honour 
+This is to certify that Shri/Smt/Km……………………………….………………… son/ 
+daughter of Shri……………………………………………………………………... resident of 
+…………………………………………………………………………………………………… 
+……………………………………………………………………………………… 
+has participated in One MP – One Idea Competition held at………… (Name of the Constituency/ 
+State). 
+2. A cash award of Rs.……….......................................……………..is hereby awarded to 
+Shri/Smt/Km.……………………………………….as first prize/second prize/ third prize. 
+3. Details of problems/solution ……………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………..………………………………………………………… 
+…………………… 
+Signature of District Magistrate 
+Dated: 
+
+===PAGE===
+
+72 
+GUIDELINES OF MPLADS
+ 
+ 
+     
+Annexure-XB 
+Ministry of Statistics and Programme Implementation
+ 
+Members of Parliament Local Area Development Scheme
+ 
+Certificate of Appreciation 
+This is to certify that Shri/Smt/Km……………………………….………………… son/ 
+daughter of Shri……………………………………………………………………... resident of 
+…………………………………………………………… 
+has participated in One MP-One Idea Competition held at ……… (Name of the Constituency/ 
+State). 
+2. The Certificate of Appreciation is hereby conferred upon him/her in recognition of his efforts 
+for providing innovative solution under One MP-One Idea competition. 
+3. Details of problems/solution …………………………………………………………………… 
+………………………………………………………………………….………………………… 
+…………………………………………..…………….…………………………………………… 
+……………………………………… 
+Signature of District Magistrate 
+Dated: 
+
+===PAGE===
+
+73 
+GUIDELINES OF MPLADS
+  
+ 
+  
+  
+  
+  
+  
+Annexure-XI 
+SAMPLE OF PLAQUE FOR MPLADS WORKS
+ 
+Name of Member of Parliament ……………………………………………………..
+ 
+Name of work sanctioned …………………………………………………….
+ 
+Date of Commencement ……………………………………………........…....
+ 
+Date of Completion ………………………………………………………
+ 
+Cost of work sanctioned …………………………………………………….
+ 
+Share of funding from MPLADS/other source ……………………………………..
+ 
+Date of Inauguration ……………………………………………………..
+ 
+
+===PAGE===
+
+74 
+GUIDELINES OF MPLADS
+    
+Annexure-XII 
+Information for Registration of Nodal Agencies under MPLAD Scheme into 
+CPSMS and for transfer of funds under the scheme through ECS/ RTGS 
+(All fields are mandatory) 
+Agency Name……………………………………………………………………………… 
+Address Line 1……………………………………………………………………………… 
+Address Line 2……………………………………………………………………………… 
+City………………………………………………………………………………………… 
+State………………………………………………………………………………………… 
+District……………………………………………………………………………………… 
+Pin Code…………………………………………………………………………………… 
+Contact Person……………………………………………………………………………… 
+Phone………………………………………………………………………………………… 
+E-Mail……………………………………………………………………………………… 
+Bank Detail : (Separate account details in respect of each MP) 
+Name of the MP…………………………………………………………………………… 
+Account No………………………………………………………………………………… 
+*Account Name…………………………………………………………………………… 
+Name of the Bank………………………………………………………………………… 
+Branch Code………………………………………………………………….…………… 
+Branch Name & Address…………………………………………………………………… 
+IFSC Code………………………………………………………………………………… 
+*Account should be in the name of Commissioner/District Collector/Magistrate/ 
+Dy. Commissioner 
+Signature of Nodal Authority with Seal 
+
+===PAGE===
+

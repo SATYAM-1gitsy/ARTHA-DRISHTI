@@ -1,0 +1,39 @@
+{
+  "config": {
+    "seed": 42,
+    "n_works_target": 20000,
+    "inject_rate": 0.06,
+    "noise_level": 0.1,
+    "missing_rate": 0.08,
+    "held_out_share": 0.35,
+    "anchored_to": "silver_state, silver_constituency, silver_mp"
+  },
+  "row_counts": {
+    "synth_district": 760,
+    "synth_agency": 3384,
+    "synth_vendor": 2280,
+    "synth_work": 19875,
+    "synth_payment": 59694,
+    "synth_progress": 83456,
+    "synth_asset": 17039,
+    "synth_photo": 13546,
+    "fraud_label": 1564
+  },
+  "pattern_counts": {
+    "pre_sanction_payment": 116,
+    "cost_inflation": 107,
+    "ghost_work": 110,
+    "duplicate_work": 206,
+    "advance_without_progress": 108,
+    "agency_concentration": 232,
+    "ineligible_work": 108,
+    "split_payment": 109,
+    "vendor_round_tripping": 97,
+    "year_end_bunching": 95,
+    "geographic_displacement": 91,
+    "progress_reversal": 87,
+    "photo_reuse": 98
+  },
+  "prevalence": 0.0705,
+  "held_out_share": 0.2992
+}

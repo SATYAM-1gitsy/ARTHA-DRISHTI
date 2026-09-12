@@ -1,0 +1,435 @@
+{
+  "generated_at": "2026-09-03T19:18:30+00:00",
+  "n_works": 19875,
+  "layers_run": [
+    "duplicate",
+    "forecast",
+    "graph",
+    "rules",
+    "unsupervised"
+  ],
+  "held_out": {
+    "quotable": true,
+    "note": "no detector was written against these patterns",
+    "n_positive": 417,
+    "prevalence": 0.02098,
+    "pr_auc": 0.0407,
+    "pr_auc_lift": 1.94,
+    "roc_auc": 0.6506,
+    "precision_at": {
+      "50": 0.02,
+      "100": 0.05,
+      "200": 0.065,
+      "500": 0.06,
+      "1000": 0.044,
+      "2000": 0.0805
+    },
+    "recall_at": {
+      "50": 0.0024,
+      "100": 0.012,
+      "200": 0.0312,
+      "500": 0.0719,
+      "1000": 0.1055,
+      "2000": 0.3861
+    },
+    "lift_at": {
+      "50": 0.953,
+      "100": 2.383,
+      "200": 3.098,
+      "500": 2.86,
+      "1000": 2.097,
+      "2000": 3.837
+    },
+    "false_positives_per_100": {
+      "50": 98.0,
+      "100": 95.0,
+      "200": 93.5,
+      "500": 94.0,
+      "1000": 95.6,
+      "2000": 92.0
+    }
+  },
+  "rule_visible": {
+    "quotable": false,
+    "note": "a rule agreeing with its own injector -- pipeline check only",
+    "n_positive": 992,
+    "pr_auc": 0.3762,
+    "precision_at": {
+      "50": 0.88,
+      "100": 0.83,
+      "200": 0.77,
+      "500": 0.598,
+      "1000": 0.407,
+      "2000": 0.2605
+    }
+  },
+  "per_pattern": [
+    {
+      "pattern": "advance_without_progress",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 108,
+      "n_detected": 34,
+      "recall": 0.3148
+    },
+    {
+      "pattern": "agency_concentration",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 232,
+      "n_detected": 74,
+      "recall": 0.319
+    },
+    {
+      "pattern": "cost_inflation",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 107,
+      "n_detected": 63,
+      "recall": 0.5888
+    },
+    {
+      "pattern": "duplicate_work",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 206,
+      "n_detected": 138,
+      "recall": 0.6699
+    },
+    {
+      "pattern": "geographic_displacement",
+      "visibility": "held_out",
+      "quotable": true,
+      "n_injected": 91,
+      "n_detected": 25,
+      "recall": 0.2747
+    },
+    {
+      "pattern": "ghost_work",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 110,
+      "n_detected": 48,
+      "recall": 0.4364
+    },
+    {
+      "pattern": "ineligible_work",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 108,
+      "n_detected": 43,
+      "recall": 0.3981
+    },
+    {
+      "pattern": "photo_reuse",
+      "visibility": "held_out",
+      "quotable": true,
+      "n_injected": 98,
+      "n_detected": 37,
+      "recall": 0.3776
+    },
+    {
+      "pattern": "pre_sanction_payment",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 116,
+      "n_detected": 116,
+      "recall": 1.0
+    },
+    {
+      "pattern": "progress_reversal",
+      "visibility": "held_out",
+      "quotable": true,
+      "n_injected": 87,
+      "n_detected": 14,
+      "recall": 0.1609
+    },
+    {
+      "pattern": "split_payment",
+      "visibility": "rule_visible",
+      "quotable": false,
+      "n_injected": 109,
+      "n_detected": 89,
+      "recall": 0.8165
+    },
+    {
+      "pattern": "vendor_round_tripping",
+      "visibility": "held_out",
+      "quotable": true,
+      "n_injected": 97,
+      "n_detected": 90,
+      "recall": 0.9278
+    },
+    {
+      "pattern": "year_end_bunching",
+      "visibility": "held_out",
+      "quotable": true,
+      "n_injected": 95,
+      "n_detected": 27,
+      "recall": 0.2842
+    }
+  ],
+  "calibration": {
+    "brier": 0.07639,
+    "mean_predicted": 0.1385,
+    "mean_observed": 0.0705,
+    "assessment": "over-confident",
+    "note": "the fused score is a priority ordering, not a probability",
+    "bins": [
+      {
+        "low": 0.0,
+        "high": 0.1,
+        "n": 13451,
+        "mean_predicted": 0.0,
+        "observed_rate": 0.021857110995465022
+      },
+      {
+        "low": 0.2,
+        "high": 0.30000000000000004,
+        "n": 47,
+        "mean_predicted": 0.2976573356043216,
+        "observed_rate": 0.0851063829787234
+      },
+      {
+        "low": 0.30000000000000004,
+        "high": 0.4,
+        "n": 4637,
+        "mean_predicted": 0.35040232365975404,
+        "observed_rate": 0.10200560707353892
+      },
+      {
+        "low": 0.4,
+        "high": 0.5,
+        "n": 125,
+        "mean_predicted": 0.4348712784551259,
+        "observed_rate": 0.616
+      },
+      {
+        "low": 0.5,
+        "high": 0.6000000000000001,
+        "n": 476,
+        "mean_predicted": 0.5587966811326843,
+        "observed_rate": 0.18487394957983194
+      },
+      {
+        "low": 0.6000000000000001,
+        "high": 0.7000000000000001,
+        "n": 695,
+        "mean_predicted": 0.6431818027046542,
+        "observed_rate": 0.23884892086330936
+      },
+      {
+        "low": 0.7000000000000001,
+        "high": 0.8,
+        "n": 281,
+        "mean_predicted": 0.7407212219503174,
+        "observed_rate": 0.594306049822064
+      },
+      {
+        "low": 0.8,
+        "high": 0.9,
+        "n": 144,
+        "mean_predicted": 0.8441822892540266,
+        "observed_rate": 0.7986111111111112
+      },
+      {
+        "low": 0.9,
+        "high": 1.0,
+        "n": 19,
+        "mean_predicted": 0.9231784649173183,
+        "observed_rate": 0.8947368421052632
+      }
+    ]
+  },
+  "ablation": [
+    {
+      "variant": "rules only",
+      "layers": [
+        "rules"
+      ],
+      "held_out_pr_auc": 0.0208,
+      "held_out_p_at_500": 0.018,
+      "held_out_r_at_2000": 0.0935,
+      "seconds": 4.95
+    },
+    {
+      "variant": "unsupervised only",
+      "layers": [
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.0377,
+      "held_out_p_at_500": 0.098,
+      "held_out_r_at_2000": 0.1775,
+      "seconds": 2.68
+    },
+    {
+      "variant": "graph only",
+      "layers": [
+        "graph"
+      ],
+      "held_out_pr_auc": 0.1399,
+      "held_out_p_at_500": 0.214,
+      "held_out_r_at_2000": 0.3022,
+      "seconds": 0.33
+    },
+    {
+      "variant": "duplicate only",
+      "layers": [
+        "duplicate"
+      ],
+      "held_out_pr_auc": 0.0213,
+      "held_out_p_at_500": 0.022,
+      "held_out_r_at_2000": 0.0911,
+      "seconds": 4.5
+    },
+    {
+      "variant": "forecast only",
+      "layers": [
+        "forecast"
+      ],
+      "held_out_pr_auc": 0.0214,
+      "held_out_p_at_500": 0.032,
+      "held_out_r_at_2000": 0.1055,
+      "seconds": 0.22
+    },
+    {
+      "variant": "all layers",
+      "layers": [
+        "duplicate",
+        "forecast",
+        "graph",
+        "rules",
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.0407,
+      "held_out_p_at_500": 0.06,
+      "held_out_r_at_2000": 0.3861,
+      "seconds": 12.27
+    },
+    {
+      "variant": "without rules",
+      "layers": [
+        "duplicate",
+        "forecast",
+        "graph",
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.0669,
+      "held_out_p_at_500": 0.092,
+      "held_out_r_at_2000": 0.4077,
+      "seconds": 7.35
+    },
+    {
+      "variant": "without unsupervised",
+      "layers": [
+        "duplicate",
+        "forecast",
+        "graph",
+        "rules"
+      ],
+      "held_out_pr_auc": 0.0344,
+      "held_out_p_at_500": 0.036,
+      "held_out_r_at_2000": 0.2998,
+      "seconds": 9.75
+    },
+    {
+      "variant": "without graph",
+      "layers": [
+        "duplicate",
+        "forecast",
+        "rules",
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.026,
+      "held_out_p_at_500": 0.034,
+      "held_out_r_at_2000": 0.1942,
+      "seconds": 11.96
+    },
+    {
+      "variant": "without duplicate",
+      "layers": [
+        "forecast",
+        "graph",
+        "rules",
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.0424,
+      "held_out_p_at_500": 0.06,
+      "held_out_r_at_2000": 0.3789,
+      "seconds": 7.87
+    },
+    {
+      "variant": "without forecast",
+      "layers": [
+        "duplicate",
+        "graph",
+        "rules",
+        "unsupervised"
+      ],
+      "held_out_pr_auc": 0.04,
+      "held_out_p_at_500": 0.06,
+      "held_out_r_at_2000": 0.3765,
+      "seconds": 12.16
+    }
+  ],
+  "marginal_value_held_out_pr_auc": {
+    "rules": -0.0262,
+    "unsupervised": 0.0063,
+    "graph": 0.0147,
+    "duplicate": -0.0017,
+    "forecast": 0.0007
+  },
+  "combiners": {
+    "in_use": "calibrated_noisy_or",
+    "note": "layer outputs and weights held fixed; only the arithmetic varies. mean_pattern_lift is leave-one-pattern-out and is the figure that survives the design having been informed by held-out labels",
+    "compared": [
+      {
+        "combiner": "calibrated_noisy_or",
+        "in_use": true,
+        "held_out_pr_auc": 0.0407,
+        "held_out_p_at_500": 0.06,
+        "held_out_r_at_2000": 0.3861,
+        "mean_pattern_lift": 2.55,
+        "pattern_lift": {
+          "geographic_displacement": 1.42,
+          "photo_reuse": 2.11,
+          "progress_reversal": 1.13,
+          "vendor_round_tripping": 6.15,
+          "year_end_bunching": 1.96
+        }
+      },
+      {
+        "combiner": "noisy_or",
+        "in_use": false,
+        "held_out_pr_auc": 0.0284,
+        "held_out_p_at_500": 0.046,
+        "held_out_r_at_2000": 0.1511,
+        "mean_pattern_lift": 1.64,
+        "pattern_lift": {
+          "geographic_displacement": 1.08,
+          "photo_reuse": 1.35,
+          "progress_reversal": 1.06,
+          "vendor_round_tripping": 2.53,
+          "year_end_bunching": 2.17
+        }
+      },
+      {
+        "combiner": "weighted_mean",
+        "in_use": false,
+        "held_out_pr_auc": 0.0293,
+        "held_out_p_at_500": 0.056,
+        "held_out_r_at_2000": 0.1511,
+        "mean_pattern_lift": 1.72,
+        "pattern_lift": {
+          "geographic_displacement": 1.09,
+          "photo_reuse": 1.34,
+          "progress_reversal": 1.06,
+          "vendor_round_tripping": 2.84,
+          "year_end_bunching": 2.25
+        }
+      }
+    ]
+  },
+  "independent": [],
+  "independent_unavailable": "not measured: RuntimeError: sentence-transformers is not installed. It ships in the ml-worker image only: pip install -r backend/requirements-ml.txt. Reproduce where the encoder lives with `drishti jobs evaluate_l4`."
+}

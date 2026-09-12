@@ -1,0 +1,126 @@
+{
+  "work_id": 6360,
+  "overall_risk": 0.8831,
+  "confidence": 0.8991,
+  "severity": "high",
+  "data_quality": 0.8929,
+  "band": "critical",
+  "corroborating_families": [
+    "asset",
+    "compliance",
+    "financial",
+    "temporal",
+    "textual"
+  ],
+  "layer_scores": {
+    "rules": 0.76,
+    "unsupervised": 1.0,
+    "graph": 0.0,
+    "duplicate": 0.6251644392770088,
+    "forecast": 0.0
+  },
+  "reasons": [
+    {
+      "code": "peer_outlier:estimated_to_sanctioned_ratio",
+      "text": "The sanctioned against estimate is 1.13, against a median of 1.03 across 46 comparable works (sector x work_type x state), in the highest 2.2% of that group.",
+      "family": "financial",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "feature": "estimated_to_sanctioned_ratio",
+        "value": 1.131,
+        "peer_median": 1.0298,
+        "tail_probability": 0.02174,
+        "percentile": 100.0,
+        "direction": "above",
+        "peer_group_size": 46,
+        "peer_group_level": "sector x work_type x state"
+      }
+    },
+    {
+      "code": "peer_outlier:days_recommendation_to_sanction",
+      "text": "The recommendation-to-sanction delay is 1.7x the median of 46 comparable works (sector x work_type x state), in the highest 2.2% of that group.",
+      "family": "temporal",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "feature": "days_recommendation_to_sanction",
+        "value": 106.0,
+        "peer_median": 64.0,
+        "tail_probability": 0.02174,
+        "percentile": 100.0,
+        "direction": "above",
+        "peer_group_size": 46,
+        "peer_group_level": "sector x work_type x state"
+      }
+    },
+    {
+      "code": "peer_outlier:distance_to_district_centroid_km",
+      "text": "The distance from the district centre is 0.15x the median of 46 comparable works (sector x work_type x state), in the lowest 2.2% of that group.",
+      "family": "compliance",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "feature": "distance_to_district_centroid_km",
+        "value": 6.29,
+        "peer_median": 42.675,
+        "tail_probability": 0.02174,
+        "percentile": 2.17,
+        "direction": "below",
+        "peer_group_size": 46,
+        "peer_group_level": "sector x work_type x state"
+      }
+    },
+    {
+      "code": "completed_without_asset_photo",
+      "text": "Reported 100% complete with Rs 6.37 lakh paid, but no asset photograph is on record. A missing photograph may be a reporting gap rather than a missing asset -- field verification is needed.",
+      "family": "asset",
+      "severity": "high",
+      "provenance": "cag_finding",
+      "factors": {
+        "photo_present": 0,
+        "progress_pct": 100.0,
+        "expenditure_to_date": 637243.91,
+        "status": "completed",
+        "provenance_note": "Works certified complete without a verifiable asset on the ground."
+      }
+    },
+    {
+      "code": "sanction_delay_above_peers",
+      "text": "Sanctioned 106 days after recommendation, at the 100.0th percentile of comparable works in this sector and state.",
+      "family": "compliance",
+      "severity": "low",
+      "provenance": "peer_derived",
+      "factors": {
+        "days_recommendation_to_sanction": 106.0,
+        "sanction_delay_peer_percentile": 1.0,
+        "recommended_on": "2025-02-18T00:00:00",
+        "sanction_date": "2025-06-04T00:00:00",
+        "provenance_note": "derived from comparable works in this dataset"
+      }
+    },
+    {
+      "code": "duplicate_candidate",
+      "text": "The description closely matches work #5439 (at the same location, with near-identical sanctioned cost). Semantic similarity 0.46, lexical 0.53. Two records may describe one physical work -- compare the measurement books before treating this as duplication.",
+      "family": "textual",
+      "severity": "medium",
+      "provenance": "peer_derived",
+      "factors": {
+        "twin_work_id": 5439,
+        "pair_score": 0.6252,
+        "components": {
+          "semantic": 0.4623,
+          "lexical": 0.5283,
+          "geographic": 0.9911,
+          "financial": 0.9519,
+          "temporal": 0.2
+        },
+        "distance_km": 0.22,
+        "embedding_backend": "tfidf"
+      }
+    }
+  ],
+  "narrative": "The sanctioned against estimate is 1.13, against a median of 1.03 across 46 comparable works (sector x work_type x state), in the highest 2.2% of that group.; The recommendation-to-sanction delay is 1.7x the median of 46 comparable works (sector x work_type x state), in the highest 2.2% of that group.; The distance from the district centre is 0.15x the median of 46 comparable works (sector x work_type x state), in the lowest 2.2% of that group.. Corroborated across 5 independent evidence types (confidence 90%). Flagged for review, not a finding of wrongdoing.",
+  "escalated_by_rule": null,
+  "factors": {}
+}

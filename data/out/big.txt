@@ -1,0 +1,1 @@
+400000 texts -> 384d in 51.19s (7815/s) on cuda @ batch 4096 fp16 | peak 1277 MB

@@ -1,0 +1,51 @@
+{
+  "work_id": 6360,
+  "description": "Construction of playground from main road to Khargone, Ward 12",
+  "sector": "sports",
+  "work_type": "playground",
+  "state": "Madhya Pradesh",
+  "constituency": "KHARGONE",
+  "district_id": 304,
+  "mp_id": 173,
+  "agency_id": 1370,
+  "status": "completed",
+  "estimated_cost": 511117.38,
+  "sanctioned_cost": 578054.71,
+  "expenditure_to_date": 637243.91,
+  "progress_pct": 100.0,
+  "sanction_date": "2025-06-04",
+  "expected_completion_date": "2026-03-01",
+  "actual_completion_date": "2026-04-29",
+  "latitude": 23.86986,
+  "longitude": 79.42524,
+  "photo_present": false,
+  "timeline": [
+    {
+      "at": "2025-02-18",
+      "kind": "recommendation",
+      "label": "Recommended by the Member of Parliament"
+    },
+    {
+      "at": "2025-06-04",
+      "kind": "sanction",
+      "label": "Sanctioned by the district authority",
+      "amount": 578054.71
+    },
+    {
+      "at": "2026-01-21",
+      "kind": "payment",
+      "label": "First of 2 payment(s)"
+    },
+    {
+      "at": "2025-06-04",
+      "kind": "progress",
+      "label": "Latest reported progress",
+      "progress_pct": 100.0
+    },
+    {
+      "at": "2026-04-29",
+      "kind": "completion",
+      "label": "Reported complete"
+    }
+  ]
+}

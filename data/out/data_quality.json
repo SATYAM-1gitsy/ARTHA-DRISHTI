@@ -1,0 +1,58 @@
+{
+  "source": "C:\\dev\\artha-drishti\\data\\raw\\Allocated Limit for Honble MPs.xlsx",
+  "generated_at": "2026-09-03T19:20:00+00:00",
+  "rows_read": 543,
+  "rows_accepted": 543,
+  "rows_quarantined": 0,
+  "acceptance_rate": 1.0,
+  "reconciles_with_declared_total": true,
+  "declared_total": 83062104294.53,
+  "computed_total": 83062104294.53,
+  "tables": {
+    "states": 36,
+    "constituencies": 542,
+    "mps": 543,
+    "notes": 3
+  },
+  "completeness": {
+    "sr_no": 1.0,
+    "state_raw": 1.0,
+    "mp_name_raw": 1.0,
+    "constituency_raw": 1.0,
+    "allocated_amount_raw": 0.9982,
+    "constituency_reservation_observed": 0.2325
+  },
+  "issues": [
+    {
+      "source_row": 110,
+      "field": "allocated_amount_raw",
+      "code": "missing_allocation",
+      "detail": "no allocated amount recorded; kept with a null rather than imputed",
+      "rejected": false
+    }
+  ],
+  "notes": [
+    {
+      "code": "multiple_members_one_constituency",
+      "detail": "NANDED has 2 members in this term (CHAVAN VASANTRAO BALWANTRAO, Ravindra Vasantrao Chavan). The source carries no dates to separate the terms, so both are stored with an open term. A by-election date from an external source is needed to close the first one.",
+      "constituency": "NANDED",
+      "members": [
+        "CHAVAN VASANTRAO BALWANTRAO",
+        "Ravindra Vasantrao Chavan"
+      ]
+    },
+    {
+      "code": "reservation_counts_below_allocation",
+      "detail": "Name markers identify 82 SC and 44 ST constituencies against a constitutional allocation of 84 and 47. About 5 reserved seats carry no marker and are indistinguishable from general seats in this source. Rows record reservation_source so an earmark check can tell an observed marker from an inferred absence.",
+      "sc_marked": 82,
+      "st_marked": 44
+    },
+    {
+      "code": "missing_allocation",
+      "detail": "CHAVAN VASANTRAO BALWANTRAO has no allocated limit recorded. Kept as null rather than imputed; any utilisation percentage for this member is undefined.",
+      "mp": "CHAVAN VASANTRAO BALWANTRAO",
+      "source_row": 110
+    }
+  ],
+  "usable": true
+}

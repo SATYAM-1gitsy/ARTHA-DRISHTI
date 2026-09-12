@@ -1,0 +1,4 @@
+{"at":"2026-09-01T21:19:21+00:00","actor":"dc.office","action":"alert.under_review","entity":"alert","entity_id":"3467","detail":{"from":"open","to":"under_review","outcome":"requires_field_inspection"}}
+{"at":"2026-09-04T18:33:08+00:00","actor":"nodal.mh","action":"alert.under_review","entity":"alert","entity_id":"4647","detail":{"from":"open","to":"under_review","outcome":"confirmed_issue"}}
+{"at":"2026-09-09T03:19:02+00:00","actor":"dc.office","action":"alert.resolved","entity":"alert","entity_id":"3467","detail":{"from":"under_review","to":"resolved","outcome":"false_positive"}}
+{"at":"2026-09-09T03:19:15+00:00","actor":"dc.office","action":"alert.resolved","entity":"alert","entity_id":"3467","detail":{"from":"resolved","to":"resolved","outcome":"duplicate_alert"}}
