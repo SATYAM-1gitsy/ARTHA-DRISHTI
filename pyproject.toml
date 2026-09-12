@@ -1,0 +1,44 @@
+[project]
+name = "drishti"
+version = "0.1.0"
+description = "ARTHA DRISHTI - MPLADS anomaly, fraud and compliance risk intelligence"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = { "" = "backend" }
+
+[tool.setuptools.packages.find]
+where = ["backend"]
+include = ["drishti*"]
+
+# pythonpath keeps `import drishti` working without an editable install, so a
+# teammate can clone and run the tests in one step.
+[tool.pytest.ini_options]
+pythonpath = ["backend"]
+testpaths = ["backend/drishti/tests"]
+addopts = "-q --strict-markers"
+filterwarnings = ["error::DeprecationWarning:drishti.*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["backend"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+# UP042 wants `class Band(str, Enum)` rewritten as `StrEnum`. Declined, and
+# not on style grounds: these enums are written into parquet columns, JSON
+# evidence cards and API payloads, and `str, Enum` is what makes a member
+# compare equal to and serialise as its bare value. `StrEnum` changes `__str__`
+# and `__format__`, so the swap is a silent change to persisted data shapes and
+# to Seam D response bodies for no behavioural gain. The seams are frozen
+# (docs/adr/0003); a lint rule is not a reason to move one.
+ignore = ["E501", "UP042"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
