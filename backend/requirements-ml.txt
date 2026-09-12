@@ -1,0 +1,23 @@
+# Heavy ML dependencies. Deliberately NOT in requirements.txt: the detection
+# core runs on numpy and pandas alone, and the API image stays small because
+# it never needs these. Only the GPU ml-worker installs them.
+#
+# torch is installed separately in Dockerfile.gpu from the CUDA index --
+# listing it here would pull the CPU-only PyPI wheel (audit finding G-01).
+
+-r requirements.txt
+
+# --- async job execution ---
+celery[redis]>=5.4
+redis>=5.2
+
+# --- experiment tracking ---
+mlflow>=2.17
+
+# --- L4: multilingual semantic encoding. This is the workload the GPU
+# exists for -- transformer inference over a work-description corpus.
+sentence-transformers>=3.3
+faiss-cpu>=1.9
+
+# --- classical ML baselines that deep models must beat ---
+scikit-learn>=1.5

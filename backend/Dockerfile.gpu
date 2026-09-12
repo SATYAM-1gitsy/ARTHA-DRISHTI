@@ -1,0 +1,32 @@
+# GPU-enabled worker image.
+#
+# Base is plain python, not nvidia/cuda: the torch cu130 wheels bundle their
+# own CUDA runtime as nvidia-*-cu13 pip packages, and the host driver is
+# injected by the NVIDIA container toolkit at run time. That keeps this image
+# far smaller than a full CUDA base image would.
+#
+# Requires `--gpus all` (compose: deploy.resources.reservations.devices).
+# Verified on the reference machine: RTX 5070 Laptop GPU, compute cap 12.0.
+FROM python:3.12-slim
+
+WORKDIR /app
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app/backend \
+    PIP_NO_CACHE_DIR=1
+
+RUN apt-get update \
+ && apt-get install -y --no-install-recommends git curl \
+ && rm -rf /var/lib/apt/lists/*
+
+# torch first and from the CUDA index explicitly. sm_120 (Blackwell) kernels
+# ship only in CUDA 12.8+ builds; cu121/cu124 install fine and then fail at
+# the first kernel launch.
+RUN pip install torch --index-url https://download.pytorch.org/whl/cu130
+
+COPY backend/requirements.txt backend/requirements-ml.txt /app/backend/
+RUN pip install -r /app/backend/requirements-ml.txt
+
+COPY backend /app/backend
+COPY pyproject.toml /app/pyproject.toml
+
+CMD ["celery", "-A", "drishti.tasks.app", "worker", "--loglevel=info", "--concurrency=2"]

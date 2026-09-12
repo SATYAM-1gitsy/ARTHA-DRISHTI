@@ -1,0 +1,43 @@
+# --- core: the whole detection engine runs on these two ---
+numpy>=2.0
+pandas>=2.2
+python-dateutil>=2.9
+
+# --- api ---
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+
+# --- async jobs: the api enqueues, the ml-worker executes ---
+celery[redis]>=5.4
+
+# --- data ---
+openpyxl>=3.1
+pyarrow>=17.0
+# Fallback parquet engine, and not redundant with pyarrow. `import pyarrow`
+# can succeed while `import pyarrow.parquet` fails -- Windows Application
+# Control blocks the _parquet extension module on the reference machine, which
+# left every stage from `seed` onward unable to read or write a single file.
+# pandas falls through to this one automatically. `drishti doctor` verifies a
+# real round trip, so the next machine hitting it is told what is wrong.
+fastparquet>=2024.5
+
+# --- dev / test ---
+pytest>=8.3
+httpx>=0.27
+ruff>=0.7
+black>=24.8
+
+# --- database (block 3+) ---
+# sqlalchemy>=2.0
+# psycopg2-binary>=2.9
+
+# --- optional accelerators. add as blocks land; the core never requires them ---
+# scikit-learn  pyod  xgboost  lightgbm  shap
+# rapidfuzz  sentence-transformers  faiss-cpu
+# networkx  lifelines  ruptures  imagehash
+# mlflow
+#
+# GPU note (audit finding G-01): torch from PyPI is CPU-only on Windows.
+# Install it explicitly, never as a transitive dependency:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu130
