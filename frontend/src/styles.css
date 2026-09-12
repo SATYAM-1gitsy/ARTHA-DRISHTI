@@ -1,0 +1,1782 @@
+/* Artha Drishti — government-portal palette (light, GIGW-oriented).
+ *
+ * A retheme, not a rewrite. The MD's canonical token names are authoritative
+ * and defined once below; the prototype's original names (--paper, --ink,
+ * --crit …) are kept as aliases pointing at them, so all 900 lines of existing
+ * component CSS re-skin from one block without a single markup edit and there
+ * is still exactly one place where any colour is decided.
+ *
+ * The site is locked to light — the old prefers-color-scheme dark switch is
+ * gone, replaced by a manual high-contrast mode (:root.hc) driven from the
+ * accessibility bar, so the portal never flips to dark on a viewer's machine.
+ *
+ * Tricolour is an accent, never a fill: saffron and green appear only as the
+ * hairline rule under the masthead, the active-nav underline and small
+ * dividers. Every band colour is checked for WCAG 2.1 AA on white.
+ */
+
+:root {
+  color-scheme: light;
+
+  /* --- Surfaces --- */
+  --bg-page: #f4f6f9;
+  --bg-surface: #ffffff;
+  --bg-subtle: #eef1f5;
+  --border: #d8dee7;
+  --border-strong: #b9c2ce;
+
+  /* --- Text --- */
+  --text: #1b1f24;
+  --text-muted: #5b6572;
+  --link: #0b57d0;
+
+  /* --- Government identity --- */
+  --gov-navy: #123a6b;
+  --gov-navy-dark: #0a2547;
+  --saffron: #ff9933;
+  --india-green: #138808;
+
+  /* --- Risk bands (AA on white) --- */
+  --risk-critical: #c62828;
+  --risk-critical-bg: #fdecea;
+  --risk-high: #b45309;
+  --risk-high-bg: #fff4e5;
+  --risk-medium: #8a6d00;
+  --risk-medium-bg: #fbf4dd;
+  --risk-low: #2e7d32;
+  --risk-low-bg: #eaf5eb;
+  --ok: #2e7d32;
+
+  /* Informational — deliberately not a severity, so an advisory note never
+     borrows the visual authority of a critical band. */
+  --info: #123a6b;
+  --info-bg: #e7edf6;
+
+  /* --- Type. English chrome, but the stack must still render the Devanagari
+     work descriptions that are already in the data. --- */
+  --font-ui: "Noto Sans", "Segoe UI", Roboto, system-ui, "Nirmala UI",
+    "Noto Sans Devanagari", sans-serif;
+  --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --radius: 6px;
+  --focus: 0 0 0 3px rgba(11, 87, 208, 0.35);
+
+  /* --- Aliases for the prototype's original token names --- */
+  --paper: var(--bg-page);
+  --surface: var(--bg-surface);
+  --surface-2: var(--bg-subtle);
+  --ink: var(--text);
+  --ink-2: var(--text-muted);
+  /* was a third, fainter grey that did not clear AA on white; folded into
+     --text-muted rather than kept as a failing tier */
+  --ink-3: var(--text-muted);
+  --rule: var(--border);
+  --rule-2: var(--border-strong);
+  --line: var(--border);
+  --accent: var(--gov-navy);
+  --accent-soft: #e7edf6;
+  --brass: #7a5c00;
+
+  --crit: var(--risk-critical);
+  --crit-bg: var(--risk-critical-bg);
+  --high: var(--risk-high);
+  --high-bg: var(--risk-high-bg);
+  --med: var(--risk-medium);
+  --med-bg: var(--risk-medium-bg);
+  --low: var(--risk-low);
+  --low-bg: var(--risk-low-bg);
+
+  --risk: var(--risk-critical);
+  --confidence: var(--ok);
+}
+
+/* Manual high-contrast mode, toggled from the accessibility bar. Because every
+   surface resolves through the tokens above, one class on <html> flips the
+   whole interface — including the chrome. */
+:root.hc {
+  --bg-page: #ffffff;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f0f0f0;
+  --border: #000000;
+  --border-strong: #000000;
+  --text: #000000;
+  --text-muted: #1a1a1a;
+  --link: #0000ee;
+  --gov-navy: #000000;
+  --gov-navy-dark: #000000;
+  --risk-critical: #8a0f08;
+  --risk-critical-bg: #ffffff;
+  --risk-high: #4d3200;
+  --risk-high-bg: #ffffff;
+  --risk-medium: #4a3a00;
+  --risk-medium-bg: #ffffff;
+  --risk-low: #14501a;
+  --risk-low-bg: #ffffff;
+  --ok: #14501a;
+  --info: #000000;
+  --info-bg: #ffffff;
+  --accent-soft: #e0e0e0;
+  --brass: #000000;
+  --focus: 0 0 0 3px #000000;
+}
+
+/* Text resize (A− / A / A+). Every font-size in this file is expressed in rem,
+   so moving the root size moves the whole interface; paddings stay in px so
+   the layout gives the larger type room rather than scaling into it. */
+:root {
+  font-size: 100%;
+}
+:root.text-sm {
+  font-size: 87.5%;
+}
+:root.text-lg {
+  font-size: 118.75%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg-page);
+  color: var(--text);
+  font-family: var(--font-ui);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono,
+code,
+pre,
+.num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* A portal reads as a measured column of record, not an edge-to-edge console,
+   so the content is capped and centred rather than filling the display. */
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 22px 24px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  font-size: 0.6875rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--brass);
+  font-weight: 600;
+}
+
+h1 {
+  margin: 0 0 6px;
+  font-size: 2.125rem;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+}
+
+h2 {
+  margin: 0;
+  font-size: 0.75rem;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  font-weight: 600;
+}
+
+h3 {
+  margin: 22px 0 8px;
+  font-size: 0.8125rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  font-weight: 600;
+}
+
+.tagline {
+  margin: 0;
+  color: var(--ink-2);
+  font-size: 0.9375rem;
+}
+
+.app__head {
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 20px;
+}
+
+.muted {
+  color: var(--ink-2);
+  font-size: 0.875rem;
+}
+
+/* ---------- stats ---------- */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(16, 34, 56, 0.06);
+}
+
+.stat {
+  background: var(--bg-surface);
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.stat__value.mono {
+  color: var(--gov-navy);
+  font-weight: 700;
+}
+
+.stat__value {
+  font-size: 1.625rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.stat__label {
+  font-size: 0.7188rem;
+  color: var(--ink-2);
+  letter-spacing: 0.02em;
+}
+
+/* A caution marker, not an alarm: the figure keeps the institutional navy and
+   the card carries a rule, because a full amber fill reads as a finding. */
+.stat--caution {
+  border-left: 3px solid var(--risk-high);
+  padding-left: 13px;
+}
+
+/* ---------- layout ---------- */
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 1080px) {
+  .split {
+    /* minmax(0, 1fr), not 1fr: a bare 1fr is minmax(auto, 1fr) and refuses to
+       shrink below the queue table's min-width, which pushed the page wider
+       than the viewport at 200% zoom instead of scrolling the table. */
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.panel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 20px 20px;
+  box-shadow: 0 1px 2px rgba(16, 34, 56, 0.05);
+}
+
+/* A labelled section header rather than a card title: uppercase, letter-spaced
+   and separated from its contents by a hairline, the way a form or a return is
+   sectioned. */
+.panel__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin: 0 -20px 14px;
+  padding: 0 20px 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.75rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.panel--evidence {
+  position: sticky;
+  top: 20px;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.7812rem;
+  color: var(--ink-2);
+  cursor: pointer;
+  user-select: none;
+}
+
+/* ---------- queue ---------- */
+.queue__meta {
+  font-size: 0.7188rem;
+  margin-bottom: 8px;
+}
+
+.tablewrap {
+  overflow-x: auto;
+}
+
+.queue__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+  min-width: 640px;
+}
+
+.queue__table thead tr {
+  background: var(--bg-subtle);
+}
+
+.queue__table th {
+  text-align: left;
+  font-size: 0.6562rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--border-strong);
+  white-space: nowrap;
+}
+
+.queue__table td {
+  padding: 9px 8px;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: middle;
+}
+
+.queue__table tbody tr {
+  cursor: pointer;
+}
+
+.queue__table tbody tr:hover {
+  background: var(--bg-subtle);
+}
+
+.queue__table tbody tr.is-selected {
+  background: var(--accent-soft);
+  box-shadow: inset 3px 0 0 var(--gov-navy);
+}
+
+.queue__table tbody tr:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: -2px;
+  box-shadow: var(--focus);
+}
+
+.queue__desc {
+  font-weight: 500;
+  max-width: 26ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.queue__sub {
+  font-size: 0.6875rem;
+  color: var(--ink-3);
+  margin-top: 2px;
+}
+
+th.num,
+td.num {
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* ---------- meters ---------- */
+/* Bordered tint chips rather than solid blocks: risk stays red-boxed and
+   confidence green-boxed, but neither shouts loudly enough to be mistaken for
+   a verdict. */
+.meter {
+  position: relative;
+  width: 82px;
+  height: 20px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-strong);
+  border-radius: 3px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.meter--risk {
+  border-color: var(--risk-critical);
+  background: var(--risk-critical-bg);
+}
+
+.meter--confidence {
+  border-color: var(--ok);
+  background: var(--risk-low-bg);
+}
+
+.meter__fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  opacity: 0.22;
+}
+
+.meter__fill--risk {
+  background: var(--risk-critical);
+}
+
+.meter__fill--confidence {
+  background: var(--ok);
+}
+
+.meter__value {
+  position: relative;
+  font-size: 0.6875rem;
+  padding-left: 6px;
+  font-family: ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- pills ---------- */
+.pill {
+  display: inline-block;
+  font-size: 0.625rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 2px 7px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  white-space: nowrap;
+  margin-right: 5px;
+}
+
+.pill--critical {
+  background: var(--risk-critical-bg);
+  color: var(--risk-critical);
+}
+
+.pill--high {
+  background: var(--risk-high-bg);
+  color: var(--risk-high);
+}
+
+.pill--medium {
+  background: var(--risk-medium-bg);
+  color: var(--risk-medium);
+}
+
+.pill--low {
+  background: var(--risk-low-bg);
+  color: var(--risk-low);
+}
+
+.pill--action {
+  background: var(--risk-low-bg);
+  color: var(--ok);
+}
+
+/* ---------- evidence ---------- */
+.evidence__head h2 {
+  font-size: 1.1875rem;
+  text-transform: none;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin: 0 0 6px;
+  line-height: 1.3;
+}
+
+/* The 1px-gap hairline grid drew its rules from the container background,
+   which meant any row that did not divide evenly left a block of raw border
+   colour where a cell should have been. Each cell now carries its own
+   hairline as a ring, so the grid reads the same and an odd count leaves
+   white rather than a grey slab. */
+.quantities {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  margin: 18px 0;
+}
+
+.quantity {
+  background: var(--bg-surface);
+  box-shadow: 0 0 0 1px var(--border);
+  padding: 11px 13px;
+}
+
+.quantity dt {
+  font-size: 0.625rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  font-weight: 600;
+}
+
+.quantity dd {
+  margin: 0;
+}
+
+/* Rendered as <dd> on the evidence card and as <span> in the portfolio, so
+   these are made block explicitly -- as inlines they ran the figure and its
+   qualifier together on one line. */
+.quantity__value {
+  display: block;
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 2px !important;
+}
+
+.quantity--risk .quantity__value {
+  color: var(--risk);
+}
+
+.quantity--confidence .quantity__value {
+  color: var(--confidence);
+}
+
+.quantity__hint {
+  display: block;
+  font-size: 0.6875rem;
+  color: var(--ink-3);
+  line-height: 1.35;
+  margin-top: 2px !important;
+}
+
+.notice {
+  padding: 11px 13px;
+  font-size: 0.8125rem;
+  border: 1px solid currentColor;
+  border-left-width: 4px;
+  border-radius: var(--radius);
+  margin: 12px 0;
+  background: var(--risk-high-bg);
+  color: var(--risk-high);
+}
+
+/* Advisory, not severity - an explanatory note must not read as a finding. */
+.notice--soft {
+  background: var(--info-bg);
+  color: var(--info);
+}
+
+.notice--rule {
+  background: var(--risk-critical-bg);
+  color: var(--risk-critical);
+}
+
+.notice pre {
+  margin: 8px 0 0;
+  font-size: 0.75rem;
+  white-space: pre-wrap;
+}
+
+.findings {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+
+.finding {
+  background: var(--surface);
+  padding: 11px 13px;
+}
+
+.finding__head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 5px;
+}
+
+.finding__family {
+  font-size: 0.6562rem;
+  color: var(--ink-3);
+  letter-spacing: 0.04em;
+}
+
+.finding__text {
+  margin: 0;
+  font-size: 0.8438rem;
+  line-height: 1.5;
+}
+
+.finding__prov {
+  margin: 5px 0 0;
+  font-size: 0.6875rem;
+  color: var(--ink-3);
+}
+
+.finding__prov.is-weak {
+  color: var(--high);
+}
+
+.timeline,
+.checks {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.8125rem;
+}
+
+.checks li {
+  padding-left: 16px;
+  position: relative;
+  line-height: 1.45;
+}
+
+.checks li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+}
+
+.timeline__date {
+  color: var(--ink-3);
+  font-size: 0.7188rem;
+  margin-right: 8px;
+}
+
+.evidence__foot {
+  margin-top: 22px;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule);
+  font-size: 0.7188rem;
+  color: var(--ink-3);
+  line-height: 1.45;
+}
+
+.app__foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  justify-content: space-between;
+  border-top: 1px solid var(--rule);
+  padding-top: 16px;
+  font-size: 0.7188rem;
+  color: var(--ink-2);
+}
+
+:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+  box-shadow: var(--focus);
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ==========================================================================
+   Role switcher, comparison tables and the review panel.
+   Blueprint §11 -- the three views that were missing, plus the control that
+   makes the queue actionable. Every colour comes from the existing tokens so
+   the new screens read as the same product.
+   ========================================================================== */
+
+.roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.role {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  text-align: left;
+  padding: 9px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--ink-2);
+  cursor: pointer;
+  font: inherit;
+  transition: border-color 120ms ease, background 120ms ease;
+}
+
+.role:hover { border-color: var(--rule-2); }
+
+.role--active {
+  border-color: var(--gov-navy);
+  background: var(--accent-soft);
+  color: var(--text);
+  box-shadow: inset 0 -3px 0 var(--saffron);
+}
+
+.role__label { font-weight: 600; font-size: 0.9rem; }
+
+.role__q {
+  font-size: 0.74rem;
+  color: var(--ink-3);
+  max-width: 26ch;
+}
+
+.role--active .role__q { color: var(--ink-2); }
+
+/* -- comparison tables -- */
+.split--wide {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 18px;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .split--wide { grid-template-columns: minmax(0, 1fr); }
+}
+
+.row--clickable { cursor: pointer; }
+.row--clickable:hover { background: var(--surface-2); }
+.row--clickable:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+
+/* A share reads faster as a bar than as digits, and the digits stay for the
+   reader who needs the exact number. */
+.bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 108px;
+}
+
+.bar__track {
+  display: block;
+  flex: none;
+  width: 64px;
+  height: 7px;
+  border-radius: 2px;
+  background: var(--bg-subtle);
+  overflow: hidden;
+}
+
+.bar__fill {
+  display: block;
+  height: 100%;
+  min-width: 2px;
+  border-radius: 2px;
+  background: var(--risk-high);
+}
+
+.bar__value { font-size: 0.78rem; color: var(--text-muted); font-weight: 600; }
+
+/* -- what is driving the flags -- */
+.mix { list-style: none; margin: 0; padding: 0; display: grid; gap: 7px; }
+
+.mix li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 74px 46px;
+  align-items: center;
+  gap: 10px;
+}
+
+.mix__label {
+  font-size: 0.76rem;
+  color: var(--ink-2);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mix__bar {
+  height: 7px;
+  background: var(--surface-2);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.mix__fill { display: block; height: 100%; background: var(--gov-navy); opacity: 0.85; }
+.mix li:nth-child(n + 4) .mix__fill { opacity: 0.62; }
+.mix li:nth-child(n + 7) .mix__fill { opacity: 0.42; }
+.mix__count { font-size: 0.76rem; text-align: right; color: var(--ink-2); }
+
+/* -- portfolio status bar -- */
+.statusbar {
+  display: flex;
+  height: 12px;
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--surface-2);
+  margin-bottom: 12px;
+}
+
+.statusbar__seg { display: block; height: 100%; }
+.statusbar__seg--completed { background: var(--accent); }
+.statusbar__seg--in_progress { background: var(--link); }
+.statusbar__seg--sanctioned { background: var(--rule-2); }
+.statusbar__seg--abandoned { background: var(--crit); }
+
+.legend { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.legend li { display: flex; align-items: center; gap: 7px; font-size: 0.8rem; color: var(--ink-2); }
+.legend__dot { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+.legend__dot--completed { background: var(--accent); }
+.legend__dot--in_progress { background: var(--link); }
+.legend__dot--sanctioned { background: var(--rule-2); }
+.legend__dot--abandoned { background: var(--crit); }
+
+/* -- review panel -- */
+.panel--review { margin-top: 14px; }
+
+.field { display: block; margin-bottom: 11px; }
+
+.field__label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  margin-bottom: 5px;
+}
+
+.field select,
+.field textarea {
+  width: 100%;
+  font: inherit;
+  font-size: 0.86rem;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 7px 9px;
+  resize: vertical;
+}
+
+.field select:focus-visible,
+.field textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 10px; }
+
+.btn {
+  font: inherit;
+  font-size: 0.84rem;
+  padding: 7px 14px;
+  border: 1px solid var(--rule-2);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.btn:hover:not(:disabled) { border-color: var(--accent); }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btn--primary { background: var(--gov-navy); border-color: var(--gov-navy); color: #fff; }
+.btn--primary:hover:not(:disabled) { background: var(--gov-navy-dark); border-color: var(--gov-navy-dark); }
+.btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.pill--status { margin-left: 8px; }
+.pill--open { background: var(--bg-subtle); color: var(--text-muted); }
+.pill--under_review { background: var(--info-bg); color: var(--info); }
+.pill--resolved { background: var(--risk-low-bg); color: var(--ok); }
+.pill--dismissed { background: var(--bg-subtle); color: var(--text-muted); }
+
+.history { list-style: none; margin: 12px 0 0; padding: 12px 0 0; border-top: 1px solid var(--rule); display: grid; gap: 9px; }
+.history li { display: grid; gap: 2px; font-size: 0.82rem; color: var(--ink-2); }
+.history__when { font-size: 0.72rem; color: var(--ink-3); }
+.history__note { color: var(--ink-3); font-style: italic; }
+
+.small { font-size: 0.78rem; }
+
+/* ---------------------------------------------------------------------------
+   analyst copilot
+
+   Styled to look like evidence, not like a chat toy. The clauses get the same
+   left-rule treatment as a finding on the evidence card, because they are the
+   same kind of thing: a citable statement an officer can check.
+   --------------------------------------------------------------------------- */
+.copilot {
+  margin-top: 1.5rem;
+}
+
+.copilot__status {
+  margin: -0.25rem 0 0.9rem;
+}
+
+.copilot__explain {
+  font: inherit;
+  font-size: 0.82rem;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--line, #d5d8de);
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.copilot__explain:hover:not(:disabled) {
+  border-color: var(--accent, #2f6f4f);
+}
+
+.copilot__explain:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.copilot__ask {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.copilot__ask input {
+  flex: 1;
+  font: inherit;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--line, #d5d8de);
+  border-radius: 6px;
+  background: var(--surface, #fff);
+  color: inherit;
+}
+
+.copilot__ask input:focus-visible {
+  outline: 2px solid var(--accent, #2f6f4f);
+  outline-offset: 1px;
+}
+
+.copilot__ask button {
+  font: inherit;
+  font-weight: 600;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: var(--accent, #2f6f4f);
+  color: #fff;
+  cursor: pointer;
+}
+
+.copilot__ask button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.copilot__suggestions {
+  list-style: none;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.copilot__suggestions button {
+  font: inherit;
+  font-size: 0.82rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px dashed var(--line, #d5d8de);
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+}
+
+.copilot__suggestions button:hover {
+  border-style: solid;
+  border-color: var(--accent, #2f6f4f);
+}
+
+.copilot__answer {
+  margin-top: 1rem;
+}
+
+.copilot__answer-head {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.copilot__text {
+  margin: 0 0 0.75rem;
+  white-space: pre-wrap;
+  line-height: 1.55;
+}
+
+.copilot__warning {
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+}
+
+.copilot__sources-head {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0 0 0.5rem;
+  opacity: 0.7;
+}
+
+.copilot__sources {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.copilot__sources li {
+  border-left: 3px solid var(--line, #d5d8de);
+  padding-left: 0.7rem;
+}
+
+.copilot__sources p {
+  margin: 0.2rem 0 0;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.copilot__cite {
+  font-size: 0.76rem;
+  opacity: 0.75;
+}
+
+.copilot__disclaimer {
+  margin-top: 0.9rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--line, #d5d8de);
+}
+
+/* ==========================================================================
+   Government chrome — GIGW-style shell around the existing views.
+
+   Additive: an accessibility utility strip, an institutional masthead, a
+   primary nav with breadcrumbs, a standing advisory bar and a policy footer.
+   Nothing in here restyles a data view; the views are handled above. Every
+   colour resolves through the tokens, so the high-contrast switch reaches the
+   chrome as well as the content.
+
+   What this deliberately is NOT: the State Emblem of India, a "Government of
+   India" ownership claim, or an NIC hosting claim. The mark is an original
+   monogram and the build is tagged as a prototype in the utility strip, the
+   masthead and the footer.
+   ========================================================================== */
+
+.gov-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* -- skip link: the first focusable element on the page -- */
+.gov-skip {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  background: var(--gov-navy-dark);
+  color: #fff;
+  padding: 10px 18px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 0 0 var(--radius) 0;
+}
+
+.gov-skip:focus {
+  left: 0;
+  outline: 3px solid var(--saffron);
+  outline-offset: -3px;
+}
+
+/* -- accessibility / utility strip: the single clearest "GIGW site" signal -- */
+.gov-utility {
+  background: var(--gov-navy-dark);
+  color: #dfe7f2;
+  font-size: 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.gov-utility .gov-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 18px;
+  min-height: 34px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.gov-utility__context {
+  letter-spacing: 0.01em;
+}
+
+.gov-utility__controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px 10px;
+}
+
+.gov-utility__group {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.gov-utility__grouplabel {
+  color: #aebdd4;
+  margin-right: 2px;
+}
+
+.a11y-btn {
+  font: inherit;
+  font-size: 0.75rem;
+  line-height: 1;
+  min-width: 26px;
+  padding: 5px 7px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 3px;
+  background: transparent;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.a11y-btn:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.a11y-btn[aria-pressed="true"] {
+  background: #ffffff;
+  color: var(--gov-navy-dark);
+  border-color: #ffffff;
+  font-weight: 700;
+}
+
+.a11y-btn:focus-visible {
+  outline: 2px solid var(--saffron);
+  outline-offset: 1px;
+  box-shadow: none;
+}
+
+/* The prototype tag is chrome, not decoration: it travels with the masthead so
+   nobody can screenshot the header and read it as a live government service. */
+.gov-tag {
+  display: inline-block;
+  padding: 3px 9px;
+  border: 1px solid var(--saffron);
+  border-radius: 999px;
+  color: #ffd7ab;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* -- masthead -- */
+.gov-masthead {
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.gov-masthead .gov-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 72px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.gov-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.gov-monogram {
+  flex: none;
+  width: 46px;
+  height: 46px;
+  display: block;
+}
+
+.gov-brand__text {
+  min-width: 0;
+}
+
+.gov-wordmark {
+  margin: 0;
+  font-size: 1.4375rem;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  font-weight: 700;
+  color: var(--gov-navy);
+}
+
+.gov-wordmark__sub {
+  margin: 2px 0 0;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.35;
+}
+
+/* Reinforces the officer context: which desk the screen is being read from. */
+.gov-signedin {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+  text-align: right;
+}
+
+.gov-signedin__label {
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.gov-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 11px;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: var(--bg-subtle);
+  color: var(--gov-navy);
+  font-size: 0.8125rem;
+  font-weight: 700;
+}
+
+.gov-chip__dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--india-green);
+  flex: none;
+}
+
+/* Tricolour as a hairline accent under the masthead — never a fill. */
+.gov-tricolour {
+  height: 3px;
+  background: linear-gradient(
+    to right,
+    var(--saffron) 0 33.33%,
+    #ffffff 33.33% 66.66%,
+    var(--india-green) 66.66% 100%
+  );
+}
+
+/* -- primary navigation -- */
+.gov-nav {
+  background: var(--gov-navy);
+}
+
+.gov-nav .gov-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.gov-nav__item {
+  font: inherit;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 11px 16px;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  background: transparent;
+  color: #eaf0f8;
+  cursor: pointer;
+}
+
+.gov-nav__item:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.gov-nav__item[aria-current="page"] {
+  color: #ffffff;
+  border-bottom-color: var(--saffron);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.gov-nav__item:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: -4px;
+  box-shadow: none;
+}
+
+/* -- breadcrumbs -- */
+.gov-breadcrumb {
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.gov-breadcrumb .gov-container {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.gov-breadcrumb ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+}
+
+.gov-breadcrumb li + li::before {
+  content: "›";
+  margin-right: 6px;
+  color: var(--border-strong);
+}
+
+.gov-breadcrumb [aria-current="page"] {
+  color: var(--text);
+  font-weight: 600;
+}
+
+/* -- standing advisory strip: the honesty framing, above the fold, always -- */
+.gov-advisory {
+  background: var(--risk-high-bg);
+  border-bottom: 1px solid #f0dcc0;
+  color: #6b3d0a;
+  font-size: 0.75rem;
+}
+
+.gov-advisory .gov-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  line-height: 1.45;
+}
+
+.gov-advisory strong {
+  font-weight: 700;
+}
+
+.gov-advisory__mark {
+  flex: none;
+  font-weight: 700;
+}
+
+:root.hc .gov-advisory {
+  background: #ffffff;
+  color: #000000;
+  border-bottom-color: #000000;
+}
+
+/* -- page title block, above the role switcher -- */
+.app__head {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 18px;
+}
+
+.page-title {
+  margin: 0;
+  font-size: 1.375rem;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+  color: var(--text);
+  font-weight: 700;
+  text-transform: none;
+}
+
+.rolebar__label {
+  margin: 16px 0 0;
+  font-size: 0.6875rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.roles {
+  margin-top: 8px;
+}
+
+/* -- government footer -- */
+.gov-footer {
+  margin-top: 32px;
+  background: var(--gov-navy-dark);
+  color: #cfdbeb;
+  font-size: 0.8125rem;
+  border-top: 3px solid var(--saffron);
+}
+
+.gov-footer .gov-container {
+  padding-top: 26px;
+  padding-bottom: 20px;
+}
+
+.gov-footer__cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px 36px;
+}
+
+.gov-footer h2 {
+  margin: 0 0 10px;
+  font-size: 0.6875rem;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: #9fb3d0;
+  font-weight: 700;
+}
+
+.gov-footer p {
+  margin: 0 0 8px;
+  line-height: 1.5;
+}
+
+.gov-footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.gov-footer a,
+.gov-footer .gov-footer__link {
+  color: #dbe6f5;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+}
+
+.gov-footer a:hover,
+.gov-footer .gov-footer__link:hover {
+  color: #ffffff;
+}
+
+.gov-footer a:focus-visible,
+.gov-footer .gov-footer__link:focus-visible {
+  outline: 2px solid var(--saffron);
+  outline-offset: 2px;
+  box-shadow: none;
+}
+
+/* The mandatory disclaimers. They live here as standing text so they are on
+   every screen, and they are also still rendered in place by the views that
+   own them. */
+.gov-disclaimers {
+  display: grid;
+  gap: 7px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: #c3d2e6;
+}
+
+.gov-disclaimers li {
+  padding-left: 12px;
+  border-left: 2px solid rgba(255, 153, 51, 0.55);
+}
+
+.gov-footer__bottom {
+  margin-top: 22px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+  color: #a9bcd6;
+}
+
+:root.hc .gov-footer {
+  background: #000000;
+  color: #ffffff;
+}
+
+:root.hc .gov-footer h2,
+:root.hc .gov-disclaimers,
+:root.hc .gov-footer__bottom {
+  color: #ffffff;
+}
+
+:root.hc .gov-utility {
+  background: #000000;
+  color: #ffffff;
+}
+
+/* -- the app's own bottom rule, kept for the in-page disclaimers -- */
+.app__foot {
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+/* ==========================================================================
+   Views added by the chrome: Alerts, About and the policy stubs.
+   Both read only from endpoints the app already calls.
+   ========================================================================== */
+
+.alerts__filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 12px;
+}
+
+.filter-chip {
+  font: inherit;
+  font-size: 0.75rem;
+  padding: 5px 12px;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  background: var(--bg-surface);
+  color: var(--text-muted);
+  cursor: pointer;
+}
+
+.filter-chip:hover {
+  border-color: var(--gov-navy);
+  color: var(--text);
+}
+
+.filter-chip[aria-pressed="true"] {
+  background: var(--gov-navy);
+  border-color: var(--gov-navy);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.doc {
+  max-width: 74ch;
+}
+
+.doc h3 {
+  margin-top: 26px;
+}
+
+.doc p,
+.doc li {
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.doc ul {
+  padding-left: 18px;
+  display: grid;
+  gap: 5px;
+}
+
+.doc__lede {
+  font-size: 0.9375rem;
+  color: var(--text);
+}
+
+.doc dl {
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.doc dt {
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.doc dd {
+  margin: 3px 0 0;
+  font-size: 0.875rem;
+  line-height: 1.55;
+}
+
+/* Built / not built, stated plainly rather than implied by omission. */
+.capability {
+  display: grid;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.capability li {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 0.875rem;
+}
+
+.capability__state {
+  flex: none;
+  min-width: 82px;
+}
+
+/* ==========================================================================
+   Evidence card, restructured as an official case file.
+   ========================================================================== */
+
+.casefile__ref {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 10px;
+  margin: 0 0 6px;
+  padding: 7px 10px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.casefile__ref b {
+  color: var(--gov-navy);
+  font-weight: 700;
+}
+
+.evidence__head h2 {
+  font-weight: 700;
+}
+
+.casefile__section {
+  margin-top: 20px;
+}
+
+.casefile__section > h3 {
+  margin: 0 0 9px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.09em;
+}
+
+.casefile__provenance {
+  margin-top: 22px;
+  padding-top: 12px;
+  border-top: 2px solid var(--border-strong);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.casefile__signals {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--gov-navy);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* ==========================================================================
+   Copilot, reframed as an official reference tool rather than a chat toy.
+   ========================================================================== */
+
+.copilot__ask input {
+  border-color: var(--border-strong);
+  border-radius: var(--radius);
+}
+
+.copilot__ask button {
+  background: var(--gov-navy);
+  border-radius: var(--radius);
+}
+
+.copilot__ask button:hover:not(:disabled) {
+  background: var(--gov-navy-dark);
+}
+
+.copilot__suggestions button {
+  border-style: solid;
+  border-color: var(--border-strong);
+  background: var(--bg-surface);
+  color: var(--text-muted);
+}
+
+.copilot__suggestions button:hover {
+  border-color: var(--gov-navy);
+  color: var(--text);
+}
+
+/* A citation card, so a clause on screen looks like something an officer can
+   put in a file rather than something a chat window said. */
+.copilot__answer {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--gov-navy);
+  border-radius: var(--radius);
+  background: var(--bg-surface);
+  padding: 14px 16px;
+}
+
+.copilot__sources li {
+  border-left-color: var(--saffron);
+}
+
+.copilot__cite {
+  color: var(--gov-navy);
+  font-weight: 700;
+  opacity: 1;
+}
+
+/* ==========================================================================
+   Narrow screens: the chrome must not push the content off the page.
+   ========================================================================== */
+
+@media (max-width: 720px) {
+  .gov-container {
+    padding: 0 14px;
+  }
+
+  .gov-masthead .gov-container {
+    flex-wrap: wrap;
+  }
+
+  .gov-signedin {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .gov-nav__item {
+    padding: 10px 12px;
+  }
+
+  .app {
+    padding: 16px 14px 32px;
+  }
+}
